@@ -1,0 +1,500 @@
+{
+  "title": "Salient Features of the Indian Constitution",
+  "subject": "Polity",
+  "exam": [
+    "SSC",
+    "Railway"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "भारतीय संविधान को विश्व का सबसे लंबा लिखित संविधान क्यों कहा जाता है? / Why is the Indian Constitution known as the world's lengthiest written constitution?",
+      "opts": [
+        "केवल मौलिक अधिकार हैं / Only Fundamental Rights",
+        "शासन और अनेक विषयों के विस्तृत प्रावधान हैं / It has detailed provisions on governance and many subjects",
+        "केवल न्यायपालिका का वर्णन है / It describes only the judiciary",
+        "इसमें संशोधन नहीं हो सकता / It cannot be amended"
+      ],
+      "a": 1,
+      "exp": "भारतीय संविधान में केंद्र, राज्यों, संस्थाओं, अधिकारों और अनेक विषयों के विस्तृत प्रावधान हैं. / It contains detailed provisions on the Union, States, institutions, rights and many subjects."
+    },
+    {
+      "id": 2,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "मूल संविधान में कितने अनुच्छेद, भाग और अनुसूचियाँ थीं? / How many Articles, Parts and Schedules were in the original Constitution?",
+      "opts": [
+        "395, 22, 8",
+        "448, 25, 12",
+        "389, 22, 10",
+        "395, 24, 12"
+      ],
+      "a": 0,
+      "exp": "मूल संविधान में 395 अनुच्छेद, 22 भाग और 8 अनुसूचियाँ थीं. / The original Constitution had 395 Articles, 22 Parts and 8 Schedules."
+    },
+    {
+      "id": 3,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "भारतीय संसदीय शासन प्रणाली मुख्यतः किस देश से ली गई है? / India's parliamentary system was mainly borrowed from which country?",
+      "opts": [
+        "अमेरिका / USA",
+        "ब्रिटेन / United Kingdom",
+        "कनाडा / Canada",
+        "आयरलैंड / Ireland"
+      ],
+      "a": 1,
+      "exp": "भारत ने संसदीय शासन प्रणाली की प्रमुख विशेषताएँ ब्रिटेन से ग्रहण कीं. / India adopted key features of parliamentary government from the United Kingdom."
+    },
+    {
+      "id": 4,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "संविधान संशोधन की प्रक्रिया मुख्यतः किस अनुच्छेद में दी गई है? / Which Article primarily provides the procedure for constitutional amendment?",
+      "opts": [
+        "अनुच्छेद 32 / Article 32",
+        "अनुच्छेद 110 / Article 110",
+        "अनुच्छेद 368 / Article 368",
+        "अनुच्छेद 356 / Article 356"
+      ],
+      "a": 2,
+      "exp": "अनुच्छेद 368 संविधान संशोधन की संसद की शक्ति और प्रक्रिया से संबंधित है. / Article 368 concerns Parliament's power and procedure to amend the Constitution."
+    },
+    {
+      "id": 5,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "ब्रिटेन की संवैधानिक व्यवस्था की प्रमुख विशेषता क्या है? / What is a major feature of the UK's constitutional system?",
+      "opts": [
+        "एक ही दस्तावेज में पूरा संविधान / Entirely in one document",
+        "असंहिताबद्ध संविधान / Uncodified constitution",
+        "संघीय राष्ट्रपति प्रणाली / Federal presidential system",
+        "संशोधन पर प्रतिबंध / Amendments prohibited"
+      ],
+      "a": 1,
+      "exp": "ब्रिटेन का संविधान एक ही दस्तावेज में पूरी तरह संहिताबद्ध नहीं है; यह कानूनों, परंपराओं और न्यायिक निर्णयों पर आधारित है. / The UK constitution is not fully codified in one document; it draws on statutes, conventions and judicial decisions."
+    },
+    {
+      "id": 6,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "केंद्रीय मंत्रिपरिषद सामूहिक रूप से किसके प्रति उत्तरदायी है? / To whom is the Union Council of Ministers collectively responsible?",
+      "opts": [
+        "राज्यसभा / Rajya Sabha",
+        "राष्ट्रपति / President",
+        "लोकसभा / Lok Sabha",
+        "सर्वोच्च न्यायालय / Supreme Court"
+      ],
+      "a": 2,
+      "exp": "अनुच्छेद 75(3) के अनुसार केंद्रीय मंत्रिपरिषद लोकसभा के प्रति सामूहिक रूप से उत्तरदायी है. / Article 75(3) makes the Union Council of Ministers collectively responsible to the Lok Sabha."
+    },
+    {
+      "id": 7,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "संघवाद का सबसे उपयुक्त अर्थ क्या है? / What is the best meaning of federalism?",
+      "opts": [
+        "सारी शक्ति केंद्र के पास / All power with the Centre",
+        "सरकार के स्तरों में संवैधानिक शक्तिविभाजन / Constitutional division of powers between levels of government",
+        "न्यायपालिका का अंत / Abolition of judiciary",
+        "केवल स्थानीय शासन / Local government only"
+      ],
+      "a": 1,
+      "exp": "संघवाद में संविधान केंद्र और राज्यों/क्षेत्रीय सरकारों के बीच शक्तियों का बँटवारा करता है. / Federalism constitutionally distributes powers between central and regional or state governments."
+    },
+    {
+      "id": 8,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "कौन-सी भारतीय संविधान की संघीय विशेषता है? / Which is a federal feature of the Indian Constitution?",
+      "opts": [
+        "एकल नागरिकता / Single citizenship",
+        "शक्तियों का संवैधानिक विभाजन / Constitutional division of powers",
+        "एकीकृत न्यायपालिका / Integrated judiciary",
+        "राज्यपाल की नियुक्ति केंद्र द्वारा / Governors appointed by Centre"
+      ],
+      "a": 1,
+      "exp": "संघ और राज्यों के बीच विधायी शक्तियों का संवैधानिक विभाजन संघीय विशेषता है. / Constitutional division of legislative powers between Union and States is a federal feature."
+    },
+    {
+      "id": 9,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "कौन-सी विशेषता भारत के एकात्मक झुकाव को दर्शाती है? / Which feature reflects India's unitary tendency?",
+      "opts": [
+        "लिखित संविधान / Written Constitution",
+        "संविधान की सर्वोच्चता / Constitutional supremacy",
+        "एकल नागरिकता / Single citizenship",
+        "स्वतंत्र न्यायपालिका / Independent judiciary"
+      ],
+      "a": 2,
+      "exp": "भारत में केंद्र और राज्यों के लिए अलग-अलग नागरिकता नहीं है; एकल नागरिकता एकात्मक झुकाव है. / India has one citizenship, reflecting a unitary tendency."
+    },
+    {
+      "id": 10,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "भारतीय संविधान को 'अर्ध-संघीय' किस विद्वान ने कहा? / Which scholar described the Indian Constitution as quasi-federal?",
+      "opts": [
+        "के. सी. व्हीयर / K. C. Wheare",
+        "ग्रेनविल ऑस्टिन / Granville Austin",
+        "आइवर जेनिंग्स / Ivor Jennings",
+        "ए. वी. डायसी / A. V. Dicey"
+      ],
+      "a": 0,
+      "exp": "के. सी. व्हीयर ने भारत को quasi-federal कहा, क्योंकि इसमें संघीय और एकात्मक दोनों विशेषताएँ हैं. / K. C. Wheare called India quasi-federal because it combines federal and unitary features."
+    },
+    {
+      "id": 11,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "भारतीय संविधान में केंद्रीकरण की प्रवृत्ति से कौन-से विद्वान जुड़े हैं? / Which scholar is associated with the centralising tendency in India's Constitution?",
+      "opts": [
+        "आइवर जेनिंग्स / Ivor Jennings",
+        "के. सी. व्हीयर / K. C. Wheare",
+        "मोंटेस्क्यू / Montesquieu",
+        "जॉन लॉक / John Locke"
+      ],
+      "a": 0,
+      "exp": "आइवर जेनिंग्स ने भारतीय व्यवस्था में केंद्र की ओर झुकाव की प्रवृत्ति पर जोर दिया. / Ivor Jennings highlighted the centralising tendency in India's constitutional system."
+    },
+    {
+      "id": 12,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "भारतीय संघवाद में सहकारी संघवाद के विचार से कौन विशेष रूप से जुड़े हैं? / Who is particularly associated with cooperative federalism in India?",
+      "opts": [
+        "ग्रेनविल ऑस्टिन / Granville Austin",
+        "के. सी. व्हीयर / K. C. Wheare",
+        "आइवर जेनिंग्स / Ivor Jennings",
+        "हेरॉल्ड लास्की / Harold Laski"
+      ],
+      "a": 0,
+      "exp": "ग्रेनविल ऑस्टिन ने भारतीय संघवाद में सहयोग और समन्वय के महत्व को रेखांकित किया. / Granville Austin highlighted cooperation and coordination in Indian federalism."
+    },
+    {
+      "id": 13,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "अखिल भारतीय सेवाएँ किस विशेषता को मजबूत करती हैं? / All India Services strengthen which feature?",
+      "opts": [
+        "राज्यों की पूर्ण संप्रभुता / Complete State sovereignty",
+        "केंद्र-राज्य प्रशासनिक एकता / Union-State administrative integration",
+        "न्यायिक समीक्षा का निषेध / Ban on judicial review",
+        "द्वैध नागरिकता / Dual citizenship"
+      ],
+      "a": 1,
+      "exp": "अखिल भारतीय सेवाएँ साझा प्रशासनिक ढाँचा बनाकर केंद्र और राज्यों के बीच समन्वय बढ़ाती हैं. / All India Services create a shared administrative framework and improve Union-State coordination."
+    },
+    {
+      "id": 14,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "शक्तियों के पृथक्करण के सिद्धांत के अनुसार कानून कौन बनाता है? / Under separation of powers, which organ makes laws?",
+      "opts": [
+        "कार्यपालिका / Executive",
+        "विधायिका / Legislature",
+        "न्यायपालिका / Judiciary",
+        "निर्वाचन आयोग / Election Commission"
+      ],
+      "a": 1,
+      "exp": "विधायिका कानून बनाती है, कार्यपालिका उन्हें लागू करती है और न्यायपालिका उनकी व्याख्या करती है. / The legislature makes laws, the executive implements them and the judiciary interprets them."
+    },
+    {
+      "id": 15,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "पहली अनुसूची में मुख्यतः क्या दिया गया है? / What is mainly listed in the First Schedule?",
+      "opts": [
+        "भाषाएँ / Languages",
+        "राज्यों और केंद्रशासित प्रदेशों के नाम व क्षेत्र / States, UTs and their territories",
+        "शपथ के प्रारूप / Oaths",
+        "राज्यसभा सीटें / Rajya Sabha seats"
+      ],
+      "a": 1,
+      "exp": "पहली अनुसूची राज्यों और केंद्रशासित प्रदेशों के नाम तथा उनके क्षेत्र बताती है. / The First Schedule lists States, Union Territories and their territories."
+    },
+    {
+      "id": 16,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "दूसरी अनुसूची किससे संबंधित है? / The Second Schedule relates to what?",
+      "opts": [
+        "निर्दिष्ट संवैधानिक पदों के वेतन-भत्ते / Salaries and allowances of specified constitutional offices",
+        "भाषाएँ / Languages",
+        "नगरपालिका विषय / Municipal subjects",
+        "दल-बदल / Defection"
+      ],
+      "a": 0,
+      "exp": "दूसरी अनुसूची निर्दिष्ट संवैधानिक पदों के वेतन, भत्ते आदि से संबंधित है. / The Second Schedule covers salaries, allowances and related provisions for specified constitutional offices."
+    },
+    {
+      "id": 17,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "तीसरी अनुसूची में क्या शामिल है? / What does the Third Schedule contain?",
+      "opts": [
+        "राज्यसभा सीटें / Rajya Sabha seats",
+        "शपथ और प्रतिज्ञान के प्रारूप / Forms of oaths and affirmations",
+        "अनुसूचित क्षेत्रों का प्रशासन / Scheduled Area administration",
+        "नगरपालिका कार्य / Municipal functions"
+      ],
+      "a": 1,
+      "exp": "तीसरी अनुसूची विभिन्न पदों और सदस्यों के लिए शपथ/प्रतिज्ञान के प्रारूप देती है. / The Third Schedule provides forms of oaths and affirmations for specified offices and members."
+    },
+    {
+      "id": 18,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "चौथी अनुसूची किससे संबंधित है? / The Fourth Schedule deals with what?",
+      "opts": [
+        "राज्यसभा सीटों का आवंटन / Allocation of Rajya Sabha seats",
+        "राज्य सीमाएँ / State boundaries",
+        "भाषाएँ / Languages",
+        "पंचायत विषय / Panchayat subjects"
+      ],
+      "a": 0,
+      "exp": "चौथी अनुसूची राज्यसभा में राज्यों और निर्दिष्ट केंद्रशासित प्रदेशों की सीटों के आवंटन से संबंधित है. / The Fourth Schedule concerns allocation of Rajya Sabha seats to States and specified UTs."
+    },
+    {
+      "id": 19,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "पाँचवीं अनुसूची मुख्यतः किससे संबंधित है? / The Fifth Schedule primarily concerns what?",
+      "opts": [
+        "छठी अनुसूची के सभी क्षेत्र / All Sixth Schedule areas",
+        "छठी अनुसूची से बाहर निर्दिष्ट राज्यों के अनुसूचित क्षेत्र और जनजातियाँ / Scheduled Areas and Tribes in specified States outside Sixth Schedule areas",
+        "सभी नगरपालिकाएँ / All municipalities",
+        "केवल केंद्रशासित प्रदेश / UTs only"
+      ],
+      "a": 1,
+      "exp": "पाँचवीं अनुसूची छठी अनुसूची वाले क्षेत्रों से अलग, निर्दिष्ट राज्यों के अनुसूचित क्षेत्रों और जनजातियों के प्रशासन से संबंधित है. / It concerns Scheduled Areas and Tribes in specified States outside Sixth Schedule areas."
+    },
+    {
+      "id": 20,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "छठी अनुसूची किन राज्यों के कुछ जनजातीय क्षेत्रों से संबंधित है? / The Sixth Schedule concerns certain tribal areas in which States?",
+      "opts": [
+        "असम, मेघालय, त्रिपुरा, मिजोरम / Assam, Meghalaya, Tripura, Mizoram",
+        "राजस्थान, गुजरात, महाराष्ट्र, गोवा / Rajasthan, Gujarat, Maharashtra, Goa",
+        "पंजाब, हरियाणा, हिमाचल, उत्तराखंड / Punjab, Haryana, Himachal, Uttarakhand",
+        "सभी राज्य / All States"
+      ],
+      "a": 0,
+      "exp": "छठी अनुसूची असम, मेघालय, त्रिपुरा और मिजोरम के निर्दिष्ट जनजातीय क्षेत्रों के प्रशासन की विशेष व्यवस्था करती है. / It provides special arrangements for specified tribal areas in these four States."
+    },
+    {
+      "id": 21,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "संघ और राज्यों के बीच विधायी विषयों के वितरण का प्रमुख अनुच्छेद कौन-सा है? / Which Article is key to distributing legislative subjects between Union and States?",
+      "opts": [
+        "अनुच्छेद 14 / Article 14",
+        "अनुच्छेद 21 / Article 21",
+        "अनुच्छेद 246 / Article 246",
+        "अनुच्छेद 324 / Article 324"
+      ],
+      "a": 2,
+      "exp": "अनुच्छेद 246 सातवीं अनुसूची की संघ, राज्य और समवर्ती सूचियों के विषयों पर विधायी शक्तियों के वितरण से संबंधित है. / Article 246 distributes legislative powers over the Union, State and Concurrent Lists."
+    },
+    {
+      "id": 22,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "कौन-सा विषय संघ सूची में आता है? / Which subject belongs to the Union List?",
+      "opts": [
+        "लोक व्यवस्था / Public order",
+        "रक्षा / Defence",
+        "कृषि / Agriculture",
+        "पुलिस / Police"
+      ],
+      "a": 1,
+      "exp": "रक्षा संघ सूची में है; लोक व्यवस्था, पुलिस और कृषि सामान्यतः राज्य सूची में हैं. / Defence is in the Union List; public order, police and agriculture are generally State List subjects."
+    },
+    {
+      "id": 23,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "कौन-सा विषय राज्य सूची में आता है? / Which subject belongs to the State List?",
+      "opts": [
+        "रक्षा / Defence",
+        "विदेश मामले / Foreign affairs",
+        "लोक व्यवस्था / Public order",
+        "नागरिकता / Citizenship"
+      ],
+      "a": 2,
+      "exp": "लोक व्यवस्था राज्य सूची में है, जबकि रक्षा, विदेश मामले और नागरिकता संघ सूची में हैं. / Public order is in the State List, while defence, foreign affairs and citizenship are in the Union List."
+    },
+    {
+      "id": 24,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "विवाह और तलाक किस सूची के विषय हैं? / Marriage and divorce fall under which List?",
+      "opts": [
+        "संघ सूची / Union List",
+        "राज्य सूची / State List",
+        "समवर्ती सूची / Concurrent List",
+        "किसी में नहीं / Neither"
+      ],
+      "a": 2,
+      "exp": "विवाह और तलाक समवर्ती सूची में हैं; दोनों स्तरों पर कानून बन सकते हैं, संवैधानिक सीमाओं के अधीन. / Marriage and divorce are in the Concurrent List, where both Parliament and State Legislatures may legislate within constitutional limits."
+    },
+    {
+      "id": 25,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "अवशिष्ट विधायी शक्तियाँ सामान्यतः किसके पास हैं? / Who generally holds residuary legislative powers in India?",
+      "opts": [
+        "राज्य विधानमंडल / State Legislatures",
+        "संसद / Parliament",
+        "ग्राम पंचायत / Gram Panchayats",
+        "उच्च न्यायालय / High Courts"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 248 और संघ सूची की संबंधित प्रविष्टि के तहत अवशिष्ट विषयों पर कानून बनाने की शक्ति संसद के पास है. / Under Article 248 and the relevant Union List entry, Parliament legislates on residuary subjects."
+    },
+    {
+      "id": 26,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "42वें संशोधन, 1976 द्वारा किन विषयों को राज्य सूची से समवर्ती सूची में स्थानांतरित किया गया? / Which subjects were shifted to the Concurrent List by the 42nd Amendment, 1976?",
+      "opts": [
+        "रक्षा और विदेश मामले / Defence and foreign affairs",
+        "शिक्षा और वन / Education and forests",
+        "पुलिस और लोक व्यवस्था / Police and public order",
+        "बैंकिंग और मुद्रा / Banking and currency"
+      ],
+      "a": 1,
+      "exp": "42वें संशोधन ने शिक्षा और वन सहित कुछ विषयों को समवर्ती सूची में स्थानांतरित किया. / The 42nd Amendment moved certain subjects, including education and forests, to the Concurrent List."
+    },
+    {
+      "id": 27,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Hard",
+      "q": "राष्ट्रीय हित में राज्य सूची के विषय पर संसद को कानून बनाने की अनुमति कौन-सा अनुच्छेद देता है? / Which Article allows Parliament to legislate on a State List subject in the national interest?",
+      "opts": [
+        "अनुच्छेद 249 / Article 249",
+        "अनुच्छेद 280 / Article 280",
+        "अनुच्छेद 300A / Article 300A",
+        "अनुच्छेद 368 / Article 368"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 249 के तहत राज्यसभा उपस्थित और मतदान करने वाले सदस्यों के कम-से-कम दो-तिहाई बहुमत से राष्ट्रीय हित का प्रस्ताव पारित कर सकती है. / Under Article 249, the Rajya Sabha may pass a national-interest resolution by a two-thirds majority of members present and voting."
+    },
+    {
+      "id": 28,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Easy",
+      "q": "आठवीं अनुसूची में वर्तमान में कितनी भाषाएँ हैं? / How many languages are currently in the Eighth Schedule?",
+      "opts": [
+        "14",
+        "18",
+        "22",
+        "24"
+      ],
+      "a": 2,
+      "exp": "आठवीं अनुसूची में 22 भाषाएँ शामिल हैं. / The Eighth Schedule includes 22 languages."
+    },
+    {
+      "id": 29,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "सिंधी भाषा को आठवीं अनुसूची में किस संशोधन द्वारा जोड़ा गया? / Sindhi was added to the Eighth Schedule by which Amendment?",
+      "opts": [
+        "21वाँ / 21st",
+        "42वाँ / 42nd",
+        "71वाँ / 71st",
+        "92वाँ / 92nd"
+      ],
+      "a": 0,
+      "exp": "21वें संविधान संशोधन अधिनियम, 1967 द्वारा सिंधी को आठवीं अनुसूची में जोड़ा गया. / Sindhi was added by the 21st Constitutional Amendment Act, 1967."
+    },
+    {
+      "id": 30,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "92वें संशोधन द्वारा कौन-सी भाषाएँ आठवीं अनुसूची में जोड़ी गईं? / Which languages were added by the 92nd Amendment?",
+      "opts": [
+        "कोंकणी, मणिपुरी, नेपाली / Konkani, Manipuri, Nepali",
+        "बोडो, डोगरी, मैथिली, संथाली / Bodo, Dogri, Maithili, Santhali",
+        "सिंधी, उर्दू, कश्मीरी / Sindhi, Urdu, Kashmiri",
+        "अंग्रेज़ी, तुलु, भोजपुरी / English, Tulu, Bhojpuri"
+      ],
+      "a": 1,
+      "exp": "92वें संविधान संशोधन अधिनियम, 2003 ने बोडो, डोगरी, मैथिली और संथाली को जोड़ा. / The 92nd Amendment Act, 2003 added Bodo, Dogri, Maithili and Santhali."
+    },
+    {
+      "id": 31,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "नौवीं अनुसूची मूलतः किस प्रकार के कानूनों को संरक्षण देने के लिए जोड़ी गई थी? / The Ninth Schedule was originally introduced to protect which laws?",
+      "opts": [
+        "भूमि सुधार कानून / Land reform laws",
+        "नगरपालिका चुनाव नियम / Municipal election rules",
+        "विदेश नीति कानून / Foreign policy laws",
+        "भाषा कानून / Language laws"
+      ],
+      "a": 0,
+      "exp": "पहले संशोधन अधिनियम, 1951 ने नौवीं अनुसूची जोड़ी; प्रारंभिक उद्देश्य भूमि सुधार कानूनों को संरक्षण देना था. न्यायिक समीक्षा पूरी तरह समाप्त नहीं है. / The First Amendment, 1951 introduced the Ninth Schedule initially to protect land reform laws; judicial review is not entirely excluded."
+    },
+    {
+      "id": 32,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "दल-बदल विरोधी प्रावधान किस अनुसूची में हैं? / Anti-defection provisions are in which Schedule?",
+      "opts": [
+        "आठवीं / Eighth",
+        "नौवीं / Ninth",
+        "दसवीं / Tenth",
+        "ग्यारहवीं / Eleventh"
+      ],
+      "a": 2,
+      "exp": "दसवीं अनुसूची में दल-बदल के आधार पर अयोग्यता के प्रावधान हैं; इसे 52वें संशोधन, 1985 द्वारा जोड़ा गया. / The Tenth Schedule contains anti-defection provisions and was added by the 52nd Amendment, 1985."
+    },
+    {
+      "id": 33,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "ग्यारहवीं अनुसूची किससे संबंधित है और इसमें कितने विषय हैं? / What does the Eleventh Schedule relate to and how many subjects does it contain?",
+      "opts": [
+        "नगरपालिकाएँ; 18 / Municipalities; 18",
+        "पंचायतें; 29 / Panchayats; 29",
+        "भाषाएँ; 22 / Languages; 22",
+        "दल-बदल; 10 / Defection; 10"
+      ],
+      "a": 1,
+      "exp": "ग्यारहवीं अनुसूची पंचायतों से संबंधित है और इसमें 29 विषय हैं; इसे 73वें संशोधन से जोड़ा गया. / The Eleventh Schedule relates to Panchayats and contains 29 subjects; it was added by the 73rd Amendment."
+    },
+    {
+      "id": 34,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "बारहवीं अनुसूची किससे संबंधित है? / The Twelfth Schedule relates to what?",
+      "opts": [
+        "पंचायतें और 29 विषय / Panchayats and 29 subjects",
+        "नगरपालिकाएँ और 18 विषय / Municipalities and 18 subjects",
+        "राज्यसभा सीटें / Rajya Sabha seats",
+        "शपथ के प्रारूप / Oaths"
+      ],
+      "a": 1,
+      "exp": "बारहवीं अनुसूची नगरपालिकाओं से संबंधित है और इसमें 18 विषय हैं; इसे 74वें संशोधन से जोड़ा गया. / The Twelfth Schedule concerns Municipalities and contains 18 subjects; it was added by the 74th Amendment."
+    },
+    {
+      "id": 35,
+      "topic": "Salient Features of the Constitution",
+      "difficulty": "Medium",
+      "q": "कथनों पर विचार करें: 1. सातवीं अनुसूची में तीन सूचियाँ हैं। 2. अवशिष्ट शक्तियाँ संसद के पास हैं। 3. बारहवीं अनुसूची पंचायतों से संबंधित है। सही विकल्प चुनें। / Consider: 1. The Seventh Schedule has three Lists. 2. Parliament holds residuary powers. 3. The Twelfth Schedule relates to Panchayats. Choose the correct option.",
+      "opts": [
+        "केवल 1 और 2 / 1 and 2 only",
+        "केवल 2 और 3 / 2 and 3 only",
+        "केवल 1 और 3 / 1 and 3 only",
+        "सभी 1, 2 और 3 / All three"
+      ],
+      "a": 0,
+      "exp": "कथन 1 और 2 सही हैं. कथन 3 गलत है: पंचायतें ग्यारहवीं और नगरपालिकाएँ बारहवीं अनुसूची में हैं. / Statements 1 and 2 are correct. Statement 3 is false: Panchayats are in the Eleventh Schedule and Municipalities in the Twelfth."
+    }
+  ]
+}
