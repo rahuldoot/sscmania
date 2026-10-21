@@ -118,3 +118,66 @@
     box-sizing: border-box;
   }
 }
+
+/* SSC Mania: softer corners, better spacing and premium sizing */
+.hero {
+  border-radius: 30px;
+  padding: 52px 54px;
+}
+
+.hero .primary.big {
+  border-radius: 16px;
+  padding: 17px 25px;
+  font-size: 17px;
+}
+
+.exam-card {
+  border-radius: 22px;
+  padding: 27px;
+  min-height: 128px;
+}
+
+.benefits {
+  border-radius: 22px;
+  padding: 28px;
+}
+
+.benefits > div {
+  border-radius: 14px;
+  padding: 8px;
+}
+
+.motivation {
+  border-radius: 18px;
+  padding: 24px;
+  font-size: 17px;
+}
+
+@media (max-width: 700px) {
+  .hero {
+    border-radius: 23px;
+    padding: 30px 23px;
+  }
+
+  .hero .primary.big {
+    padding: 14px 18px;
+    font-size: 15px;
+  }
+
+  .exam-card {
+    border-radius: 19px;
+    padding: 19px;
+    min-height: 105px;
+  }
+
+  .benefits {
+    border-radius: 19px;
+    padding: 18px;
+  }
+
+  .motivation {
+    border-radius: 15px;
+    padding: 17px;
+    font-size: 14px;
+  }
+}
