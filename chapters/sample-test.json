@@ -1,0 +1,430 @@
+{
+  "title": "Making of the Constitution",
+  "subject": "Polity",
+  "exam": [
+    "SSC",
+    "Railway"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Constituent Assembly",
+      "difficulty": "Easy",
+      "q": "संविधान सभा का विचार सबसे पहले किसने प्रस्तावित किया? / Who first proposed the idea of a Constituent Assembly?",
+      "opts": [
+        "एम. एन. रॉय / M. N. Roy",
+        "जवाहरलाल नेहरू / Jawaharlal Nehru",
+        "महात्मा गांधी / Mahatma Gandhi",
+        "डॉ. बी. आर. अम्बेडकर / Dr. B. R. Ambedkar"
+      ],
+      "a": 0,
+      "exp": "स्रोत के अनुसार, 1934 में एम. एन. रॉय ने यह विचार प्रस्तावित किया था. / The source says M. N. Roy proposed the idea in 1934."
+    },
+    {
+      "id": 2,
+      "topic": "Constituent Assembly",
+      "difficulty": "Easy",
+      "q": "कांग्रेस ने संविधान सभा की मांग आधिकारिक रूप से कब की? / When did Congress officially demand a Constituent Assembly?",
+      "opts": [
+        "1928",
+        "1934",
+        "1935",
+        "1940"
+      ],
+      "a": 2,
+      "exp": "स्रोत के अनुसार, कांग्रेस ने 1935 में आधिकारिक मांग की. / Congress officially demanded it in 1935."
+    },
+    {
+      "id": 3,
+      "topic": "Constituent Assembly",
+      "difficulty": "Easy",
+      "q": "1928 की नेहरू रिपोर्ट से संबंधित सम्मेलन की अध्यक्षता किसने की? / Who chaired the conference associated with the 1928 Nehru Report?",
+      "opts": [
+        "जवाहरलाल नेहरू",
+        "मोतीलाल नेहरू",
+        "सरदार पटेल",
+        "डॉ. राजेंद्र प्रसाद"
+      ],
+      "a": 1,
+      "exp": "मोतीलाल नेहरू ने All Parties Conference की अध्यक्षता की. / Motilal Nehru chaired the All Parties Conference."
+    },
+    {
+      "id": 4,
+      "topic": "Constituent Assembly",
+      "difficulty": "Easy",
+      "q": "अगस्त प्रस्ताव किस वर्ष आया? / In which year was the August Offer made?",
+      "opts": [
+        "1935",
+        "1940",
+        "1942",
+        "1946"
+      ],
+      "a": 1,
+      "exp": "अगस्त प्रस्ताव 1940 में आया. / The August Offer came in 1940."
+    },
+    {
+      "id": 5,
+      "topic": "Constituent Assembly",
+      "difficulty": "Easy",
+      "q": "क्रिप्स प्रस्ताव किस वर्ष आया? / In which year did the Cripps Proposal come?",
+      "opts": [
+        "1940",
+        "1942",
+        "1945",
+        "1946"
+      ],
+      "a": 1,
+      "exp": "क्रिप्स प्रस्ताव 1942 में आया. / The Cripps Proposal came in 1942."
+    },
+    {
+      "id": 6,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Easy",
+      "q": "कैबिनेट मिशन भारत कब आया? / When did the Cabinet Mission come to India?",
+      "opts": [
+        "1942",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "a": 2,
+      "exp": "कैबिनेट मिशन योजना 1946 से संबंधित थी. / The Cabinet Mission Plan dates to 1946."
+    },
+    {
+      "id": 7,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Easy",
+      "q": "कैबिनेट मिशन में कितने सदस्य थे? / How many members were in the Cabinet Mission?",
+      "opts": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "a": 1,
+      "exp": "तीन सदस्य थे: पेथिक-लॉरेंस, स्टैफर्ड क्रिप्स और ए. वी. अलेक्जेंडर. / It had three members: Pethick-Lawrence, Stafford Cripps, and A. V. Alexander."
+    },
+    {
+      "id": 8,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Easy",
+      "q": "कैबिनेट मिशन योजना के अनुसार संविधान सभा की कुल प्रस्तावित सदस्य संख्या कितनी थी? / What was the proposed total strength of the Constituent Assembly?",
+      "opts": [
+        "299",
+        "389",
+        "395",
+        "296"
+      ],
+      "a": 1,
+      "exp": "प्रस्तावित कुल संख्या 389 थी. / The proposed total strength was 389."
+    },
+    {
+      "id": 9,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Medium",
+      "q": "ब्रिटिश भारत के लिए कितने प्रतिनिधि निर्धारित थे? / How many representatives were allocated to British India?",
+      "opts": [
+        "292",
+        "296",
+        "389",
+        "93"
+      ],
+      "a": 1,
+      "exp": "ब्रिटिश भारत के लिए 296 प्रतिनिधि निर्धारित थे. / British India was allocated 296 representatives."
+    },
+    {
+      "id": 10,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Medium",
+      "q": "देशी रियासतों के लिए कितने सदस्य निर्धारित थे? / How many members were allocated to princely states?",
+      "opts": [
+        "73",
+        "93",
+        "96",
+        "99"
+      ],
+      "a": 1,
+      "exp": "देशी रियासतों के लिए 93 सदस्य निर्धारित थे. / The princely states were allocated 93 members."
+    },
+    {
+      "id": 11,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Hard",
+      "q": "296 ब्रिटिश भारतीय प्रतिनिधियों में से कितने 11 गवर्नर प्रांतों से आने थे? / How many of the 296 British Indian representatives were from the 11 Governor’s Provinces?",
+      "opts": [
+        "292",
+        "296",
+        "4",
+        "389"
+      ],
+      "a": 0,
+      "exp": "292 प्रतिनिधि 11 गवर्नर प्रांतों से और 4 चीफ कमिश्नर प्रांतों से थे. / The source says 292 from Governor’s Provinces and 4 from Chief Commissioners’ Provinces."
+    },
+    {
+      "id": 12,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Medium",
+      "q": "संविधान सभा के चुनाव किस प्रकार हुए? / How were Constituent Assembly members elected?",
+      "opts": [
+        "प्रत्यक्ष / Direct",
+        "वयस्क मताधिकार / Adult franchise",
+        "अप्रत्यक्ष / Indirect",
+        "राष्ट्रपति द्वारा / By President"
+      ],
+      "a": 2,
+      "exp": "चुनाव अप्रत्यक्ष थे; आनुपातिक प्रतिनिधित्व और एकल संक्रमणीय मत प्रणाली का उपयोग हुआ. / Elections were indirect, using proportional representation and the single transferable vote."
+    },
+    {
+      "id": 13,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Medium",
+      "q": "1946 के चुनाव में कांग्रेस को कितनी सीटें मिलीं? / How many seats did Congress win in the 1946 elections?",
+      "opts": [
+        "73",
+        "208",
+        "229",
+        "296"
+      ],
+      "a": 1,
+      "exp": "स्रोत के अनुसार कांग्रेस 208, मुस्लिम लीग 73 और अन्य/निर्दलीय 15. / Congress 208, Muslim League 73, others/independents 15."
+    },
+    {
+      "id": 14,
+      "topic": "Cabinet Mission Plan",
+      "difficulty": "Medium",
+      "q": "विभाजन के बाद भारतीय संविधान सभा की सदस्य संख्या कितनी रह गई? / What was the revised strength after Partition?",
+      "opts": [
+        "389",
+        "296",
+        "299",
+        "284"
+      ],
+      "a": 2,
+      "exp": "विभाजन के बाद सदस्य संख्या 299 रह गई. / After Partition, the strength was revised to 299."
+    },
+    {
+      "id": 15,
+      "topic": "Constituent Assembly",
+      "difficulty": "Easy",
+      "q": "संविधान सभा की पहली बैठक कब हुई? / When was the first meeting held?",
+      "opts": [
+        "9 दिसंबर 1946",
+        "13 दिसंबर 1946",
+        "22 जनवरी 1947",
+        "26 नवंबर 1949"
+      ],
+      "a": 0,
+      "exp": "पहली बैठक 9 दिसंबर 1946 को हुई. / The first meeting was held on 9 December 1946."
+    },
+    {
+      "id": 16,
+      "topic": "Constituent Assembly",
+      "difficulty": "Medium",
+      "q": "संविधान सभा के अस्थायी अध्यक्ष कौन थे? / Who was the temporary President?",
+      "opts": [
+        "डॉ. राजेंद्र प्रसाद",
+        "एच. सी. मुखर्जी",
+        "सच्चिदानंद सिन्हा",
+        "बी. एन. राव"
+      ],
+      "a": 2,
+      "exp": "सच्चिदानंद सिन्हा अस्थायी अध्यक्ष थे. / Sachchidananda Sinha was the temporary President."
+    },
+    {
+      "id": 17,
+      "topic": "Constituent Assembly",
+      "difficulty": "Easy",
+      "q": "संविधान सभा के स्थायी अध्यक्ष कौन थे? / Who was the permanent President?",
+      "opts": [
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. अम्बेडकर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "a": 0,
+      "exp": "डॉ. राजेंद्र प्रसाद स्थायी अध्यक्ष थे. / Dr. Rajendra Prasad was the permanent President."
+    },
+    {
+      "id": 18,
+      "topic": "Objective Resolution",
+      "difficulty": "Easy",
+      "q": "उद्देश्य प्रस्ताव किसने प्रस्तुत किया? / Who introduced the Objective Resolution?",
+      "opts": [
+        "सरदार पटेल",
+        "जवाहरलाल नेहरू",
+        "डॉ. अम्बेडकर",
+        "डॉ. राजेंद्र प्रसाद"
+      ],
+      "a": 1,
+      "exp": "जवाहरलाल नेहरू ने 13 दिसंबर 1946 को इसे प्रस्तुत किया. / Nehru introduced it on 13 December 1946."
+    },
+    {
+      "id": 19,
+      "topic": "Objective Resolution",
+      "difficulty": "Medium",
+      "q": "उद्देश्य प्रस्ताव कब स्वीकार किया गया? / When was the Objective Resolution adopted?",
+      "opts": [
+        "13 दिसंबर 1946",
+        "22 जनवरी 1947",
+        "15 अगस्त 1947",
+        "26 नवंबर 1949"
+      ],
+      "a": 1,
+      "exp": "यह 22 जनवरी 1947 को स्वीकार हुआ. / It was adopted on 22 January 1947."
+    },
+    {
+      "id": 20,
+      "topic": "Committees",
+      "difficulty": "Easy",
+      "q": "प्रारूप समिति के अध्यक्ष कौन थे? / Who chaired the Drafting Committee?",
+      "opts": [
+        "बी. एन. राव",
+        "डॉ. बी. आर. अम्बेडकर",
+        "के. एम. मुंशी",
+        "अल्लादी कृष्णस्वामी अय्यर"
+      ],
+      "a": 1,
+      "exp": "डॉ. बी. आर. अम्बेडकर प्रारूप समिति के अध्यक्ष थे. / Dr. B. R. Ambedkar chaired the Drafting Committee."
+    },
+    {
+      "id": 21,
+      "topic": "Committees",
+      "difficulty": "Medium",
+      "q": "प्रारूप समिति का गठन कब हुआ? / When was the Drafting Committee formed?",
+      "opts": [
+        "15 अगस्त 1947",
+        "29 अगस्त 1947",
+        "4 नवंबर 1948",
+        "26 नवंबर 1949"
+      ],
+      "a": 1,
+      "exp": "प्रारूप समिति का गठन 29 अगस्त 1947 को हुआ. / It was formed on 29 August 1947."
+    },
+    {
+      "id": 22,
+      "topic": "Committees",
+      "difficulty": "Medium",
+      "q": "प्रारूप समिति में कितने सदस्य थे? / How many members were on the Drafting Committee?",
+      "opts": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "a": 1,
+      "exp": "स्रोत के अनुसार समिति में 7 सदस्य थे. / The source lists seven members."
+    },
+    {
+      "id": 23,
+      "topic": "Committees",
+      "difficulty": "Medium",
+      "q": "संविधान सभा के संवैधानिक सलाहकार कौन थे? / Who was the Constitutional Adviser?",
+      "opts": [
+        "एस. एन. मुखर्जी",
+        "बी. एन. राव",
+        "एच. वी. अयंगर",
+        "के. एम. मुंशी"
+      ],
+      "a": 1,
+      "exp": "बी. एन. राव संवैधानिक सलाहकार थे. / B. N. Rau was the Constitutional Adviser."
+    },
+    {
+      "id": 24,
+      "topic": "Drafting Process",
+      "difficulty": "Medium",
+      "q": "संविधान का पहला प्रारूप कब प्रकाशित हुआ? / When was the first draft published?",
+      "opts": [
+        "29 अगस्त 1947",
+        "21 फरवरी 1948",
+        "4 नवंबर 1948",
+        "26 नवंबर 1949"
+      ],
+      "a": 1,
+      "exp": "स्रोत में तारीख 21 फरवरी 1948 दी गई है. / The source gives 21 February 1948."
+    },
+    {
+      "id": 25,
+      "topic": "Drafting Process",
+      "difficulty": "Medium",
+      "q": "अम्बेडकर ने प्रारूप संविधान सभा में कब प्रस्तुत किया? / When did Ambedkar introduce the draft Constitution?",
+      "opts": [
+        "21 फरवरी 1948",
+        "4 नवंबर 1948",
+        "17 अक्टूबर 1949",
+        "26 नवंबर 1949"
+      ],
+      "a": 1,
+      "exp": "अम्बेडकर ने 4 नवंबर 1948 को प्रारूप प्रस्तुत किया. / Ambedkar introduced it on 4 November 1948."
+    },
+    {
+      "id": 26,
+      "topic": "Drafting Process",
+      "difficulty": "Hard",
+      "q": "संविधान बनाने में कुल कितना समय लगा? / How long did framing the Constitution take?",
+      "opts": [
+        "2 वर्ष 6 माह 18 दिन",
+        "2 वर्ष 11 माह 18 दिन",
+        "3 वर्ष 1 माह",
+        "1 वर्ष 11 माह 18 दिन"
+      ],
+      "a": 1,
+      "exp": "स्रोत के अनुसार 2 वर्ष, 11 माह और 18 दिन. / The source states 2 years, 11 months, and 18 days."
+    },
+    {
+      "id": 27,
+      "topic": "Drafting Process",
+      "difficulty": "Medium",
+      "q": "संविधान सभा ने कुल कितने सत्र किए? / How many sessions did the Constituent Assembly hold?",
+      "opts": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "a": 2,
+      "exp": "स्रोत के अनुसार कुल 11 सत्र हुए. / The source states there were 11 sessions."
+    },
+    {
+      "id": 28,
+      "topic": "Adoption & Commencement",
+      "difficulty": "Easy",
+      "q": "संविधान कब अंगीकृत किया गया? / When was the Constitution adopted?",
+      "opts": [
+        "15 अगस्त 1947",
+        "26 नवंबर 1949",
+        "24 जनवरी 1950",
+        "26 जनवरी 1950"
+      ],
+      "a": 1,
+      "exp": "संविधान 26 नवंबर 1949 को अंगीकृत हुआ. / It was adopted on 26 November 1949."
+    },
+    {
+      "id": 29,
+      "topic": "Adoption & Commencement",
+      "difficulty": "Easy",
+      "q": "संविधान पूर्ण रूप से कब लागू हुआ? / When did the Constitution come into force?",
+      "opts": [
+        "26 नवंबर 1949",
+        "24 जनवरी 1950",
+        "26 जनवरी 1950",
+        "15 अगस्त 1950"
+      ],
+      "a": 2,
+      "exp": "संविधान 26 जनवरी 1950 को लागू हुआ. / It came into force on 26 January 1950."
+    },
+    {
+      "id": 30,
+      "topic": "Adoption & Commencement",
+      "difficulty": "Medium",
+      "q": "मूल संविधान में कितने अनुच्छेद, अनुसूचियाँ और भाग थे? / How many Articles, Schedules, and Parts were in the original Constitution?",
+      "opts": [
+        "395, 8, 22",
+        "448, 12, 25",
+        "389, 8, 22",
+        "395, 12, 22"
+      ],
+      "a": 0,
+      "exp": "मूल संविधान में 395 अनुच्छेद, 8 अनुसूचियाँ और 22 भाग थे. / The original Constitution had 395 Articles, 8 Schedules, and 22 Parts."
+    }
+  ]
+}
