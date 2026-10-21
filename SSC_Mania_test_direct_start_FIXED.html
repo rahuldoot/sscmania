@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="SSC Mania — free bilingual chapter-wise SSC practice tests"><title>SSC Mania | Chapter Practice Test</title>
+<style>
+:root{--sky:#45d4ef;--sky-deep:#11b9da;--sky-pale:#e9fbff;--yellow:#ffb900;--yellow-pale:#fff7db;--ink:#172337;--muted:#65758b;--line:#dce6ec;--bg:#f7fbfc;--red:#c4382d;--red-pale:#fff0ee;--green:#22b366;--green-pale:#e8f8ef;--purple:#9654b8;--purple-pale:#f4e8fb;--white:#fff;--shadow:0 8px 26px #1830440b}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--ink)}button,select{font:inherit}button{cursor:pointer}header{background:var(--white);border-bottom:3px solid var(--sky);padding:10px clamp(14px,3vw,38px);display:flex;align-items:center;justify-content:space-between;gap:16px;position:sticky;top:0;z-index:10}.brand{display:flex;align-items:center;gap:12px;min-width:0}.logo{width:56px;height:56px;object-fit:contain;border-radius:50%;border:1px solid #e7edf0}.brand-name{font-size:22px;font-weight:850;letter-spacing:-.6px}.brand-name span{color:#129fc4}.tagline{font-size:12px;color:var(--muted);margin-top:2px}.lang-pill{background:var(--yellow-pale);border:1px solid #ffe08a;padding:7px 12px;border-radius:999px;font-size:12px;font-weight:800;white-space:nowrap}main{width:100%;max-width:1800px;margin:22px auto;padding:0 clamp(12px,2.2vw,34px)}.panel{background:white;border:1px solid var(--line);border-radius:16px;padding:clamp(16px,2vw,28px);box-shadow:var(--shadow);margin-bottom:18px}.hidden{display:none!important}h1{font-size:clamp(23px,2.2vw,32px);letter-spacing:-.7px;margin:0 0 8px}h2{font-size:19px;margin:0 0 10px}p{line-height:1.5}.muted{color:var(--muted)}.row{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.field{display:flex;flex-direction:column;gap:7px;flex:1;min-width:180px}label{font-size:13px;font-weight:800;color:#35445a}select{padding:12px;border:1px solid var(--line);border-radius:10px;background:white;color:var(--ink);width:100%}.btn{border:1px solid var(--line);background:white;color:var(--ink);padding:10px 14px;border-radius:10px;font-weight:750;transition:.15s}.btn:hover{border-color:var(--sky-deep);transform:translateY(-1px)}.primary{background:var(--sky);border-color:var(--sky);color:#073b4a}.primary:hover{background:#75e3f5}.yellow{background:var(--yellow);border-color:var(--yellow);color:#392900}.chip{display:inline-flex;align-items:center;gap:5px;background:#f2f7f9;border:1px solid #e4edf1;border-radius:999px;padding:5px 10px;font-size:12px;font-weight:800}.chip.sky{background:var(--sky-pale);border-color:#b9f1fb}.chip.yellow{background:var(--yellow-pale);border-color:#ffe29a}.hint{font-size:12px;color:var(--muted)}.test-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(270px,330px);gap:20px;align-items:start}.test-main{min-width:0}.palette{position:sticky;top:92px;margin:0;padding:18px}.qhead{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}.progress{height:7px;background:#e8eff2;border-radius:999px;overflow:hidden;margin:15px 0 22px}.progress>div{height:100%;background:linear-gradient(90deg,var(--sky-deep),var(--yellow));width:0;transition:width .2s}.question{font-size:clamp(18px,1.6vw,23px);line-height:1.55;font-weight:800;margin:20px 0}.options{display:grid;gap:10px}.option{display:flex;align-items:flex-start;gap:11px;width:100%;padding:13px 14px;border:1px solid var(--line);border-radius:11px;text-align:left;background:white;color:var(--ink);font-weight:650;line-height:1.45}.option:hover{border-color:var(--sky-deep);background:#f5fdff}.option.selected{border:2px solid var(--sky-deep);background:var(--sky-pale);padding:12px 13px}.letter{width:28px;height:28px;flex:0 0 28px;border:1px solid #d7e1e7;border-radius:7px;display:grid;place-items:center;font-size:13px;font-weight:850;background:#fff}.option.correct{background:var(--green-pale)!important;border-color:var(--green)!important}.option.wrong{background:var(--red-pale)!important;border-color:var(--red)!important}.option.correct .letter{border-color:var(--green);color:var(--green)}.option.wrong .letter{border-color:var(--red);color:var(--red)}.nav{position:fixed;left:0;right:0;bottom:0;min-height:68px;z-index:50;display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin:0;padding:10px 24px;background:rgba(255,255,255,.97);border-top:1px solid var(--line);box-shadow:0 -6px 24px #18304412;backdrop-filter:blur(10px)}body{padding-bottom:96px}.palette-title{display:flex;align-items:center;justify-content:space-between;gap:8px}.submit-test{display:block;width:100%;margin:12px 0 14px;background:#c4382d;border:1px solid #b52f26;color:#fff;font-weight:850;letter-spacing:.1px;box-shadow:0 3px 0 #9f2922;min-height:42px}.submit-test:hover{background:#b83229;border-color:#a92d25;transform:none;box-shadow:0 3px 0 #8f241e}.submit-note{margin-top:12px;padding:10px 11px;border-radius:9px;background:#f2f8fb;border:1px solid #e0edf3;color:#526174;font-size:11px;line-height:1.4;text-align:center}.submit-test:focus-visible{outline:3px solid #f2c14e;outline-offset:3px}.attempt-summary{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px;margin:12px 0 8px}.attempt-stat{min-width:0;border:1px solid #e2eaf0;border-radius:9px;padding:7px 5px;text-align:center;background:#f8fbfc}.attempt-stat strong{display:block;font-size:18px;line-height:1.2;margin-top:3px}.attempt-label{font-size:10px;line-height:1.2;font-weight:750;color:#526174;display:block}.answered-stat{background:#eaf8f0;border-color:#c8ead7}.answered-stat strong{color:#168d50}.skipped-stat{background:#fff0ed;border-color:#f3d2cc}.skipped-stat strong{color:#bd3b30}.notattempted-stat{background:#f2f6f9;border-color:#dce5eb}.notattempted-stat strong{color:#43536a}.palette-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:8px;margin:12px 0}.qnum{position:relative;min-width:0;min-height:39px;border:1px solid #cfd9df;border-radius:10px;background:#fff;color:var(--ink);font-weight:800;padding:7px 0;font-size:13px}.qnum.current{position:relative;z-index:2;border:3px solid #176b7a!important;outline:none;box-shadow:none;transform:none}.qnum.not-visited{background:#fff;border-color:#cfd9df}.qnum.visited-unanswered{background:var(--red);color:#fff;border-color:var(--red)}.qnum.answered{background:var(--green);color:#fff;border-color:var(--green)}.qnum.review{background:var(--purple);color:#fff;border-color:var(--purple);border-radius:999px}.qnum.answered-review{background:var(--purple);color:white;border-color:var(--purple);border-radius:999px}.tick{position:absolute;right:-4px;top:-8px;color:var(--green);font-size:17px;text-shadow:0 1px white,1px 0 white;font-weight:1000}.legend{display:grid;gap:8px;margin:13px 0;font-size:12px;color:#43536a}.legend-item{display:flex;align-items:center;gap:8px}.legend-shape{width:17px;height:17px;border:1px solid #cad5dc;background:white;display:inline-block;flex:0 0 17px}.legend-shape.red{background:var(--red);border-color:var(--red);border-radius:0 0 9px 9px}.legend-shape.green{background:var(--green);border-color:var(--green);border-radius:0 0 9px 9px}.legend-shape.purple{background:var(--purple);border-color:var(--purple);border-radius:999px}.legend-shape.purple-tick{background:var(--purple);border-color:var(--purple);border-radius:999px;position:relative}.legend-shape.purple-tick:after{content:'✓';position:absolute;right:-6px;top:-8px;color:var(--green);font-size:15px;font-weight:900}.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}.stat{border:1px solid var(--line);background:#fbfdfe;border-radius:12px;padding:14px}.stat strong{display:block;font-size:24px;margin-top:4px}.review-item{padding:17px 0;border-top:1px solid var(--line)}.review-item h3{font-size:16px;line-height:1.5}.answer-line{font-size:14px;margin:8px 0}.status-good{color:var(--green);font-weight:850}.status-bad{color:var(--red);font-weight:850}.explanation{border-left:4px solid var(--sky-deep);background:#f0fcff;padding:12px 14px;border-radius:7px;line-height:1.55;margin-top:10px}.result-hero{background:linear-gradient(110deg,var(--sky-pale),#fff9e6);border:1px solid #bdeef7;border-radius:13px;padding:18px;margin-bottom:16px}.pdf-note{font-size:12px;color:var(--muted)}footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
+@media(min-width:1200px){.test-layout{grid-template-columns:minmax(0,1fr) 340px}.palette-grid{grid-template-columns:repeat(5,minmax(0,1fr))}}@media(max-width:850px){header{position:static}.nav{left:0;right:0;padding:10px 12px;min-height:68px}.test-layout{grid-template-columns:1fr}.palette{position:static;order:0}.test-main{order:1}.palette-grid{grid-template-columns:repeat(6,minmax(0,1fr))}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:480px){.attempt-label{font-size:9px}.attempt-stat{padding:6px 3px}.attempt-stat strong{font-size:16px}.logo{width:44px;height:44px}.brand-name{font-size:19px}.tagline{font-size:10px}.lang-pill{font-size:10px;padding:6px 8px}.palette-grid{grid-template-columns:repeat(5,minmax(0,1fr))}.panel{padding:14px}.qnum{min-height:36px}.nav .row{width:auto;flex:1;justify-content:flex-end}.nav .row .btn{flex:1;white-space:nowrap;padding:9px 8px}.nav>button{white-space:nowrap;padding:9px 10px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media print{body{background:#fff;color:#000}header,footer,#home,.no-print{display:none!important}main{max-width:none;margin:0;padding:0}.panel{box-shadow:none;border:0;padding:0;margin:0}.review-item{break-inside:avoid}.result-hero{background:#fff;border:1px solid #aaa}.explanation{background:#fff;border:1px solid #aaa;border-left:3px solid #333}.stats{grid-template-columns:repeat(4,1fr)}.stat{background:#fff;border:1px solid #aaa}.review-item h3{font-size:12pt}.question{font-size:13pt}}
+
+/* Final navigation layout: Submit Test is isolated from question controls */
+.nav{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:12px 24px;min-height:76px;background:rgba(255,255,255,.98)}
+.nav .row{display:flex;flex:0 1 auto;width:auto;justify-content:flex-start;gap:10px}
+.nav .row .btn{flex:0 0 auto;white-space:nowrap;padding:10px 16px}
+.nav>button#prev{flex:0 0 auto;padding:10px 16px}
+.nav-divider{width:1px;height:42px;background:#d9e3e9;flex:0 0 1px;margin:0 4px 0 auto}
+.nav .submit-test{width:auto;min-width:190px;min-height:48px;flex:0 0 auto;margin:0 0 0 4px;padding:12px 24px;border-radius:11px;background:#c8322b;border:1px solid #b72b25;box-shadow:0 3px 0 #a12620;font-size:15px}
+.nav .submit-test:hover{background:#b92e27;box-shadow:0 3px 0 #941f1a}
+@media(max-width:850px){.nav{gap:7px;padding:9px 10px;flex-wrap:nowrap}.nav .row{gap:5px;flex:1;min-width:0}.nav .row .btn{padding:9px 8px;font-size:12px}.nav>button#prev{padding:9px 8px;font-size:12px}.nav-divider{margin:0 2px;height:34px}.nav .submit-test{min-width:105px;padding:10px 11px;font-size:12px}}
+@media (max-width: 560px) {
+  body { padding-bottom: 150px; }
+  .nav {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 8px;
+    padding: 8px;
+    min-height: auto;
+    align-items: center;
+  }
+  .nav > button#prev {
+    grid-column: 1;
+    grid-row: 1;
+    min-width: 0;
+    padding: 9px 6px;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+  .nav .row {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 6px;
+    width: 100%;
+    min-width: 0;
+  }
+  .nav .row .btn {
+    min-width: 0;
+    width: 100%;
+    padding: 10px 3px;
+    font-size: 11px;
+    line-height: 1.25;
+    white-space: normal;
+  }
+  .nav-divider { display: none; }
+  .nav .submit-test {
+    grid-column: 2;
+    grid-row: 1;
+    min-width: 0;
+    width: auto;
+    padding: 10px 9px;
+    font-size: 12px;
+    white-space: nowrap;
+  }
+}
+
+.view-tools{display:flex;align-items:center;gap:7px;flex:0 0 auto}
+.view-btn{border:1px solid #d7e3ea;background:#fff;color:#172337;border-radius:9px;min-width:38px;height:36px;font-weight:800;box-shadow:0 1px 2px #1723370a}
+.view-btn:hover{background:#e9fbff;border-color:#45d4ef}
+.zoom-level{font-size:11px;font-weight:800;color:#65758b;min-width:34px;text-align:center}
+.pause-btn{border-color:#b9dce5;background:#f0fbfd;color:#155e75;white-space:nowrap}
+.pause-btn:hover{background:#dff7fc}
+.pause-overlay{position:fixed;inset:0;z-index:1000;background:rgba(16,31,49,.58);display:flex;align-items:center;justify-content:center;padding:20px;backdrop-filter:blur(4px)}
+.pause-card{width:min(420px,100%);background:#fff;border:1px solid #dce6ec;border-radius:22px;padding:30px 24px;text-align:center;box-shadow:0 22px 70px #10203340}
+.pause-card h2{margin:10px 0 8px;font-size:26px}.pause-card p{color:#65758b;margin:0 0 22px;line-height:1.55}.pause-symbol{width:58px;height:58px;margin:auto;border-radius:18px;background:#e9fbff;color:#119db8;display:grid;place-items:center;font-size:27px;font-weight:900}
+.pause-card .btn{min-width:160px}
+@media(max-width:560px){header{gap:8px}.view-tools{gap:4px}.view-btn{min-width:32px;height:32px}.zoom-level{min-width:30px;font-size:10px}.pause-btn{font-size:11px;padding:8px 6px!important}}
+
+
+/* MOBILE-ONLY FIX: Previous and Save & Next on the same row;
+   review/clear below them; Submit Test isolated on its own bottom row.
+   Desktop/window layout is intentionally unchanged. */
+@media screen and (max-width: 560px) {
+  body { padding-bottom: calc(190px + env(safe-area-inset-bottom, 0px)) !important; }
+  .nav {
+    position: fixed !important; left: 0 !important; right: 0 !important; bottom: 0 !important;
+    z-index: 999 !important; display: grid !important;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+    grid-template-rows: auto auto auto !important; align-items: stretch !important;
+    gap: 6px !important; width: 100% !important; min-height: 0 !important;
+    margin: 0 !important; padding: 8px 8px calc(8px + env(safe-area-inset-bottom, 0px)) !important;
+    box-sizing: border-box !important; background: rgba(255,255,255,.98) !important;
+    border-top: 1px solid #dce6ec !important; box-shadow: 0 -6px 24px #18304418 !important;
+    backdrop-filter: blur(10px);
+  }
+  .nav > button#prev {
+    grid-column: 1 !important; grid-row: 1 !important; width: 100% !important;
+    min-width: 0 !important; margin: 0 !important; padding: 10px 5px !important;
+    font-size: 12px !important; line-height: 1.2 !important; white-space: nowrap !important;
+  }
+  .nav .row { display: contents !important; }
+  .nav #next {
+    grid-column: 2 !important; grid-row: 1 !important; width: 100% !important;
+    min-width: 0 !important; margin: 0 !important; padding: 10px 3px !important;
+    font-size: 11px !important; line-height: 1.2 !important; white-space: normal !important;
+  }
+  .nav #markReview {
+    grid-column: 1 !important; grid-row: 2 !important; width: 100% !important;
+    min-width: 0 !important; margin: 0 !important; padding: 10px 3px !important;
+    font-size: 11px !important; line-height: 1.2 !important; white-space: normal !important;
+  }
+  .nav #clear {
+    grid-column: 2 !important; grid-row: 2 !important; width: 100% !important;
+    min-width: 0 !important; margin: 0 !important; padding: 10px 3px !important;
+    font-size: 11px !important; line-height: 1.2 !important; white-space: normal !important;
+  }
+  .nav-divider { display: none !important; }
+  .nav .submit-test {
+    grid-column: 1 / -1 !important; grid-row: 3 !important; width: 100% !important;
+    min-width: 0 !important; max-width: 100% !important; min-height: 0 !important;
+    margin: 0 !important; padding: 10px 8px !important; font-size: 12px !important;
+    line-height: 1.2 !important; white-space: nowrap !important;
+  }
+}
+
+/* Mobile question palette drawer. Desktop/window layout remains unchanged. */
+.palette-toggle{display:none}
+.palette-backdrop{display:none}
+@media screen and (max-width:560px){
+  header{display:flex;align-items:center;gap:8px}
+  body.test-active .palette-toggle{display:grid!important;place-items:center;}
+  .palette-toggle{display:none;place-items:center;flex:0 0 38px;width:38px;height:38px;padding:0;border:1px solid #dce6ec;border-radius:10px;background:#fff;color:#172337;font-size:22px;line-height:1;box-shadow:0 1px 3px #17233712}
+  header .brand{flex:1;min-width:0;gap:7px}
+  header .brand>a{gap:7px!important;min-width:0}
+  header .brand .logo{width:38px;height:38px;flex:0 0 38px}
+  header .brand-name{font-size:17px;white-space:nowrap}
+  header .tagline{font-size:9px;white-space:nowrap}
+  .view-tools{gap:3px}
+  .view-btn{min-width:29px;height:32px;padding:3px;font-size:12px}
+  .zoom-level{min-width:27px;font-size:9px}
+  .palette-backdrop:not([hidden]){display:block;position:fixed;inset:0;z-index:1000;background:rgba(16,31,49,.48);backdrop-filter:blur(2px)}
+  #questionPalette.palette{position:fixed!important;left:0!important;top:0!important;bottom:0!important;width:min(86vw,350px)!important;max-width:350px!important;height:100dvh!important;max-height:100dvh!important;overflow-y:auto!important;overscroll-behavior:contain;z-index:1001!important;margin:0!important;padding:20px 16px calc(24px + env(safe-area-inset-bottom,0px))!important;border-radius:0 18px 18px 0!important;background:#fff!important;box-shadow:12px 0 36px #1020332e!important;transform:translateX(-110%);visibility:hidden;transition:transform .24s ease,visibility .24s ease}
+  #questionPalette.palette.drawer-open{transform:translateX(0);visibility:visible}
+  #questionPalette .palette-title{position:sticky;top:-20px;background:#fff;padding:8px 0 12px;z-index:2}
+  #questionPalette .palette-grid{grid-template-columns:repeat(5,minmax(0,1fr));gap:8px}
+  body.palette-drawer-open{overflow:hidden}
+}
+@media(prefers-reduced-motion:reduce){#questionPalette.palette{transition:none}}
+
+/* SSC Mania shared light/dark theme (persisted across index.html and test.html) */
+.theme-toggle{white-space:nowrap;flex:0 0 auto;border:1px solid #d5e0e8;border-radius:999px;padding:8px 12px;background:#fff;color:#172337;font-weight:800;cursor:pointer}
+body.dark-mode{--ink:#e5edf8;--muted:#a9bad0;--line:#2b3b52;--bg:#0b1220;--white:#101a2b;--sky-pale:#17334a;--yellow-pale:#3b3218;--red-pale:#3a2025;--green-pale:#153628;--purple-pale:#30213d;background:#0b1220!important;color:#e5edf8!important;color-scheme:dark}
+body.dark-mode header,body.dark-mode .nav{background:#101a2b!important;border-color:#26364d!important;color:#e5edf8!important}
+body.dark-mode main,body.dark-mode #home,body.dark-mode #test,body.dark-mode #result,body.dark-mode #review{background:transparent!important;color:#e5edf8!important}
+body.dark-mode .panel,body.dark-mode .palette,body.dark-mode .pause-card,body.dark-mode .stat,body.dark-mode .review-item,body.dark-mode .explanation,body.dark-mode .result-card{background:#121e30!important;color:#e5edf8!important;border-color:#2b3b52!important;box-shadow:0 8px 26px #00000025!important}
+body.dark-mode .question,body.dark-mode h1,body.dark-mode h2,body.dark-mode h3,body.dark-mode label,body.dark-mode strong,body.dark-mode .brand-name,body.dark-mode .qhead,body.dark-mode .palette-title{color:#e5edf8!important}
+body.dark-mode p,body.dark-mode small,body.dark-mode .muted,body.dark-mode .hint,body.dark-mode .tagline,body.dark-mode .legend,body.dark-mode .attempt-label,body.dark-mode .submit-note{color:#a9bad0!important}
+body.dark-mode select,body.dark-mode input,body.dark-mode textarea,body.dark-mode .btn:not(.primary):not(.submit-test),body.dark-mode .view-btn,body.dark-mode .option,body.dark-mode .letter,body.dark-mode .qnum.not-visited{background:#17263a!important;color:#e5edf8!important;border-color:#354861!important}
+body.dark-mode .option:hover,body.dark-mode .option.selected{background:#17334a!important;border-color:#45d4ef!important;color:#f2f7ff!important}
+body.dark-mode .letter{background:#101a2b!important}
+body.dark-mode .chip{background:#17263a!important;border-color:#354861!important;color:#e5edf8!important}
+body.dark-mode .chip.sky{background:#123044!important;border-color:#24576a!important}
+body.dark-mode .progress{background:#26364d!important}
+body.dark-mode .submit-note{background:#17263a!important;border-color:#354861!important}
+body.dark-mode .attempt-stat{background:#17263a!important;border-color:#354861!important}
+body.dark-mode .answered-stat{background:#153628!important;border-color:#246345!important}
+body.dark-mode .skipped-stat{background:#3a2025!important;border-color:#63343b!important}
+body.dark-mode .notattempted-stat{background:#17263a!important;border-color:#354861!important}
+body.dark-mode .nav .btn{background:#17263a!important;color:#e5edf8!important;border-color:#354861!important}
+body.dark-mode .nav .primary{background:#1769d2!important;color:#fff!important;border-color:#1769d2!important}
+body.dark-mode .theme-toggle{background:#17263a!important;color:#e5edf8!important;border-color:#354861!important}
+body.dark-mode .palette-backdrop{background:rgba(0,0,0,.68)!important}
+@media(max-width:560px){.theme-toggle{padding:7px 9px;font-size:12px}header{gap:8px}.brand{gap:8px}.brand .logo{width:44px;height:44px}.view-tools{gap:4px}}
+
+</style></head><body>
+<div id="paletteBackdrop" class="palette-backdrop" hidden></div>
+<div id="pauseOverlay" class="pause-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="pauseTitle"><div class="pause-card"><div class="pause-symbol">Ⅱ</div><h2 id="pauseTitle">Test Paused</h2><p>Your timers are stopped. Your answers and question position are saved temporarily. Resume when you are ready.</p><button id="resumeTest" class="btn primary" type="button">▶ Resume Test</button></div></div>
+<header><button id="paletteToggle" class="palette-toggle" type="button" aria-label="Open question palette" aria-controls="questionPalette" aria-expanded="false">☰</button><div class="brand"><a href="index.html" aria-label="SSC Mania home" style="display:flex;align-items:center;gap:12px;text-decoration:none;color:inherit"><img class="logo" src="assets/ssc-mania-logo.png" alt="SSC Mania logo"><div><div class="brand-name"><span>SSC</span> Mania</div><div class="tagline">Free • Chapter-wise • No login required</div></div></a><div class="view-tools no-print" aria-label="Display controls"><button id="zoomOut" class="view-btn" type="button" title="Zoom out" aria-label="Zoom out">A−</button><span id="zoomLevel" class="zoom-level">100%</span><button id="zoomIn" class="view-btn" type="button" title="Zoom in" aria-label="Zoom in">A+</button></div></div><button id="themeToggle" class="theme-toggle no-print" type="button" aria-label="Switch to dark mode" aria-pressed="false">🌙 Dark</button></header>
+<main>
+<section id="test" class="panel hidden"><div class="test-layout"><div class="test-main"><div class="qhead"><div class="row"><span class="chip sky" id="counter"></span></div><div class="row"><span class="chip">Total: <b id="totalTime">00:00</b></span><span class="chip">Question: <b id="qTime">00:00</b></span><button id="pauseTest" class="btn pause-btn" type="button">Ⅱ Pause</button></div></div><div class="progress"><div id="bar"></div></div><div id="questionContentZoom"><div id="qt" class="question"></div><div id="opts" class="options"></div></div><div class="nav no-print"><button id="prev" class="btn">← Previous</button><div class="row"><button id="markReview" class="btn">Mark for Review ☆</button><button id="clear" class="btn">Clear response</button><button id="next" class="btn primary">Save & Next →</button></div><div class="nav-divider" aria-hidden="true"></div><button id="submitSide" class="btn submit-test" type="button">▤ &nbsp; Submit Test</button></div></div>
+<aside id="questionPalette" class="panel palette" aria-label="Question palette"><div class="palette-title"><h2>All Questions</h2><span class="chip sky" id="paletteCount">30</span></div><div class="attempt-summary" aria-live="polite">
+<div class="attempt-stat answered-stat"><span class="attempt-label">Attempted</span><strong id="attemptedCount">0</strong></div>
+<div class="attempt-stat skipped-stat"><span class="attempt-label">Skipped</span><strong id="skippedCount">0</strong></div>
+<div class="attempt-stat notattempted-stat"><span class="attempt-label">Not Attempted</span><strong id="notAttemptedCount">30</strong></div>
+</div><div id="paletteGrid" class="palette-grid"></div><div class="submit-note">Review your answers before submitting.</div></aside></div></section>
+<section id="result" class="panel hidden"><div class="result-hero"><h1>Test Result</h1><p id="summary" class="muted"></p><div class="row no-print"><button id="downloadPdf" class="btn primary">Download Result as PDF ↓</button><button id="retry" class="btn">Retake Test</button><button id="back" class="btn">Back to Chapters</button></div><p class="pdf-note no-print">PDF download: your browser's print window will open. Choose “Save as PDF” as the destination.</p></div><div class="stats"><div class="stat">Score<strong id="score"></strong></div><div class="stat">Accuracy<strong id="acc"></strong></div><div class="stat">Correct<strong id="correct"></strong></div><div class="stat">Wrong / Skipped<strong id="ws"></strong></div><div class="stat">Total time<strong id="ft"></strong></div><div class="stat">Average / question<strong id="avg"></strong></div><div class="stat">Attempted<strong id="att"></strong></div><div class="stat">Marked for review<strong id="reviewCount"></strong></div></div></section><section id="review" class="panel hidden"><h2>Answer Review</h2><p class="muted">Correct answers are marked green; incorrect answers are marked red. Explanations are included.</p><div id="reviews"></div></section>
+</main>
+<script>
+let BANK=[];
+let list=[],answers={},times={},visited={},marked={},current=0,startAt=0,qStart=0,tick=null,done=false,totalFinal=0,paused=false,pauseAt=0,pausedTotal=0,zoomLevel=100;
+const $=id=>document.getElementById(id);function fmt(ms){let s=Math.max(0,Math.floor(ms/1000));return String(Math.floor(s/60)).padStart(2,'0')+':'+String(s%60).padStart(2,'0')}function elapsed(){return done?totalFinal:(paused?pauseAt:Date.now())-startAt-pausedTotal}function qElapsed(){return (paused?pauseAt:Date.now())-qStart}
+function startTest(){const pool=BANK.slice();for(let i=pool.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[pool[i],pool[j]]=[pool[j],pool[i]];}list=pool.slice(0,Number($('size').value));answers={};times={};visited={};marked={};current=0;done=false;paused=false;pauseAt=0;pausedTotal=0;startAt=Date.now();qStart=Date.now();visited[0]=true;$('pauseOverlay').classList.add('hidden');$('pauseTest').textContent='Ⅱ Pause';$('pauseTest').disabled=false;if($('home'))$('home').classList.add('hidden');$('result').classList.add('hidden');$('review').classList.add('hidden');$('test').classList.remove('hidden');document.body.classList.add('test-active');$('paletteCount').textContent=list.length;clearInterval(tick);tick=setInterval(()=>{$('totalTime').textContent=fmt(elapsed());$('qTime').textContent=fmt((times[current]||0)+qElapsed())},250);render()}
+function saveTime(){times[current]=(times[current]||0)+qElapsed();qStart=Date.now()}
+function paletteStatus(i){if(marked[i]&&answers[i]!==undefined)return 'answered-review';if(marked[i])return 'review';if(answers[i]!==undefined)return 'answered';if(visited[i])return 'visited-unanswered';return 'not-visited'}
+function renderPalette(){let attempted=Object.keys(answers).filter(k=>answers[k]!==undefined).length;let skipped=list.reduce((n,q,i)=>n+(visited[i]&&answers[i]===undefined?1:0),0);$('attemptedCount').textContent=attempted;$('skippedCount').textContent=skipped;$('notAttemptedCount').textContent=list.length-attempted;let g=$('paletteGrid');g.innerHTML='';list.forEach((q,i)=>{let b=document.createElement('button');b.className='qnum '+paletteStatus(i)+(i===current?' current':'');b.textContent=i+1;b.title=`Question ${i+1}: ${paletteStatus(i).replaceAll('-',' ')}`;if(marked[i]&&answers[i]!==undefined){let t=document.createElement('span');t.className='tick';t.textContent='✓';b.appendChild(t)}b.onclick=()=>{if(paused||done)return;if(i!==current){saveTime();current=i;visited[i]=true;render()}};g.appendChild(b)})}
+function render(){let q=list[current];$('counter').textContent=`Question ${current+1} of ${list.length}`;$('qt').textContent=q.q;$('bar').style.width=((current+1)/list.length*100)+'%';$('prev').disabled=current===0;$('next').disabled=current===list.length-1;$('markReview').textContent=marked[current]?'Marked for Review ✓':'Mark for Review ☆';let o=$('opts');o.innerHTML='';q.opts.forEach((txt,i)=>{let b=document.createElement('button');b.className='option'+(answers[current]===i?' selected':'');let l=document.createElement('span');l.className='letter';l.textContent='ABCD'[i];let t=document.createElement('span');t.textContent=txt;b.append(l,t);b.onclick=()=>{if(done||paused)return;answers[current]=i;render()};o.appendChild(b)});renderPalette()}
+function goNext(){if(paused||done)return;if(current<list.length-1){saveTime();current++;visited[current]=true;render()}}function goPrev(){if(paused||done)return;if(current>0){saveTime();current--;visited[current]=true;render()}}
+function pauseTest(){if(done||paused)return;times[current]=(times[current]||0)+qElapsed();paused=true;pauseAt=Date.now();$('pauseOverlay').classList.remove('hidden');$('pauseTest').textContent='▶ Paused';$('pauseTest').disabled=true;clearInterval(tick)}function resumeTest(){if(done||!paused)return;pausedTotal+=Date.now()-pauseAt;paused=false;qStart=Date.now();$('pauseOverlay').classList.add('hidden');$('pauseTest').textContent='Ⅱ Pause';$('pauseTest').disabled=false;clearInterval(tick);tick=setInterval(()=>{$('totalTime').textContent=fmt(elapsed());$('qTime').textContent=fmt((times[current]||0)+qElapsed())},250);render()}function submitTest(){if(done||paused)return;if(!confirm('Submit test now? / क्या अभी टेस्ट जमा करना है?'))return;times[current]=(times[current]||0)+qElapsed();totalFinal=Date.now()-startAt-pausedTotal;done=true;clearInterval(tick);showResults()}
+function showResults(){let correct=0,wrong=0,skip=0,score=0,attempted=0;list.forEach((q,i)=>{if(answers[i]===undefined)skip++;else{attempted++;if(answers[i]===q.a){correct++;score+=2}else{wrong++;score-=.5}}});$('test').classList.add('hidden');$('result').classList.remove('hidden');$('review').classList.remove('hidden');$('summary').textContent=`${list.length} questions • Making of the Constitution`;$('score').textContent=Number(score.toFixed(2));$('acc').textContent=(attempted?correct/attempted*100:0).toFixed(1)+'%';$('correct').textContent=correct;$('ws').textContent=`${wrong} wrong / ${skip} skipped`;$('ft').textContent=fmt(totalFinal);$('avg').textContent=fmt(totalFinal/list.length);$('att').textContent=`${attempted}/${list.length}`;$('reviewCount').textContent=Object.values(marked).filter(Boolean).length;let rev=$('reviews');rev.innerHTML='';list.forEach((q,i)=>{let d=document.createElement('article');d.className='review-item';let h=document.createElement('h3');h.textContent=`Q${i+1}. ${q.q}`;d.appendChild(h);let st=document.createElement('p');let isCorrect=answers[i]===q.a;st.className='answer-line '+(answers[i]===undefined?'':isCorrect?'status-good':'status-bad');st.textContent=answers[i]===undefined?'○ Unattempted / उत्तर नहीं दिया':isCorrect?'✓ Correct / सही':'✕ Incorrect / गलत';d.appendChild(st);let ya=document.createElement('p');ya.className='answer-line';ya.textContent='Your answer / आपका उत्तर: '+(answers[i]===undefined?'Not attempted / प्रयास नहीं किया':q.opts[answers[i]]);d.appendChild(ya);let ca=document.createElement('p');ca.className='answer-line status-good';ca.textContent='Correct answer / सही उत्तर: '+q.opts[q.a];d.appendChild(ca);let tm=document.createElement('p');tm.className='hint';tm.textContent='Time spent: '+fmt(times[i]||0)+(marked[i]?' • Marked for review':'');d.appendChild(tm);let ex=document.createElement('div');ex.className='explanation';ex.textContent=q.exp;d.appendChild(ex);rev.appendChild(d)})}
+function downloadPDF(){window.print()}
+if($('start')) $('start').onclick=startTest; $('pauseTest').onclick=pauseTest;$('resumeTest').onclick=resumeTest;$('zoomIn').onclick=()=>{zoomLevel=Math.min(130,zoomLevel+10);$('questionContentZoom').style.zoom=(zoomLevel/100);$('zoomLevel').textContent=zoomLevel+'%'};$('zoomOut').onclick=()=>{zoomLevel=Math.max(80,zoomLevel-10);$('questionContentZoom').style.zoom=(zoomLevel/100);$('zoomLevel').textContent=zoomLevel+'%'};$('prev').onclick=goPrev;$('next').onclick=goNext;$('clear').onclick=()=>{if(paused||done)return;delete answers[current];render()};$('markReview').onclick=()=>{if(paused||done)return;marked[current]=!marked[current];render()};$('submitSide').onclick=submitTest;$('retry').onclick=startTest;$('back').onclick=()=>{clearInterval(tick);window.location.href='index.html'};$('downloadPdf').onclick=downloadPDF;
+
+async function loadSharedQuestionBank(){
+  const params=new URLSearchParams(window.location.search);
+  const chapter=params.get('chapter') || 'chapters/making-of-constitution.json';
+  const count=Number(params.get('count') || 30);
+  try {
+    const response=await fetch(chapter,{cache:'no-store'});
+    if(!response.ok) throw new Error('HTTP '+response.status+' while loading '+chapter);
+    const data=await response.json();
+    if(!data || !Array.isArray(data.questions) || !data.questions.length) throw new Error('Question bank is empty or invalid');
+    BANK=data.questions;
+    const chapterSelect=document.getElementById('chapter');
+    if(chapterSelect){chapterSelect.innerHTML='';const opt=document.createElement('option');opt.value=data.title||chapter;opt.textContent=data.title||chapter;chapterSelect.appendChild(opt);}
+    const sizeSelect=document.getElementById('size');
+    if(sizeSelect){const allowed=[5,10,20,30,35];let requested=allowed.includes(count)?count:30;requested=Math.min(requested,BANK.length);const valid=Array.from(sizeSelect.options).some(o=>Number(o.value)===requested);sizeSelect.value=String(valid?requested:BANK.length);}
+    const home=document.getElementById('home');if(home)home.classList.add('hidden');
+    const test=document.getElementById('test');if(test)test.classList.remove('hidden');
+    document.title='SSC Mania | '+(data.title||'Practice Test');
+    startTest();
+  } catch(error) {
+    const home=document.getElementById('home');if(home)home.classList.remove('hidden');
+    const message=document.createElement('p');message.className='panel';
+    message.textContent='Chapter could not be loaded. Check that the JSON file exists in the chapters folder and the filename matches exactly. Details: '+error.message;
+    document.querySelector('main')?.prepend(message);
+  }
+}
+const queryParams=new URLSearchParams(window.location.search);
+loadSharedQuestionBank();
+
+
+
+// Mobile-only question palette drawer; normal desktop palette behavior is preserved.
+(function(){
+  const toggle=document.getElementById('paletteToggle');
+  const palette=document.getElementById('questionPalette');
+  const backdrop=document.getElementById('paletteBackdrop');
+  if(!toggle||!palette||!backdrop)return;
+  function isMobile(){return window.matchMedia('(max-width: 560px)').matches;}
+  function openDrawer(){
+    const test=document.getElementById('test');if(!isMobile()||!test||test.classList.contains('hidden'))return;
+    palette.classList.add('drawer-open');backdrop.hidden=false;document.body.classList.add('palette-drawer-open');
+    toggle.setAttribute('aria-expanded','true');toggle.setAttribute('aria-label','Close question palette');toggle.textContent='×';
+  }
+  function closeDrawer(){
+    palette.classList.remove('drawer-open');backdrop.hidden=true;document.body.classList.remove('palette-drawer-open');
+    toggle.setAttribute('aria-expanded','false');toggle.setAttribute('aria-label','Open question palette');toggle.textContent='☰';
+  }
+  toggle.addEventListener('click',function(){if(palette.classList.contains('drawer-open'))closeDrawer();else openDrawer();});
+  backdrop.addEventListener('click',closeDrawer);
+  document.addEventListener('keydown',function(e){if(e.key==='Escape')closeDrawer();});
+  palette.addEventListener('click',function(e){if(e.target.closest('.qnum'))closeDrawer();});
+  window.addEventListener('resize',function(){if(!isMobile())closeDrawer();});
+  // Prevent the drawer from staying open when returning to the chapter screen.
+  const back=document.getElementById('back');if(back)back.addEventListener('click',closeDrawer);
+})();
+</script><script>
+(() => {
+  const button = document.getElementById('themeToggle');
+  if (!button) return;
+  const applyTheme = (dark) => {
+    document.body.classList.toggle('dark-mode', dark);
+    button.textContent = dark ? '☀️ Light' : '🌙 Dark';
+    button.setAttribute('aria-pressed', String(dark));
+    button.setAttribute('aria-label', dark ? 'Switch to light mode' : 'Switch to dark mode');
+  };
+  let saved = null;
+  try { saved = localStorage.getItem('sscmania-theme'); } catch (_) {}
+  applyTheme(saved === 'dark');
+  button.addEventListener('click', () => {
+    const dark = !document.body.classList.contains('dark-mode');
+    applyTheme(dark);
+    try { localStorage.setItem('sscmania-theme', dark ? 'dark' : 'light'); } catch (_) {}
+  });
+})();
+</script>
+
+</body></html>
