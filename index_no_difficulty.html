@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Free SSC and Railway chapter-wise bilingual MCQ practice">
+  <title>SSC Mania — MCQ Practice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#home" aria-label="SSC Mania home">
+    <img src="assets/ssc-mania-logo.jpg" alt="SSC Mania" class="logo">
+    <span><b>SSC <i>Mania</i></b><small>Free SSC &amp; Railway Practice</small></span>
+  </a>
+  <nav>
+    <button class="navlink active" data-page="home">Home</button>
+    <button class="navlink" data-page="setup">Practice</button>
+    <button class="navlink" data-page="about">About</button>
+  </nav>
+</header>
+
+<main>
+  <section id="home" class="page active">
+    <div class="hero">
+      <div>
+        <p class="eyebrow">YOUR PRACTICE. YOUR PACE.</p>
+        <h1>SSC <span>Mania</span></h1>
+        <h2>Free Chapter-wise MCQ Practice</h2>
+        <p class="sub">Prepare smarter for SSC and Railway exams with focused practice.</p>
+        <button class="primary big" id="homeStart">Start MCQ Practice <span>→</span></button>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="book book-blue">SSC</div>
+        <div class="book book-red">RAILWAY</div>
+        <div class="bulb">✦</div>
+      </div>
+    </div>
+    <div class="exam-grid">
+      <button class="exam-card ssc" data-exam="SSC">
+        <span class="exam-symbol">S</span>
+        <span><b>SSC</b><small>CGL, CHSL, MTS, CPO, GD &amp; more</small></span>
+        <strong>→</strong>
+      </button>
+      <button class="exam-card railway" data-exam="Railway">
+        <span class="exam-symbol">R</span>
+        <span><b>Railway</b><small>Group D, NTPC, ALP, RPF &amp; more</small></span>
+        <strong>→</strong>
+      </button>
+    </div>
+    <div class="benefits">
+      <div><span class="benefit-icon green">✓</span><b>100% Free</b><small>No login required</small></div>
+      <div><span class="benefit-icon purple">▤</span><b>Chapter-wise</b><small>Choose your topic</small></div>
+      <div><span class="benefit-icon orange">◷</span><b>Choose time</b><small>Practice at your pace</small></div>
+    </div>
+    <p class="motivation">🎯 &nbsp; Start your preparation today, one question at a time.</p>
+  </section>
+
+  <section id="setup" class="page">
+    <div class="page-heading">
+      <button class="back" id="backHome">← Home</button>
+      <p class="eyebrow">PRACTICE SETUP</p>
+      <h1>Set up your test</h1>
+      <p>Choose exam, subject, chapter and test settings.</p>
+    </div>
+    <div class="setup-card">
+      <div class="field">
+        <label>Select Exam</label>
+        <div class="choice-row" id="examChoices">
+          <button class="choice selected" data-exam="SSC">SSC</button>
+          <button class="choice" data-exam="Railway">Railway</button>
+        </div>
+      </div>
+      <div class="field">
+        <label for="subject">Select Subject</label>
+        <select id="subject">
+          <option value="Polity">Polity / संविधान</option>
+          <option value="History">History / इतिहास</option>
+          <option value="Geography">Geography / भूगोल</option>
+          <option value="Economy">Economy / अर्थव्यवस्था</option>
+          <option value="General Science">General Science / सामान्य विज्ञान</option>
+          <option value="Static GK">Static GK</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="chapter">Select Chapter</label>
+        <select id="chapter"><option value="">Loading chapters…</option></select>
+        <small class="field-hint" id="chapterHint">Choose a chapter to continue.</small>
+      </div>
+      <div class="field">
+        <label>Number of Questions</label>
+        <div class="choice-row wrap" id="questionChoices">
+          <button class="choice" data-count="5">5</button>
+          <button class="choice" data-count="10">10</button>
+          <button class="choice selected" data-count="20">20</button>
+          <button class="choice" data-count="30">30</button>
+          <button class="choice" data-count="35">35</button>
+        </div>
+      </div>
+      <div class="field">
+        <label>Time (minutes)</label>
+        <div class="choice-row wrap" id="timeChoices">
+          <button class="choice" data-time="5">5</button>
+          <button class="choice" data-time="10">10</button>
+          <button class="choice selected" data-time="15">15</button>
+          <button class="choice" data-time="20">20</button>
+          <button class="choice" data-time="30">30</button>
+        </div>
+      </div>
+      <button class="primary start-full" id="startTest">Start Test →</button>
+      <p class="error" id="setupError" role="status"></p>
+    </div>
+  </section>
+
+  <section id="quiz" class="page">
+    <div class="quiz-top">
+      <button class="back" id="exitQuiz">← Setup</button>
+      <div><b id="quizTitle">Practice Test</b><small id="quizSub">Polity</small></div>
+      <div class="timer-wrap"><span id="timer">15:00</span><button class="pause" id="pauseBtn">Ⅱ</button></div>
+    </div>
+    <div class="progress-line"><span id="progress"></span></div>
+    <div class="quiz-layout">
+      <article class="question-panel">
+        <div class="q-meta">
+          <span id="qCounter">Question 1 of 20</span>
+          <button class="mark" id="markBtn">☆ Mark for Review</button>
+        </div>
+        <h2 id="questionText"></h2>
+        <div class="options" id="options"></div>
+        <div class="explanation" id="explanation" hidden></div>
+        <div class="quiz-actions">
+          <button class="secondary" id="prevBtn">← Previous</button>
+          <button class="secondary" id="clearBtn">Clear Response</button>
+          <button class="primary" id="nextBtn">Save &amp; Next →</button>
+        </div>
+      </article>
+      <aside class="palette-panel">
+        <b>Question Palette</b>
+        <div class="legend">
+          <span><i class="dot answered"></i> Answered</span>
+          <span><i class="dot skipped"></i> Visited, unanswered</span>
+          <span><i class="dot review"></i> Review</span>
+        </div>
+        <div id="palette" class="palette"></div>
+        <div class="counts">
+          <span>Answered <b id="answeredCount">0</b></span>
+          <span>Not visited <b id="unvisitedCount">0</b></span>
+        </div>
+        <button class="submit" id="submitBtn">Submit Test</button>
+      </aside>
+    </div>
+  </section>
+
+  <section id="result" class="page">
+    <div class="result-card">
+      <div class="result-icon">✓</div>
+      <p class="eyebrow">TEST COMPLETED</p>
+      <h1>Your result</h1>
+      <div class="score" id="score">0 / 0</div>
+      <p id="resultTitle">Keep practising!</p>
+      <div class="result-stats">
+        <div><b id="correctResult">0</b><small>Correct</small></div>
+        <div><b id="wrongResult">0</b><small>Wrong</small></div>
+        <div><b id="skipResult">0</b><small>Skipped</small></div>
+        <div><b id="accuracyResult">0%</b><small>Accuracy</small></div>
+      </div>
+      <button class="primary start-full" id="reviewBtn">Review Answers</button>
+      <button class="secondary start-full" id="newTestBtn">Practice Another Test</button>
+    </div>
+    <div id="reviewList" class="review-list" hidden></div>
+  </section>
+
+  <section id="about" class="page">
+    <div class="about-container">
+      <div class="about-brand">
+        <img src="assets/ssc-mania-logo.jpg" alt="SSC Mania Logo" class="about-logo">
+        <div>
+          <p class="eyebrow">ABOUT SSC MANIA</p>
+          <h1>Simple practice. Better preparation.</h1>
+        </div>
+      </div>
+      <p class="about-description">
+        Free, chapter-wise MCQ practice for SSC exams.
+        Prepare smarter with bilingual questions and explanations.
+      </p>
+      <div class="social-links">
+        <a class="social-button youtube" href="https://www.youtube.com/@sscmania3" target="_blank" rel="noopener noreferrer" aria-label="Visit SSC Mania YouTube channel">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+            <path fill="#FF0033" d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8Z"/>
+            <path fill="#FFFFFF" d="m9.6 15.7 6.3-3.7-6.3-3.7z"/>
+          </svg>
+          <span>YouTube Channel</span>
+        </a>
+        <a class="social-button telegram" href="https://t.me/sscmania3" target="_blank" rel="noopener noreferrer" aria-label="Visit SSC Mania Telegram channel">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+            <circle cx="12" cy="12" r="12" fill="#229ED9"/>
+            <path fill="#FFFFFF" d="m18.9 5.2-2.5 12.1c-.2.9-.7 1.1-1.4.7l-3.9-2.9-1.9 1.8c-.2.2-.4.4-.8.4l.3-4 7.2-6.5c.3-.3-.1-.4-.5-.2l-8.9 5.6-3.8-1.2c-.8-.2-.8-.8.2-1.2L17.7 5c.7-.3 1.4.2 1.2.2Z"/>
+          </svg>
+          <span>Telegram Channel</span>
+        </a>
+        <a class="social-button email" href="mailto:sscmania71@gmail.com?subject=SSC%20Mania%20Enquiry" aria-label="Email SSC Mania">
+          <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false">
+            <rect x="2" y="4" width="20" height="16" rx="2" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path d="m3 6 9 7 9-7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span>Email Us</span>
+        </a>
+      </div>
+    </div>
+  </section>
+</main>
+<footer>SSC Mania <span>•</span> Free SSC &amp; Railway MCQ Practice</footer>
+<script src="app.js"></script>
+</body>
+</html>
