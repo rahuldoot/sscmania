@@ -50,6 +50,23 @@ body.dark-mode .motivation {
   color: #a9bad0 !important;
   border: 1px solid #2c405a !important;
 }
+
+/* Make Start Test button match the setup card width */
+#startTest {
+  display: block;
+  width: 100%;
+  max-width: 645px;
+  margin: 16px auto 0;
+  box-sizing: border-box;
+}
+
+@media (min-width: 900px) {
+  #startTest {
+    width: calc(100% - 410px);
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 </style>
 </head>
 <body>
