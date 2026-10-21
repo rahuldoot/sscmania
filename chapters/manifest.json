@@ -18,6 +18,12 @@
         "SSC",
         "Railway"
       ]
+    },
+    {
+      "title": "Fundamental Rights",
+      "subject": "Polity",
+      "file": "chapters/fundamental-rights.json",
+      "exam": ["SSC", "Railway"]
     }
   ]
 }
