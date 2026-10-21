@@ -269,6 +269,28 @@ body.dark-mode .palette-backdrop{background:rgba(0,0,0,.68)!important}
     border-radius: 14px !important;
   }
 }
+
+/* Mobile test buttons: larger, readable text */
+@media (max-width: 560px) {
+  .nav > button#prev,
+  .nav > button#next {
+    font-size: 16px !important;
+    font-weight: 700 !important;
+  }
+
+  .nav > button#markReview,
+  .nav > button#clear {
+    font-size: 14px !important;
+    font-weight: 650 !important;
+  }
+
+  .nav > button.submit-test,
+  .nav > button#submitTest,
+  .nav > button#submit {
+    font-size: 16px !important;
+    font-weight: 750 !important;
+  }
+}
 </style></head><body>
 <div id="paletteBackdrop" class="palette-backdrop" hidden></div>
 <div id="pauseOverlay" class="pause-overlay hidden" role="dialog" aria-modal="true" aria-labelledby="pauseTitle"><div class="pause-card"><div class="pause-symbol">Ⅱ</div><h2 id="pauseTitle">Test Paused</h2><p>Your timers are stopped. Your answers and question position are saved temporarily. Resume when you are ready.</p><button id="resumeTest" class="btn primary" type="button">▶ Resume Test</button></div></div>
