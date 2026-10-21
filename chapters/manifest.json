@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "chapters": [
+    {
+      "title": "Making of the Constitution",
+      "subject": "Polity",
+      "file": "chapters/making-of-constitution.json",
+      "exam": [
+        "SSC",
+        "Railway"
+      ]
+    },
+    {
+      "title": "Salient Features of the Indian Constitution",
+      "subject": "Polity",
+      "file": "chapters/salient-features.json",
+      "exam": [
+        "SSC",
+        "Railway"
+      ]
+    }
+  ]
+}
