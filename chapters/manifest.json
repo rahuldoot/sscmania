@@ -23,7 +23,20 @@
       "title": "Fundamental Rights",
       "subject": "Polity",
       "file": "chapters/fundamental-rights.json",
-      "exam": ["SSC", "Railway"]
+      "exam": [
+        "SSC",
+        "Railway"
+      ]
+    },
+    {
+      "title": "Union and Its Territory & Citizenship",
+      "subject": "Polity",
+      "file": "chapters/union-territory-citizenship.json",
+      "exam": [
+        "SSC CGL Pre",
+        "SSC CGL Mains",
+        "Railway"
+      ]
     }
   ]
 }

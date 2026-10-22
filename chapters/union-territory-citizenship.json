@@ -1,0 +1,697 @@
+{
+  "title": "Union and Its Territory & Citizenship",
+  "subject": "Polity",
+  "exam": [
+    "SSC CGL Pre",
+    "SSC CGL Mains",
+    "Railway"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Articles 1–4",
+      "difficulty": "Easy",
+      "q": "भारतीय संविधान के अनुच्छेद 1 के अनुसार, भारत को किस रूप में वर्णित किया गया है? / Under Article 1, how is India described?",
+      "opts": [
+        "राज्यों का संघ / A Union of States",
+        "राज्यों का परिसंघ / A Confederation of States",
+        "एकात्मक राज्य / A Unitary State",
+        "संघीय गणराज्य / A Federal Republic"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 1 कहता है: “India, that is Bharat, shall be a Union of States.” / Article 1 states: “India, that is Bharat, shall be a Union of States.”"
+    },
+    {
+      "id": 2,
+      "topic": "Articles 1–4",
+      "difficulty": "Easy",
+      "q": "राज्यों और उनके क्षेत्रों का उल्लेख संविधान की किस अनुसूची में है? / In which Schedule are the States and their territories specified?",
+      "opts": [
+        "पहली अनुसूची / First Schedule",
+        "दूसरी अनुसूची / Second Schedule",
+        "तीसरी अनुसूची / Third Schedule",
+        "चौथी अनुसूची / Fourth Schedule"
+      ],
+      "a": 0,
+      "exp": "पहली अनुसूची में राज्यों और केंद्रशासित प्रदेशों के नाम तथा क्षेत्र दिए गए हैं। / The First Schedule lists the States and Union Territories and their territories."
+    },
+    {
+      "id": 3,
+      "topic": "Articles 1–4",
+      "difficulty": "Easy",
+      "q": "भारत के क्षेत्र में निम्न में से क्या शामिल है? / Which of the following forms part of the territory of India?",
+      "opts": [
+        "राज्यों के क्षेत्र / Territories of States",
+        "केंद्रशासित प्रदेश / Union Territories",
+        "अर्जित किए जा सकने वाले अन्य क्षेत्र / Other territories that may be acquired",
+        "उपर्युक्त सभी / All of the above"
+      ],
+      "a": 3,
+      "exp": "अनुच्छेद 1(3) इन तीनों श्रेणियों को भारत के क्षेत्र में शामिल करता है। / Article 1(3) includes all three categories in the territory of India."
+    },
+    {
+      "id": 4,
+      "topic": "Articles 1–4",
+      "difficulty": "Moderate",
+      "q": "भारत को “राज्यों का संघ” कहने का प्रमुख आशय क्या है? / What is the key implication of describing India as a “Union of States”?",
+      "opts": [
+        "राज्यों को संघ से अलग होने का अधिकार है / States have a right to secede from the Union",
+        "राज्यों को एकतरफा अलग होने का अधिकार नहीं है / States have no unilateral right to secede",
+        "राज्यों की अपनी संप्रभुता पूर्ण है / States possess complete separate sovereignty",
+        "संघ राज्यों से बना एक समझौता है / The Union is merely a treaty among States"
+      ],
+      "a": 1,
+      "exp": "भारतीय संघ राज्यों के बीच ऐसे समझौते का परिणाम नहीं है जिससे उन्हें अलग होने का अधिकार मिले। / The Indian Union is not the result of an agreement among States that gives them a right to secede."
+    },
+    {
+      "id": 5,
+      "topic": "Articles 1–4",
+      "difficulty": "Easy",
+      "q": "नए राज्य को संघ में प्रवेश देने या नया राज्य स्थापित करने की शक्ति किस अनुच्छेद में है? / Which Article empowers Parliament to admit or establish new States?",
+      "opts": [
+        "अनुच्छेद 1 / Article 1",
+        "अनुच्छेद 2 / Article 2",
+        "अनुच्छेद 3 / Article 3",
+        "अनुच्छेद 4 / Article 4"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 2 नए राज्यों को संघ में प्रवेश देने या स्थापित करने से संबंधित है। / Article 2 concerns the admission or establishment of new States."
+    },
+    {
+      "id": 6,
+      "topic": "Articles 1–4",
+      "difficulty": "Easy",
+      "q": "किस अनुच्छेद के तहत संसद किसी राज्य का क्षेत्र, सीमा या नाम बदल सकती है? / Under which Article may Parliament alter a State’s area, boundaries or name?",
+      "opts": [
+        "अनुच्छेद 2 / Article 2",
+        "अनुच्छेद 3 / Article 3",
+        "अनुच्छेद 4 / Article 4",
+        "अनुच्छेद 5 / Article 5"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 3 नए राज्य बनाने तथा मौजूदा राज्यों के क्षेत्र, सीमाओं या नाम में बदलाव की अनुमति देता है। / Article 3 allows formation of new States and alteration of the area, boundaries or name of existing States."
+    },
+    {
+      "id": 7,
+      "topic": "Articles 1–4",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 3 से संबंधित विधेयक संसद में किसकी सिफारिश पर प्रस्तुत किया जा सकता है? / A Bill under Article 3 can be introduced in Parliament only on whose recommendation?",
+      "opts": [
+        "प्रधानमंत्री / Prime Minister",
+        "भारत के राष्ट्रपति / President of India",
+        "लोकसभा अध्यक्ष / Speaker of the Lok Sabha",
+        "संबंधित राज्य का राज्यपाल / Governor of the State concerned"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 3 के अंतर्गत विधेयक राष्ट्रपति की सिफारिश पर ही प्रस्तुत किया जाता है। / A Bill under Article 3 can be introduced only on the recommendation of the President."
+    },
+    {
+      "id": 8,
+      "topic": "Articles 1–4",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 3 के विधेयक पर संबंधित राज्य विधानमंडल की राय के बारे में सही कथन कौन-सा है? / Which statement about the opinion of the affected State Legislature on an Article 3 Bill is correct?",
+      "opts": [
+        "उसकी सहमति अनिवार्य है / Its consent is mandatory",
+        "उसकी राय मांगी जाती है, पर संसद उस राय से बाध्य नहीं है / Its views are sought, but Parliament is not bound by them",
+        "राज्यपाल की सहमति पर्याप्त है / The Governor’s consent is sufficient",
+        "विधेयक केवल राज्य विधानमंडल पारित कर सकता है / Only the State Legislature can pass the Bill"
+      ],
+      "a": 1,
+      "exp": "राष्ट्रपति संबंधित राज्य विधानमंडल से राय मांगते हैं; उसकी सहमति संवैधानिक रूप से अनिवार्य नहीं है। / The President seeks the State Legislature’s views; its consent is not constitutionally mandatory."
+    },
+    {
+      "id": 9,
+      "topic": "Articles 1–4",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 2 और अनुच्छेद 3 में मुख्य अंतर क्या है? / What is the main difference between Articles 2 and 3?",
+      "opts": [
+        "अनुच्छेद 2 नागरिकता और अनुच्छेद 3 चुनाव से संबंधित है / Article 2 concerns citizenship and Article 3 elections",
+        "अनुच्छेद 2 नए राज्यों के प्रवेश/स्थापना और अनुच्छेद 3 मौजूदा राज्यों के पुनर्गठन से संबंधित है / Article 2 concerns admission/establishment of States, while Article 3 concerns reorganisation of existing States",
+        "दोनों केवल सीमाओं से संबंधित हैं / Both deal only with boundaries",
+        "अनुच्छेद 3 विदेशी क्षेत्र के अधिग्रहण से संबंधित है / Article 3 concerns acquisition of foreign territory"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 2 नए राज्यों के प्रवेश या स्थापना के बारे में है; अनुच्छेद 3 मौजूदा राज्यों के गठन और पुनर्गठन से संबंधित है। / Article 2 deals with admission or establishment of States; Article 3 deals with formation and reorganisation of existing States."
+    },
+    {
+      "id": 10,
+      "topic": "Articles 1–4",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 2 और 3 के तहत बनाए गए कानूनों में पहली और चौथी अनुसूची में बदलाव के बारे में अनुच्छेद 4 क्या कहता है? / What does Article 4 provide regarding changes to the First and Fourth Schedules under laws made under Articles 2 and 3?",
+      "opts": [
+        "हर बार अनुच्छेद 368 के तहत संशोधन आवश्यक है / An Article 368 amendment is always required",
+        "ऐसे बदलावों को अनुच्छेद 368 के तहत संविधान संशोधन नहीं माना जाता / Such changes are not deemed constitutional amendments under Article 368",
+        "केवल राज्यसभा बदलाव कर सकती है / Only the Rajya Sabha may make changes",
+        "ऐसे बदलाव निषिद्ध हैं / Such changes are prohibited"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 4 के अनुसार ऐसे पूरक/परिणामी बदलावों को अनुच्छेद 368 के प्रयोजन से संविधान संशोधन नहीं माना जाता। / Article 4 provides that such supplemental or consequential changes are not deemed amendments under Article 368."
+    },
+    {
+      "id": 11,
+      "topic": "State Reorganisation",
+      "difficulty": "Easy",
+      "q": "राज्यों के भाषाई पुनर्गठन के लिए 1953 में कौन-सा आयोग बनाया गया था? / Which commission was appointed in 1953 to examine the linguistic reorganisation of States?",
+      "opts": [
+        "धर आयोग / Dhar Commission",
+        "जेवीपी समिति / JVP Committee",
+        "फज़ल अली आयोग / Fazl Ali Commission",
+        "सरकारिया आयोग / Sarkaria Commission"
+      ],
+      "a": 2,
+      "exp": "राज्य पुनर्गठन आयोग 1953 में न्यायमूर्ति फज़ल अली की अध्यक्षता में बनाया गया था। / The States Reorganisation Commission was set up in 1953 under Justice Fazl Ali."
+    },
+    {
+      "id": 12,
+      "topic": "State Reorganisation",
+      "difficulty": "Easy",
+      "q": "धर आयोग (1948) ने राज्यों के पुनर्गठन में किस आधार को प्राथमिकता दी? / Which basis did the Dhar Commission (1948) prioritise for reorganising States?",
+      "opts": [
+        "केवल भाषा / Language alone",
+        "प्रशासनिक सुविधा / Administrative convenience",
+        "केवल धर्म / Religion alone",
+        "केवल जनसंख्या / Population alone"
+      ],
+      "a": 1,
+      "exp": "धर आयोग ने भाषाई आधार के बजाय प्रशासनिक सुविधा को प्राथमिकता दी। / The Dhar Commission prioritised administrative convenience rather than linguistic considerations."
+    },
+    {
+      "id": 13,
+      "topic": "State Reorganisation",
+      "difficulty": "Moderate",
+      "q": "1948 की जेवीपी समिति में कौन शामिल थे? / Who were the members of the JVP Committee (1948)?",
+      "opts": [
+        "नेहरू, पटेल और पट्टाभि सीतारमैया / Nehru, Patel and Pattabhi Sitaramayya",
+        "फज़ल अली, पनिक्कर और कुंज़रू / Fazl Ali, Panikkar and Kunzru",
+        "राजेंद्र प्रसाद, अंबेडकर और नेहरू / Rajendra Prasad, Ambedkar and Nehru",
+        "गांधी, बोस और पटेल / Gandhi, Bose and Patel"
+      ],
+      "a": 0,
+      "exp": "जेवीपी समिति में जवाहरलाल नेहरू, वल्लभभाई पटेल और पट्टाभि सीतारमैया शामिल थे। / The JVP Committee comprised Jawaharlal Nehru, Vallabhbhai Patel and Pattabhi Sitaramayya."
+    },
+    {
+      "id": 14,
+      "topic": "State Reorganisation",
+      "difficulty": "Easy",
+      "q": "भाषाई आधार पर गठित भारत का पहला राज्य कौन-सा माना जाता है? / Which is regarded as the first Indian State formed on a linguistic basis?",
+      "opts": [
+        "गुजरात / Gujarat",
+        "आंध्र राज्य / Andhra State",
+        "महाराष्ट्र / Maharashtra",
+        "केरल / Kerala"
+      ],
+      "a": 1,
+      "exp": "तेलुगु भाषी क्षेत्र के लिए 1953 में आंध्र राज्य बनाया गया; यह भाषाई आधार पर पहला राज्य माना जाता है। / Andhra State was created in 1953 for Telugu-speaking areas and is regarded as the first linguistic State."
+    },
+    {
+      "id": 15,
+      "topic": "State Reorganisation",
+      "difficulty": "Moderate",
+      "q": "पोट्टि श्रीरामुलु का आंदोलन किस राज्य के गठन से जुड़ा था? / Potti Sriramulu’s fast and movement were associated with the formation of which State?",
+      "opts": [
+        "आंध्र राज्य / Andhra State",
+        "गुजरात / Gujarat",
+        "महाराष्ट्र / Maharashtra",
+        "नागालैंड / Nagaland"
+      ],
+      "a": 0,
+      "exp": "पोट्टि श्रीरामुलु के आमरण अनशन के बाद तेलुगु भाषी आंध्र राज्य के गठन का मार्ग प्रशस्त हुआ। / Potti Sriramulu’s fast helped lead to the creation of the Telugu-speaking Andhra State."
+    },
+    {
+      "id": 16,
+      "topic": "State Reorganisation",
+      "difficulty": "Easy",
+      "q": "राज्य पुनर्गठन अधिनियम, 1956 कब प्रभावी हुआ? / When did the States Reorganisation Act, 1956 take effect?",
+      "opts": [
+        "26 जनवरी 1956 / 26 जनवरी 1956",
+        "1 नवंबर 1956 / 1 नवंबर 1956",
+        "15 अगस्त 1956 / 15 अगस्त 1956",
+        "1 नवंबर 1957 / 1 नवंबर 1957"
+      ],
+      "a": 1,
+      "exp": "राज्य पुनर्गठन अधिनियम 1 नवंबर 1956 से प्रभावी हुआ। / The States Reorganisation Act took effect on 1 November 1956."
+    },
+    {
+      "id": 17,
+      "topic": "State Reorganisation",
+      "difficulty": "Moderate",
+      "q": "1956 के राज्य पुनर्गठन के बाद भारत में कितने राज्य और केंद्रशासित प्रदेश थे? / After the 1956 reorganisation, how many States and Union Territories were there?",
+      "opts": [
+        "14 राज्य और 6 केंद्रशासित प्रदेश / 14 राज्य और 6 केंद्रशासित प्रदेश",
+        "16 राज्य और 5 केंद्रशासित प्रदेश / 16 राज्य और 5 केंद्रशासित प्रदेश",
+        "14 राज्य और 7 केंद्रशासित प्रदेश / 14 राज्य और 7 केंद्रशासित प्रदेश",
+        "15 राज्य और 6 केंद्रशासित प्रदेश / 15 राज्य और 6 केंद्रशासित प्रदेश"
+      ],
+      "a": 0,
+      "exp": "1956 के पुनर्गठन के बाद 14 राज्य और 6 केंद्रशासित प्रदेश बने। / After the 1956 reorganisation, India had 14 States and 6 Union Territories."
+    },
+    {
+      "id": 18,
+      "topic": "State Reorganisation",
+      "difficulty": "Easy",
+      "q": "गोवा भारत का राज्य किस वर्ष बना? / In which year did Goa become a State of India?",
+      "opts": [
+        "1961 / 1961",
+        "1975 / 1975",
+        "1987 / 1987",
+        "2000 / 2000"
+      ],
+      "a": 2,
+      "exp": "गोवा 30 मई 1987 को भारत का 25वाँ राज्य बना। / Goa became India’s 25th State on 30 May 1987."
+    },
+    {
+      "id": 19,
+      "topic": "State Reorganisation",
+      "difficulty": "Easy",
+      "q": "सिक्किम को पूर्ण राज्य का दर्जा किस संविधान संशोधन से मिला? / Which Constitutional Amendment granted Sikkim full statehood?",
+      "opts": [
+        "24वाँ / 24th",
+        "35वाँ / 35th",
+        "36वाँ / 36th",
+        "42वाँ / 42nd"
+      ],
+      "a": 2,
+      "exp": "36वें संविधान संशोधन अधिनियम, 1975 द्वारा सिक्किम भारत का राज्य बना। / The 36th Constitutional Amendment Act, 1975 made Sikkim a State of India."
+    },
+    {
+      "id": 20,
+      "topic": "State Reorganisation",
+      "difficulty": "Moderate",
+      "q": "35वें संविधान संशोधन (1974) द्वारा सिक्किम को क्या दर्जा दिया गया था? / What status was given to Sikkim by the 35th Constitutional Amendment (1974)?",
+      "opts": [
+        "पूर्ण राज्य / Full State",
+        "सहयोगी राज्य (Associate State) / Associate State",
+        "केंद्रशासित प्रदेश / Union Territory",
+        "विशेष प्रशासनिक क्षेत्र / Special administrative area"
+      ],
+      "a": 1,
+      "exp": "35वें संशोधन ने सिक्किम को सहयोगी राज्य का दर्जा दिया; 36वें संशोधन ने पूर्ण राज्य बनाया। / The 35th Amendment gave Sikkim associate-State status; the 36th Amendment made it a full State."
+    },
+    {
+      "id": 21,
+      "topic": "State Reorganisation",
+      "difficulty": "Moderate",
+      "q": "राज्य पुनर्गठन अधिनियम, 1956 ने किस व्यवस्था को समाप्त किया? / Which arrangement did the States Reorganisation Act, 1956 abolish?",
+      "opts": [
+        "तीन सूचियों की व्यवस्था / Three-list system",
+        "भाग A, B, C और D राज्यों का वर्गीकरण / Classification of Part A, B, C and D States",
+        "संसदीय शासन / Parliamentary government",
+        "एकल नागरिकता / Single citizenship"
+      ],
+      "a": 1,
+      "exp": "1956 के पुनर्गठन ने भाग A, B, C और D राज्यों के पुराने वर्गीकरण को समाप्त किया। / The 1956 reorganisation abolished the old Part A, B, C and D classification of States."
+    },
+    {
+      "id": 22,
+      "topic": "State Reorganisation",
+      "difficulty": "Moderate",
+      "q": "महाराष्ट्र और गुजरात का गठन किस अधिनियम के परिणामस्वरूप हुआ? / Which Act led to the formation of Maharashtra and Gujarat?",
+      "opts": [
+        "राज्य पुनर्गठन अधिनियम, 1956 / States Reorganisation Act, 1956",
+        "बॉम्बे पुनर्गठन अधिनियम, 1960 / Bombay Reorganisation Act, 1960",
+        "भारत शासन अधिनियम, 1935 / Government of India Act, 1935",
+        "संविधान (सातवाँ संशोधन) अधिनियम, 1956 / Constitution (Seventh Amendment) Act, 1956"
+      ],
+      "a": 1,
+      "exp": "बॉम्बे पुनर्गठन अधिनियम, 1960 के तहत बॉम्बे राज्य को महाराष्ट्र और गुजरात में विभाजित किया गया। / The Bombay Reorganisation Act, 1960 divided Bombay State into Maharashtra and Gujarat."
+    },
+    {
+      "id": 23,
+      "topic": "State Reorganisation",
+      "difficulty": "Easy",
+      "q": "तेलंगाना भारत का राज्य कब बना? / When did Telangana become a State of India?",
+      "opts": [
+        "1 नवंबर 2000 / 1 November 2000",
+        "2 जून 2014 / 2 June 2014",
+        "1 मई 1960 / 1 May 1960",
+        "30 मई 1987 / 30 May 1987"
+      ],
+      "a": 1,
+      "exp": "तेलंगाना 2 जून 2014 को भारत का 29वाँ राज्य बना; बाद में जम्मू-कश्मीर पुनर्गठन के बाद राज्यों की संख्या बदली। / Telangana became India’s 29th State on 2 June 2014; the number of States changed later after the Jammu and Kashmir reorganisation."
+    },
+    {
+      "id": 24,
+      "topic": "Special Provisions",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 371-A किस राज्य से संबंधित विशेष प्रावधान है? / Article 371-A contains special provisions for which State?",
+      "opts": [
+        "असम / Assam",
+        "नागालैंड / Nagaland",
+        "मणिपुर / Manipur",
+        "सिक्किम / Sikkim"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 371-A नागालैंड के लिए विशेष प्रावधान करता है। / Article 371-A provides special provisions for Nagaland."
+    },
+    {
+      "id": 25,
+      "topic": "Special Provisions",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 371-G किस राज्य से संबंधित है? / Article 371-G relates to which State?",
+      "opts": [
+        "मिजोरम / Mizoram",
+        "गोवा / Goa",
+        "कर्नाटक / Karnataka",
+        "अरुणाचल प्रदेश / Arunachal Pradesh"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 371-G मिजोरम के लिए विशेष प्रावधानों से संबंधित है। / Article 371-G concerns special provisions for Mizoram."
+    },
+    {
+      "id": 26,
+      "topic": "Special Provisions",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 371-D मुख्यतः किन राज्यों से संबंधित है? / Article 371-D primarily relates to which States?",
+      "opts": [
+        "महाराष्ट्र और गुजरात / Maharashtra and Gujarat",
+        "आंध्र प्रदेश और तेलंगाना / Andhra Pradesh and Telangana",
+        "असम और मणिपुर / Assam and Manipur",
+        "नागालैंड और मिजोरम / Nagaland and Mizoram"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 371-D आंध्र प्रदेश और तेलंगाना में समान अवसरों तथा सुविधाओं से संबंधित विशेष प्रावधान करता है। / Article 371-D provides special arrangements relating to equitable opportunities and facilities in Andhra Pradesh and Telangana."
+    },
+    {
+      "id": 27,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Easy",
+      "q": "संविधान के किस भाग में नागरिकता के प्रावधान हैं? / Which Part of the Constitution contains provisions on citizenship?",
+      "opts": [
+        "भाग I / Part I",
+        "भाग II / Part II",
+        "भाग III / Part III",
+        "भाग IV / Part IV"
+      ],
+      "a": 1,
+      "exp": "भाग II में अनुच्छेद 5 से 11 तक नागरिकता के प्रावधान हैं। / Part II contains citizenship provisions in Articles 5 to 11."
+    },
+    {
+      "id": 28,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Easy",
+      "q": "संविधान के प्रारंभ पर नागरिकता किस अनुच्छेद में दी गई है? / Which Article deals with citizenship at the commencement of the Constitution?",
+      "opts": [
+        "अनुच्छेद 5 / Article 5",
+        "अनुच्छेद 6 / Article 6",
+        "अनुच्छेद 9 / Article 9",
+        "अनुच्छेद 11 / Article 11"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 5 संविधान के प्रारंभ पर नागरिकता से संबंधित है। / Article 5 deals with citizenship at the commencement of the Constitution."
+    },
+    {
+      "id": 29,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Moderate",
+      "q": "पाकिस्तान से भारत आए कुछ प्रवासियों की नागरिकता किस अनुच्छेद में वर्णित है? / Which Article deals with citizenship of certain migrants from Pakistan to India?",
+      "opts": [
+        "अनुच्छेद 5 / Article 5",
+        "अनुच्छेद 6 / Article 6",
+        "अनुच्छेद 7 / Article 7",
+        "अनुच्छेद 8 / Article 8"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 6 पाकिस्तान से भारत आए कुछ व्यक्तियों की नागरिकता से संबंधित है। / Article 6 deals with citizenship of certain persons who migrated from Pakistan to India."
+    },
+    {
+      "id": 30,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Moderate",
+      "q": "भारत से पाकिस्तान चले गए कुछ व्यक्तियों की नागरिकता किस अनुच्छेद में आती है? / Which Article addresses citizenship of certain persons who migrated from India to Pakistan?",
+      "opts": [
+        "अनुच्छेद 6 / Article 6",
+        "अनुच्छेद 7 / Article 7",
+        "अनुच्छेद 8 / Article 8",
+        "अनुच्छेद 10 / Article 10"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 7 उन व्यक्तियों से संबंधित है जो भारत से पाकिस्तान चले गए थे, निर्धारित अपवादों के अधीन। / Article 7 concerns persons who migrated from India to Pakistan, subject to specified exceptions."
+    },
+    {
+      "id": 31,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Easy",
+      "q": "भारत के बाहर रहने वाले भारतीय मूल के कुछ व्यक्तियों की नागरिकता किस अनुच्छेद में है? / Which Article deals with citizenship of certain persons of Indian origin residing outside India?",
+      "opts": [
+        "अनुच्छेद 7 / Article 7",
+        "अनुच्छेद 8 / Article 8",
+        "अनुच्छेद 9 / Article 9",
+        "अनुच्छेद 10 / Article 10"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 8 विदेश में रहने वाले भारतीय मूल के कुछ व्यक्तियों से संबंधित है। / Article 8 concerns certain persons of Indian origin residing outside India."
+    },
+    {
+      "id": 32,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Easy",
+      "q": "स्वेच्छा से किसी विदेशी राज्य की नागरिकता प्राप्त करने पर भारतीय नागरिकता से संबंधित प्रावधान कौन-सा अनुच्छेद करता है? / Which Article addresses voluntarily acquiring citizenship of a foreign State?",
+      "opts": [
+        "अनुच्छेद 8 / Article 8",
+        "अनुच्छेद 9 / Article 9",
+        "अनुच्छेद 10 / Article 10",
+        "अनुच्छेद 11 / Article 11"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 9 के अनुसार, स्वेच्छा से विदेशी राज्य की नागरिकता लेने वाला व्यक्ति अनुच्छेद 5, 6 या 8 के आधार पर भारतीय नागरिक नहीं माना जाएगा। / Article 9 provides that a person voluntarily acquiring foreign citizenship shall not be deemed an Indian citizen under Articles 5, 6 or 8."
+    },
+    {
+      "id": 33,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Easy",
+      "q": "नागरिकता के अधिकारों की निरंतरता किस अनुच्छेद में है? / Which Article provides for continuance of citizenship rights?",
+      "opts": [
+        "अनुच्छेद 9 / Article 9",
+        "अनुच्छेद 10 / Article 10",
+        "अनुच्छेद 11 / Article 11",
+        "अनुच्छेद 12 / Article 12"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 10 नागरिकता के अधिकारों की निरंतरता का प्रावधान करता है, संसद द्वारा बनाए गए कानून के अधीन। / Article 10 provides for continuance of citizenship rights, subject to laws made by Parliament."
+    },
+    {
+      "id": 34,
+      "topic": "Citizenship: Articles 5–11",
+      "difficulty": "Easy",
+      "q": "नागरिकता के अधिग्रहण और समाप्ति पर कानून बनाने की शक्ति संसद को कौन-सा अनुच्छेद देता है? / Which Article empowers Parliament to make laws on acquisition and termination of citizenship?",
+      "opts": [
+        "अनुच्छेद 9 / Article 9",
+        "अनुच्छेद 10 / Article 10",
+        "अनुच्छेद 11 / Article 11",
+        "अनुच्छेद 14 / Article 14"
+      ],
+      "a": 2,
+      "exp": "अनुच्छेद 11 संसद को नागरिकता से संबंधित कानून बनाने की शक्ति देता है। / Article 11 empowers Parliament to legislate on citizenship."
+    },
+    {
+      "id": 35,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Easy",
+      "q": "नागरिकता अधिनियम किस वर्ष पारित हुआ? / In which year was the Citizenship Act enacted?",
+      "opts": [
+        "1949 / 1949",
+        "1950 / 1950",
+        "1955 / 1955",
+        "1976 / 1976"
+      ],
+      "a": 2,
+      "exp": "नागरिकता अधिनियम, 1955 संविधान के प्रारंभ के बाद नागरिकता के अधिग्रहण और समाप्ति के प्रावधान करता है। / The Citizenship Act, 1955 governs acquisition and termination of citizenship after the commencement of the Constitution."
+    },
+    {
+      "id": 36,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Easy",
+      "q": "निम्न में से कौन भारतीय नागरिकता प्राप्त करने का तरीका है? / Which of the following is a mode of acquiring Indian citizenship?",
+      "opts": [
+        "जन्म / Birth",
+        "वंश / Descent",
+        "पंजीकरण / Registration",
+        "उपर्युक्त सभी / All of the above"
+      ],
+      "a": 3,
+      "exp": "नागरिकता अधिनियम में जन्म, वंश, पंजीकरण, देशीयकरण और क्षेत्र के भारत में सम्मिलन जैसे तरीके शामिल हैं। / The Citizenship Act provides for citizenship by birth, descent, registration, naturalisation and incorporation of territory."
+    },
+    {
+      "id": 37,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Moderate",
+      "q": "“Jus soli” का अर्थ क्या है? / What does “jus soli” mean?",
+      "opts": [
+        "रक्त/वंश के आधार पर नागरिकता / Citizenship by blood/descent",
+        "जन्मस्थान के आधार पर नागरिकता / Citizenship by place of birth",
+        "निवास के आधार पर नागरिकता / Citizenship by residence",
+        "विवाह के आधार पर नागरिकता / Citizenship by marriage"
+      ],
+      "a": 1,
+      "exp": "Jus soli का अर्थ जन्मस्थान के आधार पर नागरिकता है। / Jus soli means citizenship based on place of birth."
+    },
+    {
+      "id": 38,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Moderate",
+      "q": "“Jus sanguinis” का अर्थ क्या है? / What does “jus sanguinis” mean?",
+      "opts": [
+        "जन्मस्थान के आधार पर नागरिकता / Citizenship by place of birth",
+        "रक्त/वंश के आधार पर नागरिकता / Citizenship by blood/descent",
+        "निवास की अवधि के आधार पर नागरिकता / Citizenship based on period of residence",
+        "क्षेत्र के अधिग्रहण से नागरिकता / Citizenship by incorporation of territory"
+      ],
+      "a": 1,
+      "exp": "Jus sanguinis का अर्थ माता-पिता/वंश के आधार पर नागरिकता है। / Jus sanguinis means citizenship based on bloodline or descent."
+    },
+    {
+      "id": 39,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Moderate",
+      "q": "नागरिकता समाप्त होने के कौन-से तरीके नागरिकता अधिनियम में दिए गए हैं? / Which modes of losing citizenship are provided under the Citizenship Act?",
+      "opts": [
+        "त्याग (Renunciation) / Renunciation",
+        "समाप्ति (Termination) / Termination",
+        "वंचित किया जाना (Deprivation) / Deprivation",
+        "उपर्युक्त सभी / All of the above"
+      ],
+      "a": 3,
+      "exp": "नागरिकता अधिनियम में नागरिकता खोने के तीन तरीके हैं: त्याग, समाप्ति और वंचित किया जाना। / The Citizenship Act provides three modes of losing citizenship: renunciation, termination and deprivation."
+    },
+    {
+      "id": 40,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Moderate",
+      "q": "नागरिकता का “त्याग” (Renunciation) क्या है? / What is renunciation of citizenship?",
+      "opts": [
+        "सरकार द्वारा नागरिकता छीनना / Citizenship taken away by the government",
+        "व्यक्ति द्वारा स्वेच्छा से नागरिकता छोड़ना / Voluntarily giving up citizenship",
+        "विदेशी नागरिकता स्वतः मिलना / Automatic grant of foreign citizenship",
+        "नागरिकता का निलंबन / Suspension of citizenship"
+      ],
+      "a": 1,
+      "exp": "त्याग में व्यक्ति स्वेच्छा से अपनी भारतीय नागरिकता छोड़ता है। / Renunciation is the voluntary giving up of Indian citizenship by a person."
+    },
+    {
+      "id": 41,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Moderate",
+      "q": "नागरिकता की “समाप्ति” (Termination) सामान्यतः किस स्थिति से जुड़ी है? / Termination of citizenship is generally associated with which situation?",
+      "opts": [
+        "स्वेच्छा से विदेशी नागरिकता प्राप्त करना / Voluntarily acquiring foreign citizenship",
+        "मतदान न करना / Not voting",
+        "भारत में पाँच वर्ष रहना / Living in India for five years",
+        "पासपोर्ट न बनवाना / Not obtaining a passport"
+      ],
+      "a": 0,
+      "exp": "स्वेच्छा से दूसरे देश की नागरिकता प्राप्त करने पर भारतीय नागरिकता समाप्त हो सकती है, कानून के प्रावधानों के अधीन। / Voluntarily acquiring citizenship of another country can terminate Indian citizenship, subject to the law."
+    },
+    {
+      "id": 42,
+      "topic": "Citizenship Act 1955",
+      "difficulty": "Moderate",
+      "q": "नागरिकता से “वंचित” (Deprivation) करने का आधार कौन-सा हो सकता है? / Which may be a ground for deprivation of citizenship?",
+      "opts": [
+        "धोखाधड़ी से नागरिकता प्राप्त करना / Obtaining citizenship by fraud",
+        "मतदान में भाग न लेना / Not participating in elections",
+        "राज्य बदलकर रहना / Moving to another State",
+        "सरकारी नौकरी न करना / Not having a government job"
+      ],
+      "a": 0,
+      "exp": "धोखाधड़ी या गलत तथ्य देकर नागरिकता प्राप्त करना नागरिकता से वंचित किए जाने का आधार हो सकता है। / Obtaining citizenship by fraud or false representation may be a ground for deprivation."
+    },
+    {
+      "id": 43,
+      "topic": "Citizenship Amendment Act",
+      "difficulty": "Moderate",
+      "q": "नागरिकता (संशोधन) अधिनियम, 2019 किन तीन देशों का उल्लेख करता है? / Which three countries are named in the Citizenship (Amendment) Act, 2019?",
+      "opts": [
+        "नेपाल, भूटान, श्रीलंका / Nepal, Bhutan, Sri Lanka",
+        "अफगानिस्तान, बांग्लादेश, पाकिस्तान / Afghanistan, Bangladesh, Pakistan",
+        "म्यांमार, चीन, नेपाल / Myanmar, China, Nepal",
+        "पाकिस्तान, ईरान, इराक / Pakistan, Iran, Iraq"
+      ],
+      "a": 1,
+      "exp": "2019 के संशोधन में अफगानिस्तान, बांग्लादेश और पाकिस्तान का उल्लेख है। / The 2019 amendment names Afghanistan, Bangladesh and Pakistan."
+    },
+    {
+      "id": 44,
+      "topic": "Citizenship Amendment Act",
+      "difficulty": "Moderate",
+      "q": "नागरिकता (संशोधन) अधिनियम, 2019 में किन समुदायों का उल्लेख है? / Which communities are specified in the Citizenship (Amendment) Act, 2019?",
+      "opts": [
+        "हिंदू, सिख, बौद्ध, जैन, पारसी और ईसाई / Hindus, Sikhs, Buddhists, Jains, Parsis and Christians",
+        "केवल हिंदू और सिख / Hindus and Sikhs only",
+        "सभी धार्मिक समुदाय / All religious communities",
+        "केवल बौद्ध, जैन और पारसी / Buddhists, Jains and Parsis only"
+      ],
+      "a": 0,
+      "exp": "अधिनियम में हिंदू, सिख, बौद्ध, जैन, पारसी और ईसाई समुदायों का उल्लेख है। / The Act specifies Hindus, Sikhs, Buddhists, Jains, Parsis and Christians."
+    },
+    {
+      "id": 45,
+      "topic": "Citizenship Amendment Act",
+      "difficulty": "Moderate",
+      "q": "2019 के नागरिकता संशोधन अधिनियम में निर्दिष्ट पात्र व्यक्तियों के भारत में प्रवेश की कट-ऑफ तारीख क्या है? / What is the cutoff date for entry into India specified by the Citizenship Amendment Act, 2019?",
+      "opts": [
+        "31 दिसंबर 2009 / 31 December 2009",
+        "31 दिसंबर 2014 / 31 December 2014",
+        "31 दिसंबर 2016 / 31 December 2016",
+        "31 दिसंबर 2019 / 31 December 2019"
+      ],
+      "a": 1,
+      "exp": "निर्दिष्ट समुदायों के पात्र व्यक्तियों के लिए कट-ऑफ तारीख 31 दिसंबर 2014 है। / The cutoff date for eligible persons from the specified communities is 31 December 2014."
+    },
+    {
+      "id": 46,
+      "topic": "Citizenship",
+      "difficulty": "Easy",
+      "q": "भारतीय संविधान में एकल नागरिकता की अवधारणा सामान्यतः किस देश से प्रेरित मानी जाती है? / The concept of single citizenship in the Indian Constitution is generally associated with which country?",
+      "opts": [
+        "अमेरिका / United States",
+        "ब्रिटेन / Britain",
+        "स्विट्ज़रलैंड / Switzerland",
+        "कनाडा / Canada"
+      ],
+      "a": 1,
+      "exp": "भारत में संघ और राज्यों के लिए अलग-अलग नागरिकता नहीं है; एकल नागरिकता की अवधारणा ब्रिटेन से प्रेरित मानी जाती है। / India has single citizenship rather than separate Union and State citizenship; the concept is associated with Britain."
+    },
+    {
+      "id": 47,
+      "topic": "Citizenship",
+      "difficulty": "Moderate",
+      "q": "भारतीय संविधान के प्रारंभ की तारीख क्या थी, जिस दिन भाग II के नागरिकता प्रावधान लागू हुए? / On what date did the Constitution commence, bringing Part II citizenship provisions into operation?",
+      "opts": [
+        "15 अगस्त 1947 / 15 August 1947",
+        "26 नवंबर 1949 / 26 November 1949",
+        "26 जनवरी 1950 / 26 January 1950",
+        "2 अक्टूबर 1950 / 2 October 1950"
+      ],
+      "a": 2,
+      "exp": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ। / The Constitution of India came into force on 26 January 1950."
+    },
+    {
+      "id": 48,
+      "topic": "Articles 1–4",
+      "difficulty": "Moderate",
+      "q": "अनुच्छेद 4 के तहत अनुच्छेद 2 या 3 के कानून को अनुच्छेद 368 का संशोधन क्यों नहीं माना जाता? / Why is a law under Article 2 or 3 not treated as an amendment under Article 368?",
+      "opts": [
+        "क्योंकि राष्ट्रपति कानून नहीं बनाते / Because the President does not make laws",
+        "क्योंकि संविधान स्वयं ऐसे पूरक बदलावों को अनुच्छेद 368 से बाहर रखता है / Because the Constitution itself excludes such consequential changes from Article 368",
+        "क्योंकि राज्यपाल उसे मंजूरी देते हैं / Because the Governor approves it",
+        "क्योंकि वह केवल अध्यादेश होता है / Because it is only an ordinance"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 4 स्पष्ट करता है कि ऐसे कानूनों में अनुसूची संबंधी पूरक/परिणामी बदलाव अनुच्छेद 368 के अंतर्गत संशोधन नहीं माने जाते। / Article 4 expressly excludes such supplemental and consequential schedule changes from the Article 368 amendment process."
+    },
+    {
+      "id": 49,
+      "topic": "State Reorganisation",
+      "difficulty": "Moderate",
+      "q": "भारत में राज्यों के पुनर्गठन का प्रमुख संवैधानिक आधार किस अनुच्छेद में दिया गया है? / Which Article provides the principal constitutional basis for reorganisation of States in India?",
+      "opts": [
+        "अनुच्छेद 2 / Article 2",
+        "अनुच्छेद 3 / Article 3",
+        "अनुच्छेद 21 / Article 21",
+        "अनुच्छेद 32 / Article 32"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 3 संसद को राज्यों के गठन और मौजूदा राज्यों के क्षेत्र, सीमा तथा नाम में बदलाव की शक्ति देता है। / Article 3 empowers Parliament to form States and alter the area, boundaries and names of existing States."
+    }
+  ]
+}
