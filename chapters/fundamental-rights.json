@@ -1,39 +1,6 @@
 
-{
-  "title": "Fundamental Rights",
-  "subject": "Polity",
-  "exam": ["SSC", "Railway"],
-  "questions": [
-    {
-      "id": 1,
-      "topic": "Fundamental Rights",
-      "difficulty": "Easy",
-      "q": "भारतीय संविधान में मौलिक अधिकार किस भाग में हैं? / Fundamental Rights are in which Part of the Indian Constitution?",
-      "opts": [
-        "Part I",
-        "Part II",
-        "Part III",
-        "Part IV"
-      ],
-      "a": 2,
-      "exp": "मौलिक अधिकार संविधान के भाग III में दिए गए हैं। / Fundamental Rights are provided in Part III."
-    },
-    {
-      "id": 2,
-      "topic": "Fundamental Rights",
-      "difficulty": "Easy",
-      "q": "कानून के समक्ष समानता किस अनुच्छेद में है? / Equality before law is provided under which Article?",
-      "opts": [
-        "Article 12",
-        "Article 14",
-        "Article 19",
-        "Article 21"
-      ],
-      "a": 1,
-      "exp": "अनुच्छेद 14 कानून के समक्ष समानता प्रदान करता है। / Article 14 provides equality before law."
-    },
    {
-    "id": 3,
+    "id": 1,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "The Preamble to the Indian Constitution begins with which words? / भारतीय संविधान की प्रस्तावना किन शब्दों से शुरू होती है?",
@@ -47,7 +14,7 @@
     "exp": "The Preamble begins with 'We, the People of India', expressing that the Constitution derives its authority from the people. / प्रस्तावना 'हम, भारत के लोग' से शुरू होती है, जो बताता है कि संविधान की शक्ति का स्रोत भारत की जनता है।"
   },
   {
-    "id": 4,
+    "id": 2,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "The Preamble is primarily based on which resolution? / प्रस्तावना मुख्यतः किस संकल्प पर आधारित है?",
@@ -61,7 +28,7 @@
     "exp": "The Preamble is based on the Objective Resolution moved by Jawaharlal Nehru in the Constituent Assembly on 13 December 1946. / प्रस्तावना जवाहरलाल नेहरू द्वारा 13 दिसंबर 1946 को संविधान सभा में प्रस्तुत उद्देश्य प्रस्ताव पर आधारित है।"
   },
   {
-    "id": 5,
+    "id": 3,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "Which words were added to the Preamble by the 42nd Constitutional Amendment Act, 1976? / 42वें संविधान संशोधन अधिनियम, 1976 द्वारा प्रस्तावना में कौन-से शब्द जोड़े गए?",
@@ -75,7 +42,7 @@
     "exp": "The 42nd Amendment added Socialist, Secular and the words 'unity and integrity of the Nation' to the Preamble. / 42वें संशोधन ने प्रस्तावना में समाजवादी, पंथनिरपेक्ष तथा 'राष्ट्र की एकता और अखंडता' शब्द जोड़े।"
   },
   {
-    "id": 6,
+    "id": 4,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "How many times has the Preamble to the Indian Constitution been amended? / भारतीय संविधान की प्रस्तावना में कितनी बार संशोधन हुआ है?",
@@ -89,7 +56,7 @@
     "exp": "The Preamble has been amended only once, by the 42nd Constitutional Amendment Act, 1976. / प्रस्तावना में केवल एक बार, 42वें संविधान संशोधन अधिनियम, 1976 द्वारा संशोधन किया गया है।"
   },
   {
-    "id": 7,
+    "id": 5,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "Which of the following is NOT an objective stated in the Preamble? / निम्नलिखित में से कौन-सा प्रस्तावना में उल्लिखित उद्देश्य नहीं है?",
@@ -103,7 +70,7 @@
     "exp": "The Preamble specifies Justice, Liberty, Equality and Fraternity as its objectives. Adult education is not one of these stated objectives. / प्रस्तावना में न्याय, स्वतंत्रता, समानता और बंधुता के उद्देश्य दिए गए हैं। प्रौढ़ शिक्षा इनमें शामिल नहीं है।"
   },
   {
-    "id": 8,
+    "id": 6,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "Which term indicates that India has no hereditary monarch as its head of state? / कौन-सा शब्द बताता है कि भारत में वंशानुगत सम्राट राष्ट्राध्यक्ष नहीं होता?",
@@ -117,7 +84,7 @@
     "exp": "Republic means that the head of state is not a hereditary monarch. India has an elected President. / गणराज्य का अर्थ है कि राष्ट्राध्यक्ष वंशानुगत सम्राट नहीं होता। भारत में निर्वाचित राष्ट्रपति होता है।"
   },
   {
-    "id": 9,
+    "id": 7,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "Which type of justice is NOT expressly mentioned in the Preamble? / प्रस्तावना में किस प्रकार के न्याय का स्पष्ट उल्लेख नहीं है?",
@@ -131,7 +98,7 @@
     "exp": "The Preamble expressly mentions social, economic and political justice. It does not list religious justice as a separate category. / प्रस्तावना में सामाजिक, आर्थिक और राजनीतिक न्याय का स्पष्ट उल्लेख है। धार्मिक न्याय को अलग श्रेणी के रूप में नहीं गिनाया गया है।"
   },
   {
-    "id": 10,
+    "id": 8,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "The phrase 'Liberty of thought, expression, belief, faith and worship' appears in which part of the Constitution? / 'विचार, अभिव्यक्ति, विश्वास, धर्म और उपासना की स्वतंत्रता' किस भाग में है?",
@@ -145,7 +112,7 @@
     "exp": "These liberties are expressly stated in the Preamble. / इन स्वतंत्रताओं का स्पष्ट उल्लेख संविधान की प्रस्तावना में है।"
   },
   {
-    "id": 11,
+    "id": 9,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "Which of the following best describes 'Sovereign' in the Preamble? / प्रस्तावना में 'संप्रभु' का सबसे उपयुक्त अर्थ क्या है?",
@@ -159,7 +126,7 @@
     "exp": "Sovereignty means that India is not legally subordinate to an external power and can make its own decisions. / संप्रभुता का अर्थ है कि भारत किसी बाहरी शक्ति के अधीन नहीं है और अपने निर्णय स्वयं ले सकता है।"
   },
   {
-    "id": 12,
+    "id": 10,
     "topic": "Preamble",
     "difficulty": "Easy",
     "q": "Which word in the Preamble is associated with equal respect for all religions and the absence of an official state religion? / सभी धर्मों के प्रति समान सम्मान और किसी आधिकारिक राजधर्म के अभाव से प्रस्तावना का कौन-सा शब्द संबंधित है?",
@@ -173,7 +140,7 @@
     "exp": "Secularism means the state does not identify itself with an official religion and must act according to constitutional principles. / पंथनिरपेक्षता का अर्थ है कि राज्य किसी आधिकारिक धर्म से अपनी पहचान नहीं जोड़ता और संवैधानिक सिद्धांतों के अनुसार कार्य करता है।"
   },
   {
-    "id": 13,
+    "id": 11,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which of the following correctly matches the objectives of the Preamble? / निम्नलिखित में से कौन-सा प्रस्तावना के उद्देश्यों का सही मिलान है?",
@@ -187,7 +154,7 @@
     "exp": "The Preamble promises equality of status and opportunity and seeks to promote fraternity assuring the dignity of the individual. / प्रस्तावना प्रतिष्ठा और अवसर की समानता तथा व्यक्ति की गरिमा सुनिश्चित करने वाली बंधुता को बढ़ावा देती है।"
   },
   {
-    "id": 14,
+    "id": 12,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "The Preamble describes India as which of the following? / प्रस्तावना भारत को किस रूप में वर्णित करती है?",
@@ -201,7 +168,7 @@
     "exp": "The Preamble declares India to be a Sovereign Socialist Secular Democratic Republic. / प्रस्तावना भारत को संप्रभु, समाजवादी, पंथनिरपेक्ष, लोकतांत्रिक गणराज्य घोषित करती है।"
   },
   {
-    "id": 15,
+    "id": 13,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which statement about the Preamble and the Objective Resolution is correct? / प्रस्तावना और उद्देश्य प्रस्ताव के बारे में कौन-सा कथन सही है?",
@@ -215,7 +182,7 @@
     "exp": "Jawaharlal Nehru moved the Objective Resolution on 13 December 1946; it was adopted on 22 January 1947. / जवाहरलाल नेहरू ने 13 दिसंबर 1946 को उद्देश्य प्रस्ताव प्रस्तुत किया और इसे 22 जनवरी 1947 को अपनाया गया।"
   },
   {
-    "id": 16,
+    "id": 14,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which landmark judgment held that the Preamble is part of the Constitution and can be amended subject to the basic structure doctrine? / किस ऐतिहासिक निर्णय में कहा गया कि प्रस्तावना संविधान का भाग है और मूल संरचना सिद्धांत के अधीन इसमें संशोधन किया जा सकता है?",
@@ -229,7 +196,7 @@
     "exp": "In Kesavananda Bharati v. State of Kerala (1973), the Supreme Court treated the Preamble as part of the Constitution and held that constitutional amendments cannot destroy its basic structure. / केशवानंद भारती बनाम केरल राज्य (1973) में सर्वोच्च न्यायालय ने प्रस्तावना को संविधान का भाग माना और कहा कि संशोधन द्वारा मूल संरचना नष्ट नहीं की जा सकती।"
   },
   {
-    "id": 17,
+    "id": 15,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "What was the position taken by the Supreme Court regarding the Preamble in the Berubari Union case (1960)? / बेरुबारी संघ मामले (1960) में सर्वोच्च न्यायालय ने प्रस्तावना के संबंध में क्या दृष्टिकोण अपनाया था?",
@@ -243,7 +210,7 @@
     "exp": "In Berubari Union (1960), the Court held that the Preamble was not part of the Constitution. This view was later reconsidered in Kesavananda Bharati (1973). / बेरुबारी संघ (1960) में न्यायालय ने प्रस्तावना को संविधान का भाग नहीं माना था। बाद में केशवानंद भारती (1973) में इस दृष्टिकोण पर पुनर्विचार हुआ।"
   },
   {
-    "id": 18,
+    "id": 16,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which of the following is NOT expressly listed as a form of liberty in the Preamble? / निम्नलिखित में से किस स्वतंत्रता का प्रस्तावना में स्पष्ट रूप से उल्लेख नहीं है?",
@@ -257,7 +224,7 @@
     "exp": "The Preamble lists liberty of thought, expression, belief, faith and worship. Freedom of movement is protected elsewhere in the Constitution, not listed in this Preamble phrase. / प्रस्तावना में विचार, अभिव्यक्ति, विश्वास, धर्म और उपासना की स्वतंत्रता है। आवागमन की स्वतंत्रता संविधान के अन्य प्रावधानों में संरक्षित है।"
   },
   {
-    "id": 19,
+    "id": 17,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which set correctly represents the three kinds of justice mentioned in the Preamble? / कौन-सा समूह प्रस्तावना में उल्लिखित न्याय के तीन प्रकारों को सही दर्शाता है?",
@@ -271,7 +238,7 @@
     "exp": "The Preamble expressly promises social, economic and political justice. / प्रस्तावना सामाजिक, आर्थिक और राजनीतिक न्याय सुनिश्चित करने का संकल्प व्यक्त करती है।"
   },
   {
-    "id": 20,
+    "id": 18,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which of the following statements about the term 'Republic' is correct? / 'गणराज्य' शब्द के बारे में कौन-सा कथन सही है?",
@@ -285,7 +252,7 @@
     "exp": "A republic has a non-hereditary head of state. In India, the President is elected indirectly. / गणराज्य में राष्ट्राध्यक्ष वंशानुगत नहीं होता। भारत में राष्ट्रपति अप्रत्यक्ष रूप से निर्वाचित होता है।"
   },
   {
-    "id": 21,
+    "id": 19,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which pair is correctly matched with its usual historical inspiration in constitutional studies? / संवैधानिक अध्ययन में कौन-सा युग्म अपनी सामान्य ऐतिहासिक प्रेरणा से सही मेल खाता है?",
@@ -299,7 +266,7 @@
     "exp": "Liberty, Equality and Fraternity are commonly associated with the French Revolution. The other pairs do not correctly represent the usual constitutional sources. / स्वतंत्रता, समानता और बंधुता को सामान्यतः फ्रांसीसी क्रांति से जोड़ा जाता है। अन्य युग्म संवैधानिक स्रोतों का सही मिलान नहीं हैं।"
   },
   {
-    "id": 22,
+    "id": 20,
     "topic": "Preamble",
     "difficulty": "Medium",
     "q": "Which statement best explains the term 'Democratic' in the Preamble? / प्रस्तावना में 'लोकतांत्रिक' शब्द का सबसे उपयुक्त अर्थ क्या है?",
@@ -313,7 +280,7 @@
     "exp": "Democracy is based on popular sovereignty and representative government. / लोकतंत्र जनता की सर्वोच्चता और प्रतिनिधि शासन पर आधारित है।"
   },
   {
-    "id": 23,
+    "id": 21,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Consider the following statements: 1. The Preamble has been amended once. 2. The words 'Socialist' and 'Secular' were added by the 42nd Amendment. 3. The word 'Republic' was added by the 42nd Amendment. Which statements are correct? / निम्नलिखित कथनों पर विचार करें: 1. प्रस्तावना में एक बार संशोधन हुआ है। 2. 'समाजवादी' और 'पंथनिरपेक्ष' शब्द 42वें संशोधन से जोड़े गए। 3. 'गणराज्य' शब्द 42वें संशोधन से जोड़ा गया। कौन-से कथन सही हैं?",
@@ -327,7 +294,7 @@
     "exp": "Statements 1 and 2 are correct. 'Republic' was present in the original Preamble; the 42nd Amendment added Socialist, Secular and Integrity-related wording. / कथन 1 और 2 सही हैं। 'गणराज्य' मूल प्रस्तावना में था; 42वें संशोधन ने समाजवादी, पंथनिरपेक्ष और अखंडता से संबंधित शब्द जोड़े।"
   },
   {
-    "id": 24,
+    "id": 22,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Consider the following statements about the Preamble: 1. It is a source of independent legislative power. 2. It can help interpret ambiguous constitutional provisions. 3. It is part of the Constitution according to Kesavananda Bharati. Which are correct? / प्रस्तावना के बारे में कथनों पर विचार करें: 1. यह स्वतंत्र विधायी शक्ति का स्रोत है। 2. यह अस्पष्ट संवैधानिक प्रावधानों की व्याख्या में मदद कर सकती है। 3. केशवानंद भारती निर्णय के अनुसार यह संविधान का भाग है। कौन-से सही हैं?",
@@ -341,7 +308,7 @@
     "exp": "The Preamble is not an independent source of legislative power, but it can guide constitutional interpretation. Kesavananda Bharati held it to be part of the Constitution. / प्रस्तावना स्वतंत्र विधायी शक्ति का स्रोत नहीं है, लेकिन संवैधानिक व्याख्या में मार्गदर्शन कर सकती है। केशवानंद भारती में इसे संविधान का भाग माना गया।"
   },
   {
-    "id": 25,
+    "id": 23,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Which of the following correctly distinguishes the Preamble from enforceable Fundamental Rights? / निम्नलिखित में से कौन-सा प्रस्तावना और न्यायालय में लागू कराए जा सकने वाले मौलिक अधिकारों के बीच सही अंतर बताता है?",
@@ -355,7 +322,7 @@
     "exp": "The Preamble guides interpretation and expresses constitutional objectives, but it does not independently confer enforceable rights. / प्रस्तावना व्याख्या में मार्गदर्शन करती है और संवैधानिक उद्देश्यों को व्यक्त करती है, लेकिन स्वतंत्र रूप से प्रवर्तनीय अधिकार प्रदान नहीं करती।"
   },
   {
-    "id": 26,
+    "id": 24,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Which statement about amending the Preamble is constitutionally most accurate? / प्रस्तावना में संशोधन के बारे में कौन-सा कथन संवैधानिक रूप से सबसे सटीक है?",
@@ -369,7 +336,7 @@
     "exp": "Parliament may amend the Constitution under Article 368, subject to the basic structure limitation established by the Supreme Court. / संसद अनुच्छेद 368 के तहत संविधान में संशोधन कर सकती है, लेकिन सर्वोच्च न्यायालय द्वारा स्थापित मूल संरचना की सीमा लागू रहती है।"
   },
   {
-    "id": 27,
+    "id": 25,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Which of the following is the correct sequence of objectives in the Preamble? / प्रस्तावना में उद्देश्यों का सही क्रम कौन-सा है?",
@@ -383,7 +350,7 @@
     "exp": "The Preamble states the objectives in the sequence: Justice, Liberty, Equality and Fraternity. / प्रस्तावना में उद्देश्यों का क्रम है: न्याय, स्वतंत्रता, समानता और बंधुता।"
   },
   {
-    "id": 28,
+    "id": 26,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Which statement best reflects the meaning of 'Fraternity' in the Preamble? / प्रस्तावना में 'बंधुता' का अर्थ सबसे सही रूप में कौन-सा कथन बताता है?",
@@ -397,7 +364,7 @@
     "exp": "The Preamble links fraternity with the dignity of the individual and the unity and integrity of the Nation. / प्रस्तावना बंधुता को व्यक्ति की गरिमा तथा राष्ट्र की एकता और अखंडता से जोड़ती है।"
   },
   {
-    "id": 29,
+    "id": 27,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Consider these statements: 1. The Preamble is a part of the Constitution. 2. The Preamble is independently enforceable in court. 3. The Preamble may be used to interpret constitutional provisions. Which combination is correct? / कथनों पर विचार करें: 1. प्रस्तावना संविधान का भाग है। 2. प्रस्तावना को स्वतंत्र रूप से न्यायालय में लागू कराया जा सकता है। 3. संवैधानिक प्रावधानों की व्याख्या में प्रस्तावना का उपयोग हो सकता है। सही संयोजन चुनें।",
@@ -411,7 +378,7 @@
     "exp": "Statements 1 and 3 are correct. The Preamble is part of the Constitution and aids interpretation, but it is not independently enforceable. / कथन 1 और 3 सही हैं। प्रस्तावना संविधान का भाग है और व्याख्या में सहायक है, लेकिन इसे स्वतंत्र रूप से लागू नहीं कराया जा सकता।"
   },
   {
-    "id": 30,
+    "id": 28,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Which pair is correctly associated with the constitutional position of the Preamble? / प्रस्तावना की संवैधानिक स्थिति के साथ कौन-सा युग्म सही रूप से जुड़ा है?",
@@ -425,7 +392,7 @@
     "exp": "Kesavananda Bharati (1973) held the Preamble to be part of the Constitution. Berubari Union (1960) had taken the earlier contrary position. / केशवानंद भारती (1973) में प्रस्तावना को संविधान का भाग माना गया। बेरुबारी संघ (1960) में इससे पहले विपरीत दृष्टिकोण अपनाया गया था।"
   },
   {
-    "id": 31,
+    "id": 29,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "Which of the following statements about the word 'Secular' in the Indian Preamble is the most accurate? / भारतीय प्रस्तावना में 'पंथनिरपेक्ष' शब्द के बारे में सबसे सटीक कथन कौन-सा है?",
@@ -439,7 +406,7 @@
     "exp": "Indian secularism protects religious freedom and requires the state to act consistently with constitutional equality and other guarantees. / भारतीय पंथनिरपेक्षता धार्मिक स्वतंत्रता की रक्षा करती है और राज्य से संवैधानिक समानता तथा अन्य गारंटियों के अनुरूप कार्य करने की अपेक्षा करती है।"
   },
   {
-    "id": 32,
+    "id": 30,
     "topic": "Preamble",
     "difficulty": "Hard",
     "q": "A constitutional provision is ambiguous. Which role can the Preamble appropriately play? / कोई संवैधानिक प्रावधान अस्पष्ट है। प्रस्तावना की उचित भूमिका क्या हो सकती है?",
