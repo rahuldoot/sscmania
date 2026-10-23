@@ -1,0 +1,921 @@
+{
+  "title": "Fundamental Rights",
+  "subject": "Polity",
+  "exam": [
+    "SSC CGL Pre",
+    "SSC CGL Mains",
+    "Railway"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Articles 12–13",
+      "difficulty": "Easy",
+      "q": "मौलिक अधिकार संविधान के किस भाग में दिए गए हैं? / Fundamental Rights are contained in which Part of the Constitution?",
+      "opts": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IVA"
+      ],
+      "a": 1,
+      "exp": "मौलिक अधिकार भाग III, अनुच्छेद 12–35 में हैं। / Fundamental Rights in Part III, Articles 12–35."
+    },
+    {
+      "id": 2,
+      "topic": "Articles 12–13",
+      "difficulty": "Easy",
+      "q": "मौलिक अधिकारों को किस प्रकार के अधिकार कहा गया है? / Fundamental Rights are described as what kind of rights?",
+      "opts": [
+        "केवल नैतिक अधिकार / Only moral rights",
+        "कानूनी रूप से लागू किए जा सकने वाले अधिकार / Legally enforceable rights",
+        "केवल आर्थिक अधिकार / Only economic rights",
+        "अस्थायी निर्देश / Temporary directives"
+      ],
+      "a": 1,
+      "exp": "ये legally enforceable rights हैं। / legally enforceable rights."
+    },
+    {
+      "id": 3,
+      "topic": "Articles 12–13",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 12 मुख्यतः किसकी परिभाषा देता है? / Article 12 primarily defines which term?",
+      "opts": [
+        "नागरिकता / Citizenship",
+        "राज्य / State",
+        "धर्म / Religion",
+        "न्यायालय / Court"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 12 में “State” की परिभाषा दी गई है। / Article 12 defines “State”."
+    },
+    {
+      "id": 4,
+      "topic": "Articles 12–13",
+      "difficulty": "Medium",
+      "q": "निम्न में से कौन अनुच्छेद 12 के अंतर्गत राज्य के उदाहरण के रूप में दिया गया है? / Which is listed as an example of State under Article 12?",
+      "opts": [
+        "LIC",
+        "निजी परिवार / Private family",
+        "विदेशी नागरिक / Foreign citizen",
+        "केवल निजी दुकान / Only a private shop"
+      ],
+      "a": 0,
+      "exp": "PSU, नगरपालिकाएँ, LIC और ONGC उदाहरण हैं। / PSUs, municipalities, LIC and ONGC."
+    },
+    {
+      "id": 5,
+      "topic": "Articles 12–13",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 13 किससे संबंधित है? / Article 13 deals with which of the following?",
+      "opts": [
+        "मौलिक अधिकारों के विरुद्ध कानून / Laws inconsistent with Fundamental Rights",
+        "राष्ट्रपति का चुनाव / Election of President",
+        "वित्त आयोग / Finance Commission",
+        "राज्यसभा की संरचना / Composition of Rajya Sabha"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 13 मौलिक अधिकारों से असंगत कानूनों से संबंधित है। / Article 13 concerns laws inconsistent with Fundamental Rights."
+    },
+    {
+      "id": 6,
+      "topic": "Articles 12–13",
+      "difficulty": "Medium",
+      "q": "“law” में क्या शामिल है? / what is included in “law”?",
+      "opts": [
+        "केवल संसद के अधिनियम / Acts of Parliament only",
+        "अध्यादेश, आदेश, उपनियम, नियम और विनियम / Ordinances, orders, by-laws, rules and regulations",
+        "केवल न्यायालय के निर्णय / Court judgments only",
+        "केवल प्रथाएँ / Customs only"
+      ],
+      "a": 1,
+      "exp": "ordinance, order, by-law, rule, regulation और notification शामिल हैं। / these forms of law."
+    },
+    {
+      "id": 7,
+      "topic": "Right to Equality",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 14 किस अधिकार से संबंधित है? / Article 14 relates to which right?",
+      "opts": [
+        "समानता का अधिकार / Right to Equality",
+        "धर्म की स्वतंत्रता / Freedom of Religion",
+        "शिक्षा का अधिकार / Right to Education",
+        "संवैधानिक उपचार / Constitutional Remedies"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 14 कानून के समक्ष समानता और कानूनों के समान संरक्षण से संबंधित है। / Article 14 concerns equality before law and equal protection of laws."
+    },
+    {
+      "id": 8,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "“Equality before law” की अवधारणा किस देश से संबंधित है? / “Equality before law” is associated with which country?",
+      "opts": [
+        "अमेरिका / USA",
+        "ब्रिटेन / Britain",
+        "जापान / Japan",
+        "कनाडा / Canada"
+      ],
+      "a": 1,
+      "exp": "इसे British concept बताता है। / It is a British concept."
+    },
+    {
+      "id": 9,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "“Equal protection of laws” की अवधारणा किस देश से संबंधित है? / “Equal protection of laws” is associated with which country?",
+      "opts": [
+        "ब्रिटेन / Britain",
+        "अमेरिका / USA",
+        "जापान / Japan",
+        "फ्रांस / France"
+      ],
+      "a": 1,
+      "exp": "इसे American concept बताता है। / It is an American concept."
+    },
+    {
+      "id": 10,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "Rule of Law की अवधारणा किस ब्रिटिश विधिवेत्ता से जोड़ी गई है? / The concept of Rule of Law is associated with which British jurist?",
+      "opts": [
+        "A. V. Dicey",
+        "B. R. Ambedkar",
+        "B. P. Mandal",
+        "Kaka Kalelkar"
+      ],
+      "a": 0,
+      "exp": "Rule of Law का विचार A. V. Dicey से जोड़ा गया है। / Rule of Law with A. V. Dicey."
+    },
+    {
+      "id": 11,
+      "topic": "Right to Equality",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 15 किन आधारों पर भेदभाव को निषिद्ध करता है? / Article 15 prohibits discrimination on which grounds?",
+      "opts": [
+        "धर्म, मूलवंश, जाति, लिंग और जन्मस्थान / Religion, race, caste, sex and place of birth",
+        "केवल आय / Income only",
+        "केवल शिक्षा / Education only",
+        "भाषा और संपत्ति בלבד / Language and property only"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 15 के ये पाँच आधार दिए गए हैं। / these five grounds."
+    },
+    {
+      "id": 12,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 15(3) राज्य को किसके लिए विशेष प्रावधान बनाने की अनुमति देता है? / Article 15(3) allows special provisions for whom?",
+      "opts": [
+        "केवल सरकारी कर्मचारी / Government employees only",
+        "महिलाओं और बच्चों / Women and children",
+        "केवल विदेशी नागरिक / Foreign citizens only",
+        "केवल व्यापारियों / Traders only"
+      ],
+      "a": 1,
+      "exp": "राज्य महिलाओं और बच्चों के लिए विशेष प्रावधान कर सकता है। / special provisions may be made for women and children."
+    },
+    {
+      "id": 13,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 15(4) किसके उन्नयन हेतु विशेष प्रावधानों से संबंधित है? / Article 15(4) concerns special provisions for advancement of which groups?",
+      "opts": [
+        "SC और ST",
+        "केवल महिलाएँ / Women only",
+        "केवल बच्चे / Children only",
+        "विदेशी नागरिक / Foreign citizens"
+      ],
+      "a": 0,
+      "exp": "अनुसूचित जातियों और अनुसूचित जनजातियों का उल्लेख है। / Scheduled Castes and Scheduled Tribes."
+    },
+    {
+      "id": 14,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "चंपकम दोरैराजन मामले का निर्णय किस वर्ष दिया गया था? / In which year was the Champakam Dorairajan judgment delivered?",
+      "opts": [
+        "1947",
+        "1950",
+        "1951",
+        "1978"
+      ],
+      "a": 2,
+      "exp": "सर्वोच्च न्यायालय का निर्णय 1951 में था। / the Supreme Court verdict as 1951."
+    },
+    {
+      "id": 15,
+      "topic": "Right to Equality",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 16 किससे संबंधित है? / Article 16 deals with what?",
+      "opts": [
+        "सार्वजनिक रोजगार में अवसर की समानता / Equality of opportunity in public employment",
+        "धार्मिक संस्थाओं का प्रबंधन / Management of religious institutions",
+        "बाल श्रम / Child labour",
+        "संपत्ति का अधिकार / Right to Property"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 16 सार्वजनिक रोजगार में अवसर की समानता से संबंधित है। / Article 16 concerns equality of opportunity in public employment."
+    },
+    {
+      "id": 16,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "प्रथम पिछड़ा वर्ग आयोग (1953) के अध्यक्ष कौन थे? / Who chaired the First Backward Classes Commission (1953)?",
+      "opts": [
+        "B. P. Mandal",
+        "Kaka Kalelkar",
+        "A. V. Dicey",
+        "Indira Sawhney"
+      ],
+      "a": 1,
+      "exp": "काका कालेलकर को प्रथम पिछड़ा वर्ग आयोग का अध्यक्ष बताया गया है। / names Kaka Kalelkar."
+    },
+    {
+      "id": 17,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "मंडल आयोग के अध्यक्ष कौन थे? / Who chaired the Mandal Commission?",
+      "opts": [
+        "Kaka Kalelkar",
+        "B. P. Mandal",
+        "A. K. Gopalan",
+        "Hussainara Khatoon"
+      ],
+      "a": 1,
+      "exp": "B. P. Mandal का नाम दिया गया है। / names B. P. Mandal."
+    },
+    {
+      "id": 18,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "इंद्रा साहनी मामले में OBC आरक्षण की सीमा कितनी थी? / what OBC reservation percentage was upheld in the Indra Sawhney case?",
+      "opts": [
+        "10%",
+        "15%",
+        "27%",
+        "50%"
+      ],
+      "a": 2,
+      "exp": "OBC के लिए 27% आरक्षण का उल्लेख है। / 27% reservation for OBCs."
+    },
+    {
+      "id": 19,
+      "topic": "Right to Equality",
+      "difficulty": "Medium",
+      "q": "इंद्रा साहनी मामले में कुल आरक्षण पर सामान्य सीमा कितनी बताई गई है? / What general cap on total reservations is stated for the Indra Sawhney case?",
+      "opts": [
+        "27%",
+        "33%",
+        "50%",
+        "60%"
+      ],
+      "a": 2,
+      "exp": "कुल आरक्षण पर 50% सीमा का उल्लेख है। / a 50% cap."
+    },
+    {
+      "id": 20,
+      "topic": "Right to Equality",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 17 किस प्रथा को समाप्त करता है? / Article 17 abolishes which practice?",
+      "opts": [
+        "अस्पृश्यता / Untouchability",
+        "उपाधियाँ / Titles",
+        "बाल श्रम / Child labour",
+        "मानव तस्करी / Human trafficking"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 17 अस्पृश्यता का उन्मूलन करता है। / Article 17 abolishes untouchability."
+    },
+    {
+      "id": 21,
+      "topic": "Right to Equality",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 18 किससे संबंधित है? / Article 18 deals with which subject?",
+      "opts": [
+        "उपाधियों का उन्मूलन / Abolition of titles",
+        "शिक्षा / Education",
+        "धर्म / Religion",
+        "गिरफ्तारी / Arrest"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 18 को Abolition of Titles कहा गया है। / labels Article 18 as Abolition of Titles."
+    },
+    {
+      "id": 22,
+      "topic": "Right to Freedom",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 19 के अधिकार किसे उपलब्ध हैं? / Article 19 rights are available to whom?",
+      "opts": [
+        "सभी व्यक्तियों को / All persons",
+        "केवल नागरिकों को / Citizens only",
+        "केवल विदेशियों को / Foreigners only",
+        "केवल सरकारी कर्मचारियों को / Government employees only"
+      ],
+      "a": 1,
+      "exp": "अनुच्छेद 19 के अधिकारों को नागरिकों के अधिकारों के रूप में प्रस्तुत करता है। / Article 19 rights as rights of citizens."
+    },
+    {
+      "id": 23,
+      "topic": "Right to Freedom",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 19(1)(a) किस स्वतंत्रता की गारंटी देता है? / Article 19(1)(a) guarantees which freedom?",
+      "opts": [
+        "भाषण और अभिव्यक्ति / Speech and expression",
+        "धर्म का प्रचार / Propagation of religion",
+        "संपत्ति खरीदना / Buying property",
+        "निःशुल्क शिक्षा / Free education"
+      ],
+      "a": 0,
+      "exp": "भाषण और अभिव्यक्ति की स्वतंत्रता दी गई है। / freedom of speech and expression."
+    },
+    {
+      "id": 24,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 19(1)(c) किससे संबंधित है? / Article 19(1)(c) relates to what?",
+      "opts": [
+        "संघ, यूनियन या सहकारी समितियाँ बनाना / Forming associations, unions or cooperative societies",
+        "विदेश यात्रा / Foreign travel",
+        "धार्मिक कर / Religious tax",
+        "गिरफ्तारी से सुरक्षा / Protection from arrest"
+      ],
+      "a": 0,
+      "exp": "associations, unions और cooperative societies बनाने का अधिकार दिया है। / this right."
+    },
+    {
+      "id": 25,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "सहकारी समितियाँ बनाने के अधिकार को अनुच्छेद 19(1)(c) में किस संशोधन ने जोड़ा? / Which amendment added cooperative societies to Article 19(1)(c) as stated?",
+      "opts": [
+        "42वाँ / 42nd",
+        "44वाँ / 44th",
+        "86वाँ / 86th",
+        "97वाँ / 97th"
+      ],
+      "a": 3,
+      "exp": "97वें संशोधन का उल्लेख है। / the 97th Amendment."
+    },
+    {
+      "id": 26,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "रोमेश थापर बनाम मद्रास राज्य मामला किस वर्ष का है? / Romesh Thappar v. State of Madras was decided in which year?",
+      "opts": [
+        "1950",
+        "1951",
+        "1975",
+        "2015"
+      ],
+      "a": 0,
+      "exp": "वर्ष 1950 दिया गया है। / 1950."
+    },
+    {
+      "id": 27,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "श्रेया सिंघल मामले में किस IT Act प्रावधान को निरस्त किया गया? / Which IT Act provision was struck down in the Shreya Singhal case?",
+      "opts": [
+        "Section 43",
+        "Section 66-A",
+        "Section 72",
+        "Section 79"
+      ],
+      "a": 1,
+      "exp": "Section 66-A का उल्लेख है। / Section 66-A."
+    },
+    {
+      "id": 28,
+      "topic": "Right to Freedom",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 20 किससे सुरक्षा देता है? / Article 20 provides protection in respect of what?",
+      "opts": [
+        "दोषसिद्धि के संबंध में अपराध / Conviction for offences",
+        "धार्मिक कर / Religious taxes",
+        "सांस्कृतिक अधिकार / Cultural rights",
+        "सार्वजनिक रोजगार / Public employment"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 20 को Protection in respect of conviction for offences कहा गया है। / labels Article 20 accordingly."
+    },
+    {
+      "id": 29,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "Ex-post-facto law के विरुद्ध सुरक्षा का अर्थ क्या है? / What does protection against ex-post-facto laws mean?",
+      "opts": [
+        "अपराध के बाद अधिक दंड देने वाला पिछला कानून लागू नहीं किया जा सकता / A harsher penalty cannot be imposed retrospectively",
+        "एक ही अपराध में दो बार दंड देना / Punishing twice for the same offence",
+        "बिना वारंट हर गिरफ्तारी / Arresting without warrant",
+        "सभी कर समाप्त करना / Abolishing all taxes"
+      ],
+      "a": 0,
+      "exp": "अपराध के समय लागू कानून से अधिक दंड न देने का सिद्धांत है। / no penalty greater than the law in force when the crime was committed."
+    },
+    {
+      "id": 30,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "Double jeopardy का क्या अर्थ है? / What does double jeopardy mean?",
+      "opts": [
+        "एक अपराध के लिए दो बार दंडित करना / Punishing a person twice for the same offence",
+        "अपील का अधिकार / Right to appeal",
+        "बिना मुकदमे रिहाई / Release without trial",
+        "दो न्यायालयों में मुकदमा चुनना / Choosing two courts"
+      ],
+      "a": 0,
+      "exp": "एक ही अपराध के लिए दो बार दंड से सुरक्षा दी गई है। / protection against being punished twice for the same offence."
+    },
+    {
+      "id": 31,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 20 के अंतर्गत कौन-सा संरक्षण शामिल है? / Which protection is included under Article 20?",
+      "opts": [
+        "स्वयं के विरुद्ध साक्ष्य देने के लिए बाध्य न किया जाना / Protection against compelled self-incrimination",
+        "धर्म का प्रचार / Propagation of religion",
+        "अल्पसंख्यक संस्थान चलाना / Administering minority institutions",
+        "शिक्षा का अधिकार / Right to education"
+      ],
+      "a": 0,
+      "exp": "self-incrimination से सुरक्षा दी गई है। / protection against self-incrimination."
+    },
+    {
+      "id": 32,
+      "topic": "Right to Freedom",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 20 और 21 के बारे में क्या विशेष बात है? / What is special about Articles 20 and 21?",
+      "opts": [
+        "आपातकाल में कभी निलंबित नहीं किए जा सकते / They can never be suspended during an Emergency",
+        "केवल विदेशियों पर लागू हैं / Apply only to foreigners",
+        "केवल राज्यों पर लागू हैं / Apply only to states",
+        "केवल आर्थिक अधिकार हैं / Are only economic rights"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 20 और 21 को निलंबित न किए जाने की बात कही गई है। / that Articles 20 and 21 cannot be suspended."
+    },
+    {
+      "id": 33,
+      "topic": "Right to Freedom",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 21 किसकी सुरक्षा करता है? / Article 21 protects what?",
+      "opts": [
+        "जीवन और व्यक्तिगत स्वतंत्रता / Life and personal liberty",
+        "केवल संपत्ति / Property only",
+        "केवल धर्म / Religion only",
+        "सार्वजनिक रोजगार / Public employment"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 21 को Protection of Life and Personal Liberty बताया गया है। / this description."
+    },
+    {
+      "id": 34,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 21 की प्रक्रिया संबंधी अवधारणा किस संविधान से उधार ली गई है? / the procedure under Article 21 was borrowed from which Constitution?",
+      "opts": [
+        "अमेरिका / USA",
+        "जापान / Japan",
+        "ब्रिटेन / UK",
+        "आयरलैंड / Ireland"
+      ],
+      "a": 1,
+      "exp": "Japanese Constitution का उल्लेख है। / Japanese Constitution."
+    },
+    {
+      "id": 35,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "A. K. Gopalan मामला किस वर्ष का है? / In which year was the A. K. Gopalan case?",
+      "opts": [
+        "1950",
+        "1951",
+        "1978",
+        "1992"
+      ],
+      "a": 0,
+      "exp": "A. K. Gopalan case: 1950 दिया गया है। / 1950."
+    },
+    {
+      "id": 36,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "Maneka Gandhi मामले का वर्ष क्या है? / What year is given for the Maneka Gandhi case?",
+      "opts": [
+        "1950",
+        "1978",
+        "1985",
+        "2011"
+      ],
+      "a": 1,
+      "exp": "Maneka Gandhi case: 1978 दिया गया है। / 1978."
+    },
+    {
+      "id": 37,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "निजता के अधिकार को किस मामले से जोड़ा गया है? / Which case is linked to the Right to Privacy?",
+      "opts": [
+        "K. S. Puttaswamy case",
+        "Mandal case",
+        "Champakam Dorairajan case",
+        "Romesh Thappar case"
+      ],
+      "a": 0,
+      "exp": "K. S. Puttaswamy मामले का उल्लेख है। / the K. S. Puttaswamy case."
+    },
+    {
+      "id": 38,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "ओल्गा टेलिस मामला मुख्यतः किस अधिकार से संबंधित है? / Olga Tellis case is linked to which right?",
+      "opts": [
+        "आजीविका का अधिकार / Right to livelihood",
+        "उपाधियों का अधिकार / Right to titles",
+        "धार्मिक कर / Religious tax",
+        "नागरिकता / Citizenship"
+      ],
+      "a": 0,
+      "exp": "फुटपाथ निवासियों की बेदखली और आजीविका के अधिकार का उल्लेख है। / links the case with the right to livelihood."
+    },
+    {
+      "id": 39,
+      "topic": "Right to Freedom",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 21A किस आयु वर्ग के बच्चों को निःशुल्क और अनिवार्य शिक्षा देता है? / Article 21A provides free and compulsory education to children of which age group?",
+      "opts": [
+        "3–6 वर्ष / 3–6 years",
+        "6–14 वर्ष / 6–14 years",
+        "14–18 वर्ष / 14–18 years",
+        "5–10 वर्ष / 5–10 years"
+      ],
+      "a": 1,
+      "exp": "आयु 6 से 14 वर्ष है। / ages 6 to 14."
+    },
+    {
+      "id": 40,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 21A किस संविधान संशोधन से जोड़ा गया? / Article 21A was added by which Constitutional Amendment?",
+      "opts": [
+        "42वाँ, 1976 / 42nd, 1976",
+        "44वाँ, 1978 / 44th, 1978",
+        "86वाँ, 2002 / 86th, 2002",
+        "97वाँ, 2011 / 97th, 2011"
+      ],
+      "a": 2,
+      "exp": "86वें संशोधन अधिनियम, 2002 का उल्लेख है। / the 86th Amendment Act, 2002."
+    },
+    {
+      "id": 41,
+      "topic": "Right to Freedom",
+      "difficulty": "Medium",
+      "q": "निवारक निरोध (Preventive detention) का उद्देश्य क्या है? / What is the purpose of preventive detention?",
+      "opts": [
+        "पहले से किए अपराध का दंड / Punishment for a committed offence",
+        "संभावित भविष्य के अपराध को रोकना / Preventing a possible future offence",
+        "कर वसूलना / Collecting tax",
+        "नागरिकता देना / Granting citizenship"
+      ],
+      "a": 1,
+      "exp": "preventive detention को संभावित भविष्य के अपराध को रोकने हेतु बताया गया है। / this purpose."
+    },
+    {
+      "id": 42,
+      "topic": "Right to Freedom",
+      "difficulty": "Easy",
+      "q": "साधारण कानून के अंतर्गत गिरफ्तार व्यक्ति को मजिस्ट्रेट के सामने कितने समय में पेश करना चाहिए? / Within how much time should a person arrested under ordinary law be produced before a magistrate?",
+      "opts": [
+        "12 घंटे / 12 hours",
+        "24 घंटे / 24 hours",
+        "48 घंटे / 48 hours",
+        "72 घंटे / 72 hours"
+      ],
+      "a": 1,
+      "exp": "24 घंटे के भीतर मजिस्ट्रेट के समक्ष पेश करने का उल्लेख है। / within 24 hours."
+    },
+    {
+      "id": 43,
+      "topic": "Right against Exploitation",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 23 किस पर रोक लगाता है? / Article 23 prohibits what?",
+      "opts": [
+        "मानव तस्करी और बेगार / Human trafficking and forced labour",
+        "धार्मिक शिक्षा / Religious instruction",
+        "उपाधियाँ / Titles",
+        "सार्वजनिक रोजगार / Public employment"
+      ],
+      "a": 0,
+      "exp": "trafficking in human beings और forced labour (begar) का उल्लेख है। / both."
+    },
+    {
+      "id": 44,
+      "topic": "Right against Exploitation",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 24 किससे संबंधित है? / Article 24 relates to what?",
+      "opts": [
+        "खतरनाक स्थानों पर बच्चों के रोजगार का निषेध / Prohibition of child employment in hazardous places",
+        "धर्म की स्वतंत्रता / Freedom of religion",
+        "निजता / Privacy",
+        "संपत्ति / Property"
+      ],
+      "a": 0,
+      "exp": "14 वर्ष से कम आयु के बच्चों को कारखानों, खानों या खतरनाक कार्यों में नियोजित नहीं किया जा सकता। / this prohibition."
+    },
+    {
+      "id": 45,
+      "topic": "Freedom of Religion",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 25 किस स्वतंत्रता से संबंधित है? / Article 25 concerns which freedom?",
+      "opts": [
+        "अंतःकरण तथा धर्म को मानने, आचरण करने और प्रचार करने की स्वतंत्रता / Freedom of conscience and to profess, practise and propagate religion",
+        "भाषण की स्वतंत्रता / Freedom of speech",
+        "संपत्ति की स्वतंत्रता / Freedom of property",
+        "रोजगार की स्वतंत्रता / Freedom of employment"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 25 का यही विवरण है। / this description."
+    },
+    {
+      "id": 46,
+      "topic": "Freedom of Religion",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 27 किस बात पर रोक लगाता है? / what does Article 27 prohibit?",
+      "opts": [
+        "किसी विशेष धर्म के प्रचार हेतु कर लगाने पर / Levying taxes for promotion of a particular religion",
+        "हर प्रकार की फीस पर / All fees",
+        "धार्मिक संस्थाएँ बनाने पर / Establishing religious institutions",
+        "धर्म का अभ्यास करने पर / Practising religion"
+      ],
+      "a": 0,
+      "exp": "कहता है कि यह कर (tax) की वसूली रोकता है, फीस की नहीं। / it prohibits levy of tax, not fee."
+    },
+    {
+      "id": 47,
+      "topic": "Freedom of Religion",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 26 धार्मिक संस्थाओं को कौन-सा अधिकार देता है? / Which right does Article 26 give religious institutions?",
+      "opts": [
+        "अपने धार्मिक मामलों का प्रबंधन / Manage their own religious affairs",
+        "संसद भंग करना / Dissolve Parliament",
+        "कर लगाने का अधिकार / Levy taxes",
+        "न्यायाधीश नियुक्त करना / Appoint judges"
+      ],
+      "a": 0,
+      "exp": "धार्मिक संस्थाएँ स्थापित करने, धार्मिक मामलों का प्रबंधन और संपत्ति रखने के अधिकार सूचीबद्ध हैं। / these rights."
+    },
+    {
+      "id": 48,
+      "topic": "Freedom of Religion",
+      "difficulty": "Medium",
+      "q": "राज्य द्वारा पूर्णतः वित्तपोषित शैक्षणिक संस्थान में धार्मिक शिक्षा के संबंध में क्या प्रावधान है? / What is the provision regarding religious instruction in an educational institution wholly maintained by the State?",
+      "opts": [
+        "अनिवार्य है / Mandatory",
+        "निषिद्ध है / Prohibited",
+        "हमेशा वैकल्पिक / Always optional",
+        "केवल रविवार को / Only on Sundays"
+      ],
+      "a": 1,
+      "exp": "राज्य द्वारा पूर्णतः वित्तपोषित शैक्षणिक संस्थानों में धार्मिक शिक्षा नहीं दी जा सकती। / Religious instruction cannot be provided in educational institutions wholly maintained by the State."
+    },
+    {
+      "id": 49,
+      "topic": "Cultural and Educational Rights",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 29 किस हित की रक्षा करता है? / Article 29 protects which interest?",
+      "opts": [
+        "भाषा, लिपि और संस्कृति का संरक्षण / Conservation of language, script and culture",
+        "केवल सरकारी नौकरी / Government jobs only",
+        "कर भुगतान / Tax payment",
+        "गिरफ्तारी / Arrest"
+      ],
+      "a": 0,
+      "exp": "विशिष्ट भाषा, लिपि या संस्कृति वाला नागरिक समूह उसे संरक्षित कर सकता है। / this right."
+    },
+    {
+      "id": 50,
+      "topic": "Cultural and Educational Rights",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 30 किस अधिकार से संबंधित है? / Article 30 relates to which right?",
+      "opts": [
+        "अल्पसंख्यकों को शैक्षणिक संस्थान स्थापित और प्रशासित करने का अधिकार / Minorities’ right to establish and administer educational institutions",
+        "बाल श्रम रोकना / Preventing child labour",
+        "संपत्ति का अधिकार / Right to property",
+        "धार्मिक कर / Religious tax"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 30 का यही विषय दिया गया है। / this subject."
+    },
+    {
+      "id": 51,
+      "topic": "Cultural and Educational Rights",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 29 और 30 में मुख्य अंतर क्या है? / What distinction between Articles 29 and 30 is given?",
+      "opts": [
+        "29 केवल अल्पसंख्यकों के लिए है; 30 सभी के लिए / 29 is only for minorities; 30 for everyone",
+        "29 केवल अल्पसंख्यकों तक सीमित नहीं; 30 विशेष रूप से अल्पसंख्यकों से संबंधित / 29 is not limited only to minorities; 30 specifically concerns minorities",
+        "दोनों केवल कर से संबंधित हैं / Both concern taxes only",
+        "दोनों समान रूप से गिरफ्तारी से संबंधित हैं / Both concern arrest equally"
+      ],
+      "a": 1,
+      "exp": "यही अंतर दिया गया है। / this distinction."
+    },
+    {
+      "id": 52,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Easy",
+      "q": "डॉ. बी. आर. आंबेडकर ने किस अनुच्छेद को संविधान का “Heart and Soul” कहा? / Which Article did Dr. B. R. Ambedkar call the “Heart and Soul” of the Constitution?",
+      "opts": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "a": 3,
+      "exp": "अनुच्छेद 32 को Heart and Soul कहा गया है। / Article 32."
+    },
+    {
+      "id": 53,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Easy",
+      "q": "अनुच्छेद 32 किससे संबंधित है? / Article 32 deals with what?",
+      "opts": [
+        "मौलिक अधिकारों के प्रवर्तन हेतु संवैधानिक उपचार / Constitutional remedies for enforcement of Fundamental Rights",
+        "नागरिकता / Citizenship",
+        "राज्यों का गठन / Formation of states",
+        "राष्ट्रपति का चुनाव / Presidential election"
+      ],
+      "a": 0,
+      "exp": "सर्वोच्च न्यायालय जाने और writs जारी करने का अधिकार दिया गया है। / remedies through the Supreme Court and writs."
+    },
+    {
+      "id": 54,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Easy",
+      "q": "निम्न में से कौन-सी writ सूचीबद्ध है? / Which of the following writs is listed?",
+      "opts": [
+        "Habeas Corpus",
+        "Adjournment",
+        "Veto",
+        "Ordinance"
+      ],
+      "a": 0,
+      "exp": "Habeas Corpus, Mandamus, Prohibition, Certiorari और Quo-warranto दी गई हैं। / these five writs."
+    },
+    {
+      "id": 55,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Medium",
+      "q": "Habeas Corpus का मुख्य उद्देश्य क्या है? / What is the main purpose of Habeas Corpus?",
+      "opts": [
+        "अवैध हिरासत से व्यक्तिगत स्वतंत्रता की रक्षा / Protecting personal liberty against unlawful detention",
+        "सार्वजनिक अधिकारी को कर्तव्य करने का आदेश / Ordering a public official to perform a duty",
+        "सार्वजनिक पद पर अधिकार चुनौती देना / Challenging entitlement to public office",
+        "निचली अदालत को रोकना / Preventing a lower court from proceeding"
+      ],
+      "a": 0,
+      "exp": "Habeas Corpus को unlawful detention के विरुद्ध बताया गया है। / this purpose."
+    },
+    {
+      "id": 56,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Medium",
+      "q": "Mandamus का अर्थ क्या दिया गया है? / What meaning of Mandamus is given?",
+      "opts": [
+        "To forbid",
+        "We command",
+        "By what authority",
+        "To be certified"
+      ],
+      "a": 1,
+      "exp": "Mandamus का अर्थ “We command” है। / this meaning."
+    },
+    {
+      "id": 57,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Medium",
+      "q": "Prohibition writ की प्रकृति कैसी बताई गई है? / What is the nature of the writ of Prohibition?",
+      "opts": [
+        "Curative",
+        "Preventive",
+        "केवल वित्तीय / Financial only",
+        "केवल सलाहकारी / Advisory only"
+      ],
+      "a": 1,
+      "exp": "Prohibition को preventive बताया गया है। / preventive."
+    },
+    {
+      "id": 58,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Medium",
+      "q": "Quo Warranto writ किस बात को चुनौती देती है? / What does Quo Warranto challenge?",
+      "opts": [
+        "किसी व्यक्ति के सार्वजनिक पद धारण करने के अधिकार को / A person’s authority to hold public office",
+        "अवैध हिरासत / Unlawful detention",
+        "कर का भुगतान / Payment of tax",
+        "धार्मिक शिक्षा / Religious instruction"
+      ],
+      "a": 0,
+      "exp": "इसका अर्थ “By what authority” और सार्वजनिक पद का अधिकार चुनौती देना है। / this meaning and purpose."
+    },
+    {
+      "id": 59,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Medium",
+      "q": "सर्वोच्च न्यायालय किस अनुच्छेद के तहत writ जारी करता है? / Under which Article does the Supreme Court issue writs?",
+      "opts": [
+        "Article 32",
+        "Article 226",
+        "Article 300A",
+        "Article 368"
+      ],
+      "a": 0,
+      "exp": "Supreme Court के लिए अनुच्छेद 32 दिया गया है। / Article 32 for the Supreme Court."
+    },
+    {
+      "id": 60,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Medium",
+      "q": "उच्च न्यायालय की writ jurisdiction किस अनुच्छेद में दी गई है? / High Courts’ writ jurisdiction is given under which Article?",
+      "opts": [
+        "Article 32",
+        "Article 226",
+        "Article 21A",
+        "Article 35"
+      ],
+      "a": 1,
+      "exp": "High Court के लिए अनुच्छेद 226 दिया गया है। / Article 226."
+    },
+    {
+      "id": 61,
+      "topic": "Constitutional Remedies",
+      "difficulty": "Medium",
+      "q": "उच्च न्यायालय की writ jurisdiction सर्वोच्च न्यायालय से व्यापक क्यों है? / Why is the High Court’s writ jurisdiction wider?",
+      "opts": [
+        "यह मौलिक अधिकारों और कानूनी अधिकारों दोनों के उल्लंघन पर writ जारी कर सकता है / It can issue writs for violations of Fundamental Rights and legal rights",
+        "यह केवल मौलिक अधिकारों पर सुनवाई करता है / It hears only Fundamental Rights",
+        "यह संसद के कानून नहीं मानता / It does not follow Parliament’s laws",
+        "यह केवल राज्यपाल के विरुद्ध writ जारी करता है / It issues writs only against governors"
+      ],
+      "a": 0,
+      "exp": "High Court के लिए Fundamental Rights + Legal Rights बताया गया है। / Fundamental Rights plus Legal Rights."
+    },
+    {
+      "id": 62,
+      "topic": "Articles 33–35",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 33 संसद को किस शक्ति से संबंधित है? / Article 33 concerns Parliament’s power to do what?",
+      "opts": [
+        "सशस्त्र बलों आदि के सदस्यों के मौलिक अधिकार सीमित करना / Restrict Fundamental Rights of members of armed forces and specified services",
+        "राज्यों की सीमाएँ बदलना / Change state boundaries",
+        "राष्ट्रपति का चुनाव करना / Elect the President",
+        "नागरिकता प्रदान करना / Grant citizenship"
+      ],
+      "a": 0,
+      "exp": "अनुच्छेद 33 सशस्त्र बल, पुलिस और खुफिया एजेंसियों के सदस्यों के अधिकार सीमित करने से संबंधित है। / this power."
+    },
+    {
+      "id": 63,
+      "topic": "Articles 33–35",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 34 किस स्थिति में मौलिक अधिकारों पर प्रतिबंध से संबंधित है? / Article 34 concerns restrictions on Fundamental Rights in which situation?",
+      "opts": [
+        "Martial Law लागू होने पर / When Martial Law is in force",
+        "राष्ट्रीय चुनाव के समय / During national elections",
+        "वित्तीय आपातकाल में ही / Only during financial emergency",
+        "जनगणना के समय / During census"
+      ],
+      "a": 0,
+      "exp": "Martial Law के दौरान प्रतिबंधों का उल्लेख है। / Martial Law."
+    },
+    {
+      "id": 64,
+      "topic": "Articles 33–35",
+      "difficulty": "Medium",
+      "q": "अनुच्छेद 35 किसे कुछ मौलिक अधिकारों के प्रवर्तन से संबंधित कानून बनाने की विशेष शक्ति देता है? / Article 35 gives exclusive power to make certain laws relating to enforcement of Fundamental Rights to whom?",
+      "opts": [
+        "राज्य विधानमंडल / State legislatures",
+        "संसद / Parliament",
+        "सर्वोच्च न्यायालय / Supreme Court",
+        "निर्वाचन आयोग / Election Commission"
+      ],
+      "a": 1,
+      "exp": "यह विशेष शक्ति संसद को देता है। / assigns this exclusive power to Parliament."
+    },
+    {
+      "id": 65,
+      "topic": "Revision",
+      "difficulty": "Easy",
+      "q": "निम्न में से कौन-से अधिकार केवल भारतीय नागरिकों को उपलब्ध हैं? / which listed rights are available only to Indian citizens?",
+      "opts": [
+        "Articles 15, 16, 19, 29 and 30",
+        "Articles 20 and 21 only",
+        "Articles 23 and 24 only",
+        "Articles 25–28 only"
+      ],
+      "a": 0,
+      "exp": "Articles 15, 16, 19, 29 और 30 सूचीबद्ध हैं। / these Articles."
+    }
+  ]
+}
