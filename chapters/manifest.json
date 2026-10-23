@@ -37,6 +37,16 @@
         "SSC CGL Mains",
         "Railway"
       ]
+    },
+    {
+      "title": "Fundamental Rights",
+      "subject": "Polity",
+      "file": "chapters/fundamental-rights-detailed.json",
+      "exam": [
+        "SSC CGL Pre",
+        "SSC CGL Mains",
+        "Railway"
+      ]
     }
   ]
 }
