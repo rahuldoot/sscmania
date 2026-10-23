@@ -20,7 +20,7 @@
       ]
     },
     {
-      "title": "Fundamental Rights",
+      "title": "Preamble",
       "subject": "Polity",
       "file": "chapters/fundamental-rights.json",
       "exam": [
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "title": "Fundamental Rights",
+      "title": "Fundamental Rights Part 3",
       "subject": "Polity",
       "file": "chapters/fundamental-rights-detailed.json",
       "exam": [
