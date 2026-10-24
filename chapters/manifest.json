@@ -47,6 +47,16 @@
         "SSC CGL Mains",
         "Railway"
       ]
+    },
+    {
+      "title": "DPSP & Fundamental Duties",
+      "subject": "Polity",
+      "file": "chapters/dpsp-fundamental-duties.json",
+      "exam": [
+        "SSC CGL Pre",
+        "SSC CGL Mains",
+        "Railway"
+      ]
     }
   ]
 }
