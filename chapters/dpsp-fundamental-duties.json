@@ -1,0 +1,893 @@
+{
+  "title": "DPSP & Fundamental Duties",
+  "subject": "Polity",
+  "exam": [
+    "SSC CGL Pre",
+    "SSC CGL Mains",
+    "Railway"
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Directive Principles of State Policy are contained in which Part of the Indian Constitution? / भारतीय संविधान के किस भाग में राज्य के नीति-निदेशक तत्व दिए गए हैं?",
+      "opts": [
+        "Part II / भाग II",
+        "Part III / भाग III",
+        "Part IV / भाग IV",
+        "Part IVA / भाग IVA"
+      ],
+      "a": 2,
+      "exp": "DPSPs are contained in Part IV, Articles 36–51. / DPSP भाग IV में अनुच्छेद 36–51 तक दिए गए हैं।"
+    },
+    {
+      "id": 2,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "The Directive Principles of State Policy are contained in which Articles? / राज्य के नीति-निदेशक तत्व किन अनुच्छेदों में हैं?",
+      "opts": [
+        "Articles 12–35 / अनुच्छेद 12–35",
+        "Articles 36–51 / अनुच्छेद 36–51",
+        "Articles 51A–51K / अनुच्छेद 51A–51K",
+        "Articles 52–78 / अनुच्छेद 52–78"
+      ],
+      "a": 1,
+      "exp": "Part IV contains Articles 36 to 51. / भाग IV में अनुच्छेद 36 से 51 तक हैं।"
+    },
+    {
+      "id": 3,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "The idea of DPSPs in the Indian Constitution was borrowed from which country? / भारतीय संविधान में DPSP की अवधारणा किस देश से ली गई?",
+      "opts": [
+        "USA / अमेरिका",
+        "Ireland / आयरलैंड",
+        "Canada / कनाडा",
+        "Australia / ऑस्ट्रेलिया"
+      ],
+      "a": 1,
+      "exp": "The Directive Principles were inspired by the Constitution of Ireland. / नीति-निदेशक तत्व आयरलैंड के संविधान से प्रेरित हैं।"
+    },
+    {
+      "id": 4,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Directive Principles are best described as: / नीति-निदेशक तत्वों का सबसे उचित वर्णन क्या है?",
+      "opts": [
+        "Enforceable by courts / न्यायालयों द्वारा लागू",
+        "Non-justiciable guidelines to the State / राज्य के लिए गैर-न्यायोचित दिशा-निर्देश",
+        "Fundamental rights of foreigners / विदेशियों के मौलिक अधिकार",
+        "Emergency provisions / आपातकालीन प्रावधान"
+      ],
+      "a": 1,
+      "exp": "DPSPs are non-justiciable, but they guide the State in lawmaking and governance. / DPSP न्यायालय द्वारा सीधे लागू नहीं कराए जा सकते, लेकिन कानून और शासन में राज्य का मार्गदर्शन करते हैं।"
+    },
+    {
+      "id": 5,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Which Article defines the term 'State' for Part IV? / भाग IV के लिए 'राज्य' शब्द को कौन-सा अनुच्छेद परिभाषित करता है?",
+      "opts": [
+        "Article 12 / अनुच्छेद 12",
+        "Article 36 / अनुच्छेद 36",
+        "Article 37 / अनुच्छेद 37",
+        "Article 38 / अनुच्छेद 38"
+      ],
+      "a": 1,
+      "exp": "Article 36 adopts the meaning of State used in Part III, Article 12. / अनुच्छेद 36, भाग III के अनुच्छेद 12 में प्रयुक्त 'राज्य' का अर्थ अपनाता है।"
+    },
+    {
+      "id": 6,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Which Article states that DPSPs are not enforceable by any court but are fundamental in governance? / कौन-सा अनुच्छेद कहता है कि DPSP न्यायालय द्वारा लागू नहीं कराए जा सकते, लेकिन शासन में मूलभूत हैं?",
+      "opts": [
+        "Article 36 / अनुच्छेद 36",
+        "Article 37 / अनुच्छेद 37",
+        "Article 39 / अनुच्छेद 39",
+        "Article 51 / अनुच्छेद 51"
+      ],
+      "a": 1,
+      "exp": "Article 37 describes their non-justiciable nature and importance in governance. / अनुच्छेद 37 इनके गैर-न्यायोचित स्वरूप और शासन में महत्त्व को बताता है।"
+    },
+    {
+      "id": 7,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "The main objective of DPSPs is to establish a: / DPSP का मुख्य उद्देश्य किसकी स्थापना करना है?",
+      "opts": [
+        "Police State / पुलिस राज्य",
+        "Welfare State / कल्याणकारी राज्य",
+        "Monarchy / राजतंत्र",
+        "Military State / सैन्य राज्य"
+      ],
+      "a": 1,
+      "exp": "DPSPs aim to promote social and economic democracy and a welfare state. / DPSP सामाजिक और आर्थिक लोकतंत्र तथा कल्याणकारी राज्य को बढ़ावा देते हैं।"
+    },
+    {
+      "id": 8,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Who described DPSPs as the 'conscience of the Constitution'? / DPSP को 'संविधान की अंतरात्मा' किसने कहा?",
+      "opts": [
+        "B. N. Rau / बी. एन. राव",
+        "Granville Austin / ग्रैनविल ऑस्टिन",
+        "K. T. Shah / के. टी. शाह",
+        "K. C. Wheare / के. सी. व्हीयर"
+      ],
+      "a": 1,
+      "exp": "Granville Austin described the Directive Principles as the conscience of the Constitution. / ग्रैनविल ऑस्टिन ने नीति-निदेशक तत्वों को संविधान की अंतरात्मा कहा।"
+    },
+    {
+      "id": 9,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Who called DPSPs 'moral precepts for the authorities of the State'? / DPSP को 'राज्य के अधिकारियों के लिए नैतिक उपदेश' किसने कहा?",
+      "opts": [
+        "B. N. Rau / बी. एन. राव",
+        "K. C. Wheare / के. सी. व्हीयर",
+        "Granville Austin / ग्रैनविल ऑस्टिन",
+        "K. T. Shah / के. टी. शाह"
+      ],
+      "a": 0,
+      "exp": "B. N. Rau used the description 'moral precepts for the authorities of the State'. / बी. एन. राव ने इन्हें राज्य के अधिकारियों के लिए नैतिक उपदेश कहा।"
+    },
+    {
+      "id": 10,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Which Article directs the State to promote the welfare of the people by securing a social order? / सामाजिक व्यवस्था स्थापित करके लोगों का कल्याण बढ़ाने का निर्देश किस अनुच्छेद में है?",
+      "opts": [
+        "Article 38 / अनुच्छेद 38",
+        "Article 40 / अनुच्छेद 40",
+        "Article 44 / अनुच्छेद 44",
+        "Article 50 / अनुच्छेद 50"
+      ],
+      "a": 0,
+      "exp": "Article 38 directs the State to promote welfare through a social order informed by justice. / अनुच्छेद 38 न्याय पर आधारित सामाजिक व्यवस्था द्वारा लोककल्याण को बढ़ावा देता है।"
+    },
+    {
+      "id": 11,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which Article directs the State to minimise inequalities in income, status, facilities and opportunities? / आय, स्थिति, सुविधाओं और अवसरों की असमानताओं को कम करने का निर्देश किस अनुच्छेद में है?",
+      "opts": [
+        "Article 38(2) / अनुच्छेद 38(2)",
+        "Article 41 / अनुच्छेद 41",
+        "Article 45 / अनुच्छेद 45",
+        "Article 48 / अनुच्छेद 48"
+      ],
+      "a": 0,
+      "exp": "Article 38(2) directs the State to minimise inequalities. / अनुच्छेद 38(2) राज्य को असमानताओं को कम करने का निर्देश देता है।"
+    },
+    {
+      "id": 12,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Equal pay for equal work for both men and women is associated with which Article? / पुरुषों और महिलाओं के लिए समान कार्य हेतु समान वेतन किस अनुच्छेद से जुड़ा है?",
+      "opts": [
+        "Article 39(d) / अनुच्छेद 39(d)",
+        "Article 40 / अनुच्छेद 40",
+        "Article 42 / अनुच्छेद 42",
+        "Article 43A / अनुच्छेद 43A"
+      ],
+      "a": 0,
+      "exp": "Article 39(d) directs equal pay for equal work for men and women. / अनुच्छेद 39(d) पुरुषों और महिलाओं के लिए समान कार्य पर समान वेतन का निर्देश देता है।"
+    },
+    {
+      "id": 13,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which Article directs that material resources of the community should be distributed to subserve the common good? / सामुदायिक भौतिक संसाधनों का वितरण सामान्य हित में हो, यह किस अनुच्छेद में है?",
+      "opts": [
+        "Article 39(b) / अनुच्छेद 39(b)",
+        "Article 41 / अनुच्छेद 41",
+        "Article 43 / अनुच्छेद 43",
+        "Article 47 / अनुच्छेद 47"
+      ],
+      "a": 0,
+      "exp": "Article 39(b) concerns distribution of material resources to serve the common good. / अनुच्छेद 39(b) सामान्य हित के लिए भौतिक संसाधनों के वितरण से संबंधित है।"
+    },
+    {
+      "id": 14,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which Article directs the State to prevent concentration of wealth and means of production? / धन और उत्पादन के साधनों के संकेंद्रण को रोकने का निर्देश किस अनुच्छेद में है?",
+      "opts": [
+        "Article 39(c) / अनुच्छेद 39(c)",
+        "Article 40 / अनुच्छेद 40",
+        "Article 44 / अनुच्छेद 44",
+        "Article 49 / अनुच्छेद 49"
+      ],
+      "a": 0,
+      "exp": "Article 39(c) seeks to prevent concentration of wealth and means of production. / अनुच्छेद 39(c) धन और उत्पादन के साधनों के संकेंद्रण को रोकने का उद्देश्य रखता है।"
+    },
+    {
+      "id": 15,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Protection of the health and strength of workers and children against abuse is covered by: / श्रमिकों और बच्चों के स्वास्थ्य व शक्ति को दुरुपयोग से बचाने का प्रावधान किसमें है?",
+      "opts": [
+        "Article 39(e) / अनुच्छेद 39(e)",
+        "Article 42 / अनुच्छेद 42",
+        "Article 46 / अनुच्छेद 46",
+        "Article 51 / अनुच्छेद 51"
+      ],
+      "a": 0,
+      "exp": "Article 39(e) protects the health and strength of workers and children. / अनुच्छेद 39(e) श्रमिकों और बच्चों के स्वास्थ्य व शक्ति की रक्षा करता है।"
+    },
+    {
+      "id": 16,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Which Article provides for equal justice and free legal aid? / समान न्याय और निःशुल्क कानूनी सहायता किस अनुच्छेद में है?",
+      "opts": [
+        "Article 39A / अनुच्छेद 39A",
+        "Article 40 / अनुच्छेद 40",
+        "Article 43 / अनुच्छेद 43",
+        "Article 48A / अनुच्छेद 48A"
+      ],
+      "a": 0,
+      "exp": "Article 39A was added by the 42nd Amendment and provides for equal justice and free legal aid. / अनुच्छेद 39A को 42वें संशोधन से जोड़ा गया और यह समान न्याय व निःशुल्क कानूनी सहायता से संबंधित है।"
+    },
+    {
+      "id": 17,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Organisation of village panchayats is directed by which Article? / ग्राम पंचायतों के संगठन का निर्देश किस अनुच्छेद में है?",
+      "opts": [
+        "Article 39 / अनुच्छेद 39",
+        "Article 40 / अनुच्छेद 40",
+        "Article 43 / अनुच्छेद 43",
+        "Article 46 / अनुच्छेद 46"
+      ],
+      "a": 1,
+      "exp": "Article 40 directs the State to organise village panchayats. / अनुच्छेद 40 राज्य को ग्राम पंचायतों के संगठन का निर्देश देता है।"
+    },
+    {
+      "id": 18,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Right to work, education and public assistance in certain cases is mentioned in: / कुछ स्थितियों में काम, शिक्षा और सार्वजनिक सहायता का प्रावधान किस अनुच्छेद में है?",
+      "opts": [
+        "Article 41 / अनुच्छेद 41",
+        "Article 42 / अनुच्छेद 42",
+        "Article 44 / अनुच्छेद 44",
+        "Article 47 / अनुच्छेद 47"
+      ],
+      "a": 0,
+      "exp": "Article 41 concerns the right to work, education and public assistance within the State's economic capacity. / अनुच्छेद 41 राज्य की आर्थिक क्षमता के भीतर काम, शिक्षा और सार्वजनिक सहायता से संबंधित है।"
+    },
+    {
+      "id": 19,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Just and humane conditions of work and maternity relief are provided under: / न्यायसंगत व मानवीय कार्य-दशाओं तथा मातृत्व सहायता का प्रावधान किस अनुच्छेद में है?",
+      "opts": [
+        "Article 41 / अनुच्छेद 41",
+        "Article 42 / अनुच्छेद 42",
+        "Article 43 / अनुच्छेद 43",
+        "Article 45 / अनुच्छेद 45"
+      ],
+      "a": 1,
+      "exp": "Article 42 directs the State to secure just and humane conditions of work and maternity relief. / अनुच्छेद 42 न्यायसंगत व मानवीय कार्य-दशाओं और मातृत्व सहायता का निर्देश देता है।"
+    },
+    {
+      "id": 20,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Living wage and a decent standard of life for workers are covered by: / श्रमिकों के लिए निर्वाह योग्य वेतन और सम्मानजनक जीवन-स्तर किस अनुच्छेद में है?",
+      "opts": [
+        "Article 43 / अनुच्छेद 43",
+        "Article 43A / अनुच्छेद 43A",
+        "Article 44 / अनुच्छेद 44",
+        "Article 48 / अनुच्छेद 48"
+      ],
+      "a": 0,
+      "exp": "Article 43 promotes living wages and a decent standard of life for workers. / अनुच्छेद 43 श्रमिकों के लिए निर्वाह योग्य वेतन और सम्मानजनक जीवन-स्तर को बढ़ावा देता है।"
+    },
+    {
+      "id": 21,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Workers' participation in the management of industries is provided under: / उद्योगों के प्रबंधन में श्रमिकों की भागीदारी किस अनुच्छेद में है?",
+      "opts": [
+        "Article 39A / अनुच्छेद 39A",
+        "Article 43A / अनुच्छेद 43A",
+        "Article 43B / अनुच्छेद 43B",
+        "Article 44 / अनुच्छेद 44"
+      ],
+      "a": 1,
+      "exp": "Article 43A was added by the 42nd Amendment. / अनुच्छेद 43A को 42वें संशोधन द्वारा जोड़ा गया।"
+    },
+    {
+      "id": 22,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Promotion of cooperative societies is associated with which Article? / सहकारी समितियों को बढ़ावा देना किस अनुच्छेद से संबंधित है?",
+      "opts": [
+        "Article 43A / अनुच्छेद 43A",
+        "Article 43B / अनुच्छेद 43B",
+        "Article 44 / अनुच्छेद 44",
+        "Article 45 / अनुच्छेद 45"
+      ],
+      "a": 1,
+      "exp": "Article 43B concerns the promotion of cooperative societies and was added by the 97th Amendment. / अनुच्छेद 43B सहकारी समितियों को बढ़ावा देने से संबंधित है और 97वें संशोधन से जोड़ा गया।"
+    },
+    {
+      "id": 23,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Uniform Civil Code for citizens is mentioned in which Article? / नागरिकों के लिए समान नागरिक संहिता किस अनुच्छेद में है?",
+      "opts": [
+        "Article 42 / अनुच्छेद 42",
+        "Article 44 / अनुच्छेद 44",
+        "Article 45 / अनुच्छेद 45",
+        "Article 50 / अनुच्छेद 50"
+      ],
+      "a": 1,
+      "exp": "Article 44 directs the State to endeavour to secure a Uniform Civil Code. / अनुच्छेद 44 राज्य को समान नागरिक संहिता सुनिश्चित करने का प्रयास करने का निर्देश देता है।"
+    },
+    {
+      "id": 24,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Early childhood care and education for children below six years is provided under: / छह वर्ष से कम आयु के बच्चों की प्रारंभिक देखभाल और शिक्षा किस अनुच्छेद में है?",
+      "opts": [
+        "Article 41 / अनुच्छेद 41",
+        "Article 45 / अनुच्छेद 45",
+        "Article 46 / अनुच्छेद 46",
+        "Article 47 / अनुच्छेद 47"
+      ],
+      "a": 1,
+      "exp": "After the 86th Amendment, Article 45 focuses on early childhood care and education for children below six. / 86वें संशोधन के बाद अनुच्छेद 45 छह वर्ष से कम बच्चों की प्रारंभिक देखभाल और शिक्षा पर केंद्रित है।"
+    },
+    {
+      "id": 25,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Promotion of educational and economic interests of SCs, STs and weaker sections is covered by: / SC, ST और कमजोर वर्गों के शैक्षिक व आर्थिक हितों का संवर्धन किस अनुच्छेद में है?",
+      "opts": [
+        "Article 45 / अनुच्छेद 45",
+        "Article 46 / अनुच्छेद 46",
+        "Article 47 / अनुच्छेद 47",
+        "Article 48 / अनुच्छेद 48"
+      ],
+      "a": 1,
+      "exp": "Article 46 promotes educational and economic interests of weaker sections, especially SCs and STs. / अनुच्छेद 46 कमजोर वर्गों, विशेषकर SC और ST के शैक्षिक व आर्थिक हितों को बढ़ावा देता है।"
+    },
+    {
+      "id": 26,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Raising nutrition levels, standard of living and public health is a duty of the State under: / पोषण स्तर, जीवन-स्तर और सार्वजनिक स्वास्थ्य सुधारना किस अनुच्छेद के अंतर्गत राज्य का कर्तव्य है?",
+      "opts": [
+        "Article 46 / अनुच्छेद 46",
+        "Article 47 / अनुच्छेद 47",
+        "Article 48 / अनुच्छेद 48",
+        "Article 49 / अनुच्छेद 49"
+      ],
+      "a": 1,
+      "exp": "Article 47 makes improvement of nutrition, living standards and public health among the State's primary duties. / अनुच्छेद 47 पोषण, जीवन-स्तर और सार्वजनिक स्वास्थ्य में सुधार को राज्य के प्रमुख कर्तव्यों में रखता है।"
+    },
+    {
+      "id": 27,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Organisation of agriculture and animal husbandry on modern and scientific lines is under: / कृषि और पशुपालन को आधुनिक व वैज्ञानिक तरीके से संगठित करने का निर्देश किस अनुच्छेद में है?",
+      "opts": [
+        "Article 47 / अनुच्छेद 47",
+        "Article 48 / अनुच्छेद 48",
+        "Article 48A / अनुच्छेद 48A",
+        "Article 49 / अनुच्छेद 49"
+      ],
+      "a": 1,
+      "exp": "Article 48 addresses organisation of agriculture and animal husbandry and preservation of specified cattle. / अनुच्छेद 48 कृषि-पशुपालन के संगठन और निर्दिष्ट पशुओं के संरक्षण से संबंधित है।"
+    },
+    {
+      "id": 28,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Protection and improvement of the environment and safeguarding forests and wildlife are covered by: / पर्यावरण के संरक्षण-सुधार तथा वन और वन्यजीवों की रक्षा किस अनुच्छेद में है?",
+      "opts": [
+        "Article 48 / अनुच्छेद 48",
+        "Article 48A / अनुच्छेद 48A",
+        "Article 49 / अनुच्छेद 49",
+        "Article 50 / अनुच्छेद 50"
+      ],
+      "a": 1,
+      "exp": "Article 48A was added by the 42nd Amendment. / अनुच्छेद 48A को 42वें संशोधन द्वारा जोड़ा गया।"
+    },
+    {
+      "id": 29,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Protection of monuments and places of national importance is provided under: / राष्ट्रीय महत्त्व के स्मारकों और स्थानों की रक्षा किस अनुच्छेद में है?",
+      "opts": [
+        "Article 49 / अनुच्छेद 49",
+        "Article 50 / अनुच्छेद 50",
+        "Article 51 / अनुच्छेद 51",
+        "Article 48A / अनुच्छेद 48A"
+      ],
+      "a": 0,
+      "exp": "Article 49 concerns protection of monuments and objects of national importance. / अनुच्छेद 49 राष्ट्रीय महत्त्व के स्मारकों और वस्तुओं के संरक्षण से संबंधित है।"
+    },
+    {
+      "id": 30,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Separation of the judiciary from the executive in public services is directed by: / सार्वजनिक सेवाओं में न्यायपालिका को कार्यपालिका से अलग करने का निर्देश किस अनुच्छेद में है?",
+      "opts": [
+        "Article 48A / अनुच्छेद 48A",
+        "Article 49 / अनुच्छेद 49",
+        "Article 50 / अनुच्छेद 50",
+        "Article 51 / अनुच्छेद 51"
+      ],
+      "a": 2,
+      "exp": "Article 50 directs separation of the judiciary from the executive in the public services of the State. / अनुच्छेद 50 राज्य की सार्वजनिक सेवाओं में न्यायपालिका को कार्यपालिका से अलग करने का निर्देश देता है।"
+    },
+    {
+      "id": 31,
+      "topic": "DPSP",
+      "difficulty": "Easy",
+      "q": "Promotion of international peace and security is mentioned in: / अंतरराष्ट्रीय शांति और सुरक्षा को बढ़ावा देने का प्रावधान किस अनुच्छेद में है?",
+      "opts": [
+        "Article 49 / अनुच्छेद 49",
+        "Article 50 / अनुच्छेद 50",
+        "Article 51 / अनुच्छेद 51",
+        "Article 52 / अनुच्छेद 52"
+      ],
+      "a": 2,
+      "exp": "Article 51 promotes international peace, security and respect for international law. / अनुच्छेद 51 अंतरराष्ट्रीय शांति, सुरक्षा और अंतरराष्ट्रीय कानून के सम्मान को बढ़ावा देता है।"
+    },
+    {
+      "id": 32,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which of the following is a Gandhian Directive Principle? / निम्नलिखित में से कौन-सा गांधीवादी नीति-निदेशक तत्व है?",
+      "opts": [
+        "Uniform Civil Code / समान नागरिक संहिता",
+        "Organisation of village panchayats / ग्राम पंचायतों का संगठन",
+        "Separation of judiciary and executive / न्यायपालिका-कार्यपालिका पृथक्करण",
+        "International peace / अंतरराष्ट्रीय शांति"
+      ],
+      "a": 1,
+      "exp": "Organisation of village panchayats under Article 40 is commonly classified as a Gandhian principle. / अनुच्छेद 40 के अंतर्गत ग्राम पंचायतों का संगठन सामान्यतः गांधीवादी सिद्धांत माना जाता है।"
+    },
+    {
+      "id": 33,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which of the following is commonly classified as a Liberal-Intellectual principle? / निम्नलिखित में से किसे सामान्यतः उदार-बौद्धिक सिद्धांत माना जाता है?",
+      "opts": [
+        "Organisation of village panchayats / ग्राम पंचायतों का संगठन",
+        "Prohibition of intoxicants / नशीले पदार्थों पर रोक",
+        "Uniform Civil Code / समान नागरिक संहिता",
+        "Promotion of cottage industries / कुटीर उद्योगों को बढ़ावा"
+      ],
+      "a": 2,
+      "exp": "Article 44, the Uniform Civil Code, is commonly classified as a Liberal-Intellectual principle. / अनुच्छेद 44 का समान नागरिक संहिता प्रावधान उदार-बौद्धिक सिद्धांत माना जाता है।"
+    },
+    {
+      "id": 34,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which Article was added by the 42nd Constitutional Amendment to provide equal justice and free legal aid? / समान न्याय और निःशुल्क कानूनी सहायता के लिए 42वें संशोधन से कौन-सा अनुच्छेद जोड़ा गया?",
+      "opts": [
+        "Article 39 / अनुच्छेद 39",
+        "Article 39A / अनुच्छेद 39A",
+        "Article 43A / अनुच्छेद 43A",
+        "Article 48A / अनुच्छेद 48A"
+      ],
+      "a": 1,
+      "exp": "Article 39A was inserted by the 42nd Amendment Act, 1976. / अनुच्छेद 39A को 42वें संविधान संशोधन अधिनियम, 1976 द्वारा जोड़ा गया।"
+    },
+    {
+      "id": 35,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which amendment added Article 48A on environment protection? / पर्यावरण संरक्षण से संबंधित अनुच्छेद 48A किस संशोधन द्वारा जोड़ा गया?",
+      "opts": [
+        "24th Amendment / 24वाँ संशोधन",
+        "42nd Amendment / 42वाँ संशोधन",
+        "44th Amendment / 44वाँ संशोधन",
+        "86th Amendment / 86वाँ संशोधन"
+      ],
+      "a": 1,
+      "exp": "Article 48A was added by the 42nd Amendment in 1976. / अनुच्छेद 48A को 1976 के 42वें संशोधन द्वारा जोड़ा गया।"
+    },
+    {
+      "id": 36,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which amendment added Article 43B concerning cooperative societies? / सहकारी समितियों से संबंधित अनुच्छेद 43B किस संशोधन से जोड़ा गया?",
+      "opts": [
+        "42nd Amendment / 42वाँ संशोधन",
+        "44th Amendment / 44वाँ संशोधन",
+        "86th Amendment / 86वाँ संशोधन",
+        "97th Amendment / 97वाँ संशोधन"
+      ],
+      "a": 3,
+      "exp": "Article 43B was added by the 97th Constitutional Amendment Act, 2011. / अनुच्छेद 43B को 2011 के 97वें संविधान संशोधन अधिनियम से जोड़ा गया।"
+    },
+    {
+      "id": 37,
+      "topic": "DPSP",
+      "difficulty": "Medium",
+      "q": "Which amendment changed Article 45 to focus on early childhood care and education below six years? / छह वर्ष से कम बच्चों की प्रारंभिक देखभाल और शिक्षा पर केंद्रित करने के लिए अनुच्छेद 45 किस संशोधन से बदला गया?",
+      "opts": [
+        "42nd Amendment / 42वाँ संशोधन",
+        "44th Amendment / 44वाँ संशोधन",
+        "86th Amendment / 86वाँ संशोधन",
+        "97th Amendment / 97वाँ संशोधन"
+      ],
+      "a": 2,
+      "exp": "The 86th Amendment Act, 2002 changed Article 45 and inserted Article 21A. / 86वें संशोधन अधिनियम, 2002 ने अनुच्छेद 45 में बदलाव किया और अनुच्छेद 21A जोड़ा।"
+    },
+    {
+      "id": 38,
+      "topic": "DPSP",
+      "difficulty": "Hard",
+      "q": "In the Champakam Dorairajan case (1951), which principle prevailed in case of conflict? / चंपकम दोरैराजन मामले (1951) में टकराव की स्थिति में किसे प्राथमिकता दी गई?",
+      "opts": [
+        "DPSPs over Fundamental Rights / DPSP को मौलिक अधिकारों पर",
+        "Fundamental Rights over DPSPs / मौलिक अधिकारों को DPSP पर",
+        "Both were equally enforceable / दोनों समान रूप से लागू",
+        "Neither had constitutional status / किसी का संवैधानिक दर्जा नहीं"
+      ],
+      "a": 1,
+      "exp": "The judgment held that Fundamental Rights prevailed over conflicting DPSPs. / निर्णय में कहा गया कि टकराव होने पर मौलिक अधिकारों को DPSP पर प्राथमिकता मिलेगी।"
+    },
+    {
+      "id": 39,
+      "topic": "DPSP",
+      "difficulty": "Hard",
+      "q": "Which case held that the Preamble is part of the Constitution and Parliament can amend Fundamental Rights subject to the Basic Structure doctrine? / किस मामले में प्रस्तावना को संविधान का भाग माना गया और मूल संरचना सिद्धांत के अधीन मौलिक अधिकारों में संशोधन की बात कही गई?",
+      "opts": [
+        "Golaknath (1967) / गोलकनाथ (1967)",
+        "Kesavananda Bharati (1973) / केशवानंद भारती (1973)",
+        "Champakam Dorairajan (1951) / चंपकम दोरैराजन (1951)",
+        "Minerva Mills (1980) / मिनर्वा मिल्स (1980)"
+      ],
+      "a": 1,
+      "exp": "Kesavananda Bharati (1973) recognised the Preamble as part of the Constitution and established the Basic Structure limitation. / केशवानंद भारती (1973) ने प्रस्तावना को संविधान का भाग माना और मूल संरचना की सीमा स्थापित की।"
+    },
+    {
+      "id": 40,
+      "topic": "DPSP",
+      "difficulty": "Hard",
+      "q": "Which case is associated with the principle of balance between Fundamental Rights and DPSPs? / मौलिक अधिकारों और DPSP के बीच संतुलन के सिद्धांत से कौन-सा मामला जुड़ा है?",
+      "opts": [
+        "Minerva Mills (1980) / मिनर्वा मिल्स (1980)",
+        "Berubari Union (1960) / बेरुबारी संघ (1960)",
+        "Golaknath (1967) / गोलकनाथ (1967)",
+        "Shankari Prasad (1951) / शंकरी प्रसाद (1951)"
+      ],
+      "a": 0,
+      "exp": "Minerva Mills emphasised harmony and balance between Fundamental Rights and Directive Principles. / मिनर्वा मिल्स ने मौलिक अधिकारों और नीति-निदेशक तत्वों के बीच सामंजस्य व संतुलन पर बल दिया।"
+    },
+    {
+      "id": 41,
+      "topic": "DPSP",
+      "difficulty": "Hard",
+      "q": "Article 31C originally protected laws implementing which DPSPs from challenge under Articles 14 and 19? / अनुच्छेद 31C मूलतः किन DPSP को लागू करने वाले कानूनों को अनुच्छेद 14 और 19 की चुनौती से संरक्षण देता था?",
+      "opts": [
+        "Articles 38 and 40 / अनुच्छेद 38 और 40",
+        "Article 39(b) and 39(c) / अनुच्छेद 39(b) और 39(c)",
+        "Articles 44 and 45 / अनुच्छेद 44 और 45",
+        "Article 48A and 51 / अनुच्छेद 48A और 51"
+      ],
+      "a": 1,
+      "exp": "Article 31C was introduced to protect laws giving effect to Article 39(b) and (c), subject to constitutional interpretation. / अनुच्छेद 31C को अनुच्छेद 39(b) और (c) को लागू करने वाले कानूनों के संरक्षण हेतु जोड़ा गया था।"
+    },
+    {
+      "id": 42,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Fundamental Duties are contained in which Part of the Constitution? / संविधान के किस भाग में मौलिक कर्तव्य दिए गए हैं?",
+      "opts": [
+        "Part III / भाग III",
+        "Part IV / भाग IV",
+        "Part IVA / भाग IVA",
+        "Part V / भाग V"
+      ],
+      "a": 2,
+      "exp": "Fundamental Duties are contained in Part IVA, Article 51A. / मौलिक कर्तव्य भाग IVA के अनुच्छेद 51A में हैं।"
+    },
+    {
+      "id": 43,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Fundamental Duties are listed under which Article? / मौलिक कर्तव्य किस अनुच्छेद में सूचीबद्ध हैं?",
+      "opts": [
+        "Article 32 / अनुच्छेद 32",
+        "Article 44 / अनुच्छेद 44",
+        "Article 51 / अनुच्छेद 51",
+        "Article 51A / अनुच्छेद 51A"
+      ],
+      "a": 3,
+      "exp": "Article 51A lists the Fundamental Duties of citizens. / अनुच्छेद 51A नागरिकों के मौलिक कर्तव्यों को सूचीबद्ध करता है।"
+    },
+    {
+      "id": 44,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Fundamental Duties were added to the Constitution by which amendment? / मौलिक कर्तव्य किस संविधान संशोधन द्वारा जोड़े गए?",
+      "opts": [
+        "24th Amendment / 24वाँ संशोधन",
+        "42nd Amendment / 42वाँ संशोधन",
+        "44th Amendment / 44वाँ संशोधन",
+        "86th Amendment / 86वाँ संशोधन"
+      ],
+      "a": 1,
+      "exp": "The 42nd Amendment Act, 1976 added ten Fundamental Duties. / 42वें संशोधन अधिनियम, 1976 ने दस मौलिक कर्तव्य जोड़े।"
+    },
+    {
+      "id": 45,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "The recommendation to include Fundamental Duties was made by which committee? / मौलिक कर्तव्यों को शामिल करने की सिफारिश किस समिति ने की?",
+      "opts": [
+        "Sarkaria Commission / सरकारिया आयोग",
+        "Swaran Singh Committee / स्वर्ण सिंह समिति",
+        "Balwant Rai Mehta Committee / बलवंत राय मेहता समिति",
+        "Punchhi Commission / पुंछी आयोग"
+      ],
+      "a": 1,
+      "exp": "The Swaran Singh Committee recommended the inclusion of Fundamental Duties. / स्वर्ण सिंह समिति ने मौलिक कर्तव्यों को शामिल करने की सिफारिश की।"
+    },
+    {
+      "id": 46,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "How many Fundamental Duties were originally added in 1976? / 1976 में मूल रूप से कितने मौलिक कर्तव्य जोड़े गए?",
+      "opts": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "a": 1,
+      "exp": "Ten duties were added by the 42nd Amendment in 1976. / 1976 में 42वें संशोधन द्वारा दस कर्तव्य जोड़े गए।"
+    },
+    {
+      "id": 47,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "How many Fundamental Duties are currently listed in Article 51A? / वर्तमान में अनुच्छेद 51A में कितने मौलिक कर्तव्य सूचीबद्ध हैं?",
+      "opts": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "a": 1,
+      "exp": "There are 11 Fundamental Duties; clause (k) was added later by the 86th Amendment. / वर्तमान में 11 मौलिक कर्तव्य हैं; खंड (k) बाद में 86वें संशोधन से जोड़ा गया।"
+    },
+    {
+      "id": 48,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Fundamental Duties were inspired by the Constitution of which country? / मौलिक कर्तव्य किस देश के संविधान से प्रेरित हैं?",
+      "opts": [
+        "Ireland / आयरलैंड",
+        "United Kingdom / यूनाइटेड किंगडम",
+        "USSR (former Soviet Union) / USSR (पूर्व सोवियत संघ)",
+        "France / फ्रांस"
+      ],
+      "a": 2,
+      "exp": "The concept was inspired by the former USSR. / यह अवधारणा पूर्व सोवियत संघ से प्रेरित थी।"
+    },
+    {
+      "id": 49,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Fundamental Duties apply to: / मौलिक कर्तव्य किस पर लागू होते हैं?",
+      "opts": [
+        "All persons in India / भारत में सभी व्यक्तियों पर",
+        "Only foreign citizens / केवल विदेशी नागरिकों पर",
+        "Indian citizens / भारतीय नागरिकों पर",
+        "Only government employees / केवल सरकारी कर्मचारियों पर"
+      ],
+      "a": 2,
+      "exp": "Article 51A places these duties on citizens, not on foreigners generally. / अनुच्छेद 51A ये कर्तव्य नागरिकों पर लागू करता है, सामान्यतः विदेशियों पर नहीं।"
+    },
+    {
+      "id": 50,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Which Fundamental Duty was added by the 86th Amendment Act, 2002? / 86वें संशोधन अधिनियम, 2002 द्वारा कौन-सा मौलिक कर्तव्य जोड़ा गया?",
+      "opts": [
+        "To protect the environment / पर्यावरण की रक्षा करना",
+        "To develop scientific temper / वैज्ञानिक दृष्टिकोण विकसित करना",
+        "Parent or guardian to provide educational opportunities to children aged 6–14 / माता-पिता या अभिभावक द्वारा 6–14 वर्ष के बच्चों को शिक्षा के अवसर देना",
+        "To safeguard public property / सार्वजनिक संपत्ति की रक्षा करना"
+      ],
+      "a": 2,
+      "exp": "Article 51A(k) requires a parent or guardian to provide educational opportunities to a child or ward aged 6–14. / अनुच्छेद 51A(k) माता-पिता या अभिभावक को 6–14 वर्ष के बच्चे को शिक्षा के अवसर देने का कर्तव्य देता है।"
+    },
+    {
+      "id": 51,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Respect for the National Flag and National Anthem is part of which Fundamental Duty? / राष्ट्रीय ध्वज और राष्ट्रगान का सम्मान किस मौलिक कर्तव्य का भाग है?",
+      "opts": [
+        "Article 51A(a) / अनुच्छेद 51A(a)",
+        "Article 51A(c) / अनुच्छेद 51A(c)",
+        "Article 51A(g) / अनुच्छेद 51A(g)",
+        "Article 51A(j) / अनुच्छेद 51A(j)"
+      ],
+      "a": 0,
+      "exp": "Article 51A(a) requires citizens to abide by the Constitution and respect its ideals, institutions, Flag and Anthem. / अनुच्छेद 51A(a) संविधान का पालन करने और उसके आदर्शों, संस्थाओं, ध्वज व राष्ट्रगान का सम्मान करने का कर्तव्य देता है।"
+    },
+    {
+      "id": 52,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Which duty concerns protecting the sovereignty, unity and integrity of India? / भारत की संप्रभुता, एकता और अखंडता की रक्षा किस मौलिक कर्तव्य में है?",
+      "opts": [
+        "Article 51A(b) / अनुच्छेद 51A(b)",
+        "Article 51A(c) / अनुच्छेद 51A(c)",
+        "Article 51A(d) / अनुच्छेद 51A(d)",
+        "Article 51A(e) / अनुच्छेद 51A(e)"
+      ],
+      "a": 1,
+      "exp": "Article 51A(c) requires citizens to uphold and protect India's sovereignty, unity and integrity. / अनुच्छेद 51A(c) भारत की संप्रभुता, एकता और अखंडता को बनाए रखने व सुरक्षित रखने का कर्तव्य देता है।"
+    },
+    {
+      "id": 53,
+      "topic": "Fundamental Duties",
+      "difficulty": "Medium",
+      "q": "Renouncing practices derogatory to the dignity of women is included in which duty? / महिलाओं की गरिमा के विरुद्ध प्रथाओं का त्याग किस मौलिक कर्तव्य में है?",
+      "opts": [
+        "Article 51A(a) / अनुच्छेद 51A(a)",
+        "Article 51A(d) / अनुच्छेद 51A(d)",
+        "Article 51A(e) / अनुच्छेद 51A(e)",
+        "Article 51A(f) / अनुच्छेद 51A(f)"
+      ],
+      "a": 2,
+      "exp": "Article 51A(e) promotes harmony and common brotherhood and renunciation of practices derogatory to women's dignity. / अनुच्छेद 51A(e) सद्भाव व बंधुता को बढ़ावा देता है और महिलाओं की गरिमा के विरुद्ध प्रथाओं के त्याग की बात करता है।"
+    },
+    {
+      "id": 54,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Which Fundamental Duty relates to protecting and improving the natural environment? / प्राकृतिक पर्यावरण की रक्षा और सुधार किस मौलिक कर्तव्य से संबंधित है?",
+      "opts": [
+        "Article 51A(f) / अनुच्छेद 51A(f)",
+        "Article 51A(g) / अनुच्छेद 51A(g)",
+        "Article 51A(h) / अनुच्छेद 51A(h)",
+        "Article 51A(i) / अनुच्छेद 51A(i)"
+      ],
+      "a": 1,
+      "exp": "Article 51A(g) includes forests, lakes, rivers, wildlife and compassion for living creatures. / अनुच्छेद 51A(g) में वन, झीलें, नदियाँ, वन्यजीव और जीवों के प्रति करुणा शामिल हैं।"
+    },
+    {
+      "id": 55,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Developing scientific temper, humanism and the spirit of inquiry and reform is which duty? / वैज्ञानिक दृष्टिकोण, मानववाद तथा जिज्ञासा और सुधार की भावना विकसित करना कौन-सा कर्तव्य है?",
+      "opts": [
+        "Article 51A(g) / अनुच्छेद 51A(g)",
+        "Article 51A(h) / अनुच्छेद 51A(h)",
+        "Article 51A(i) / अनुच्छेद 51A(i)",
+        "Article 51A(j) / अनुच्छेद 51A(j)"
+      ],
+      "a": 1,
+      "exp": "Article 51A(h) concerns scientific temper, humanism, inquiry and reform. / अनुच्छेद 51A(h) वैज्ञानिक दृष्टिकोण, मानववाद, जिज्ञासा और सुधार से संबंधित है।"
+    },
+    {
+      "id": 56,
+      "topic": "Fundamental Duties",
+      "difficulty": "Easy",
+      "q": "Safeguarding public property and abjuring violence is covered by: / सार्वजनिक संपत्ति की रक्षा और हिंसा का त्याग किस कर्तव्य में है?",
+      "opts": [
+        "Article 51A(e) / अनुच्छेद 51A(e)",
+        "Article 51A(g) / अनुच्छेद 51A(g)",
+        "Article 51A(i) / अनुच्छेद 51A(i)",
+        "Article 51A(k) / अनुच्छेद 51A(k)"
+      ],
+      "a": 2,
+      "exp": "Article 51A(i) requires citizens to safeguard public property and abjure violence. / अनुच्छेद 51A(i) सार्वजनिक संपत्ति की रक्षा और हिंसा का त्याग करने का कर्तव्य देता है।"
+    },
+    {
+      "id": 57,
+      "topic": "Fundamental Duties",
+      "difficulty": "Medium",
+      "q": "Striving towards excellence in all spheres of individual and collective activity is covered by: / व्यक्तिगत और सामूहिक गतिविधियों के सभी क्षेत्रों में उत्कृष्टता के लिए प्रयास किस कर्तव्य में है?",
+      "opts": [
+        "Article 51A(h) / अनुच्छेद 51A(h)",
+        "Article 51A(i) / अनुच्छेद 51A(i)",
+        "Article 51A(j) / अनुच्छेद 51A(j)",
+        "Article 51A(k) / अनुच्छेद 51A(k)"
+      ],
+      "a": 2,
+      "exp": "Article 51A(j) asks citizens to strive towards excellence so the nation rises to higher levels of endeavour and achievement. / अनुच्छेद 51A(j) नागरिकों से उत्कृष्टता हेतु प्रयास करने को कहता है ताकि राष्ट्र उपलब्धियों के उच्च स्तर तक पहुँचे।"
+    },
+    {
+      "id": 58,
+      "topic": "Fundamental Duties",
+      "difficulty": "Medium",
+      "q": "Which statement about Fundamental Duties is correct? / मौलिक कर्तव्यों के बारे में कौन-सा कथन सही है?",
+      "opts": [
+        "They were part of the original Constitution / वे मूल संविधान का हिस्सा थे",
+        "They are directly enforceable by courts in every case / वे हर स्थिति में न्यायालय द्वारा सीधे लागू कराए जा सकते हैं",
+        "They are generally non-justiciable, though laws may enforce specific duties / वे सामान्यतः गैर-न्यायोचित हैं, हालांकि कानून कुछ कर्तव्यों को लागू कर सकते हैं",
+        "They apply only during emergencies / वे केवल आपातकाल में लागू होते हैं"
+      ],
+      "a": 2,
+      "exp": "Fundamental Duties are generally non-justiciable by themselves, but Parliament or legislatures may enact laws related to them. / मौलिक कर्तव्य अपने आप सामान्यतः न्यायालय द्वारा लागू नहीं कराए जाते, लेकिन इनके संबंध में कानून बनाए जा सकते हैं।"
+    },
+    {
+      "id": 59,
+      "topic": "Fundamental Duties",
+      "difficulty": "Medium",
+      "q": "Which committee is associated with examining ways to operationalise Fundamental Duties and civic education? / मौलिक कर्तव्यों के क्रियान्वयन और नागरिक शिक्षा से संबंधित समिति कौन-सी है?",
+      "opts": [
+        "Justice Verma Committee / न्यायमूर्ति वर्मा समिति",
+        "Swaran Singh Committee / स्वर्ण सिंह समिति",
+        "Mandal Commission / मंडल आयोग",
+        "Kothari Commission / कोठारी आयोग"
+      ],
+      "a": 0,
+      "exp": "The Justice Verma Committee examined legal provisions and ways to promote awareness of Fundamental Duties. / न्यायमूर्ति वर्मा समिति ने मौलिक कर्तव्यों से जुड़े कानूनी प्रावधानों और जागरूकता पर विचार किया।"
+    },
+    {
+      "id": 60,
+      "topic": "DPSP and Duties",
+      "difficulty": "Easy",
+      "q": "Which statement best distinguishes Fundamental Rights from DPSPs? / मौलिक अधिकारों और DPSP में अंतर को कौन-सा कथन सही बताता है?",
+      "opts": [
+        "Both are directly enforceable by courts / दोनों न्यायालय द्वारा सीधे लागू होते हैं",
+        "Fundamental Rights are generally justiciable; DPSPs are non-justiciable / मौलिक अधिकार सामान्यतः न्यायोचित हैं; DPSP गैर-न्यायोचित हैं",
+        "DPSPs apply only to citizens / DPSP केवल नागरिकों पर लागू होते हैं",
+        "Fundamental Rights are in Part IV / मौलिक अधिकार भाग IV में हैं"
+      ],
+      "a": 1,
+      "exp": "Fundamental Rights are enforceable through constitutional remedies, while DPSPs guide the State but are not directly enforceable. / मौलिक अधिकार संवैधानिक उपचारों द्वारा लागू कराए जा सकते हैं, जबकि DPSP राज्य का मार्गदर्शन करते हैं पर सीधे लागू नहीं होते।"
+    },
+    {
+      "id": 61,
+      "topic": "DPSP and Duties",
+      "difficulty": "Medium",
+      "q": "Which of the following pairs is correctly matched? / निम्नलिखित में से कौन-सा युग्म सही सुमेलित है?",
+      "opts": [
+        "Article 40 — Uniform Civil Code / अनुच्छेद 40 — समान नागरिक संहिता",
+        "Article 44 — Organisation of village panchayats / अनुच्छेद 44 — ग्राम पंचायतों का संगठन",
+        "Article 50 — Separation of judiciary from executive / अनुच्छेद 50 — न्यायपालिका को कार्यपालिका से अलग करना",
+        "Article 51 — Free legal aid / अनुच्छेद 51 — निःशुल्क कानूनी सहायता"
+      ],
+      "a": 2,
+      "exp": "Article 50 directs separation of the judiciary from the executive. / अनुच्छेद 50 न्यायपालिका को कार्यपालिका से अलग करने का निर्देश देता है।"
+    },
+    {
+      "id": 62,
+      "topic": "DPSP and Duties",
+      "difficulty": "Easy",
+      "q": "Which one is a Fundamental Duty rather than a DPSP? / निम्नलिखित में से कौन-सा DPSP के बजाय मौलिक कर्तव्य है?",
+      "opts": [
+        "Promotion of village panchayats / ग्राम पंचायतों को बढ़ावा देना",
+        "Uniform Civil Code / समान नागरिक संहिता",
+        "Protection of monuments / स्मारकों का संरक्षण",
+        "To develop scientific temper / वैज्ञानिक दृष्टिकोण विकसित करना"
+      ],
+      "a": 3,
+      "exp": "Developing scientific temper is a Fundamental Duty under Article 51A(h). / वैज्ञानिक दृष्टिकोण विकसित करना अनुच्छेद 51A(h) के अंतर्गत मौलिक कर्तव्य है।"
+    },
+    {
+      "id": 63,
+      "topic": "DPSP and Duties",
+      "difficulty": "Medium",
+      "q": "Which Article of the Constitution contains the duty of the State to protect and improve the environment, while a related citizen duty is in Article 51A(g)? / पर्यावरण की रक्षा और सुधार का राज्य का कर्तव्य किस अनुच्छेद में है, जबकि नागरिक का संबंधित कर्तव्य अनुच्छेद 51A(g) में है?",
+      "opts": [
+        "Article 39A / अनुच्छेद 39A",
+        "Article 44 / अनुच्छेद 44",
+        "Article 48A / अनुच्छेद 48A",
+        "Article 50 / अनुच्छेद 50"
+      ],
+      "a": 2,
+      "exp": "Article 48A places an environmental protection duty on the State; Article 51A(g) places a related duty on citizens. / अनुच्छेद 48A राज्य पर और अनुच्छेद 51A(g) नागरिकों पर पर्यावरण संरक्षण से संबंधित कर्तव्य रखता है।"
+    }
+  ]
+}
